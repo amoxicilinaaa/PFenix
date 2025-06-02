@@ -1,0 +1,36 @@
+[09/03/2025 12:19:53] Pokemon Dash Advanced, version 0.3.6 (PDA)
+[09/03/2025 12:19:53] Compiled with GNU C++ version 4.4.0 at Jan  1 2025, 15:31:04.
+[09/03/2025 12:19:53] A server developed by Elf, slawkens, Talaturen, KaczooH, Lithium, Kiper, Kornholijo.
+[09/03/2025 12:19:53] Visit our forum for updates, support and resources: http://otland.net.
+[09/03/2025 12:19:53] 
+[09/03/2025 12:19:53] >> Loading config (config.lua)
+[09/03/2025 12:19:53] > Using SHA1 encryption
+[09/03/2025 12:19:53] >> Loading RSA key
+[09/03/2025 12:19:53] >> Starting SQL connection
+[09/03/2025 12:19:55] Failed connecting to database - MYSQL ERROR: Can't connect to MySQL server on 'localhost' (10061) (2003)
+[09/03/2025 12:19:55] 
+[09/03/2025 12:19:55] > ERROR: Couldn't estabilish connection to SQL database!
+[09/03/2025 12:58:55] Pokemon Dash Advanced, version 0.3.6 (PDA)
+[09/03/2025 12:58:55] Compiled with GNU C++ version 4.4.0 at Jan  1 2025, 15:31:04.
+[09/03/2025 12:58:55] A server developed by Elf, slawkens, Talaturen, KaczooH, Lithium, Kiper, Kornholijo.
+[09/03/2025 12:58:55] Visit our forum for updates, support and resources: http://otland.net.
+[09/03/2025 12:58:55] 
+[09/03/2025 12:58:55] >> Loading config (config.lua)
+[09/03/2025 12:58:55] > Using SHA1 encryption
+[09/03/2025 12:58:55] >> Loading RSA key
+[09/03/2025 12:58:55] >> Starting SQL connection
+[09/03/2025 12:58:57] Failed connecting to database - MYSQL ERROR: Can't connect to MySQL server on 'localhost' (10061) (2003)
+[09/03/2025 12:58:57] 
+[09/03/2025 12:58:57] > ERROR: Couldn't estabilish connection to SQL database!
+[09/03/2025 16:49:20] Pokemon Dash Advanced, version 0.3.6 (PDA)
+[09/03/2025 16:49:20] Compiled with GNU C++ version 4.4.0 at Jan  1 2025, 15:31:04.
+[09/03/2025 16:49:20] A server developed by Elf, slawkens, Talaturen, KaczooH, Lithium, Kiper, Kornholijo.
+[09/03/2025 16:49:20] Visit our forum for updates, support and resources: http://otland.net.
+[09/03/2025 16:49:20] 
+[09/03/2025 16:49:21] >> Loading config (config.lua)
+[09/03/2025 16:49:21] > Using SHA1 encryption
+[09/03/2025 16:49:21] >> Loading RSA key
+[09/03/2025 16:49:21] >> Starting SQL connection
+[09/03/2025 16:49:23] Failed connecting to database - MYSQL ERROR: Can't connect to MySQL server on 'localhost' (10061) (2003)
+[09/03/2025 16:49:23] 
+[09/03/2025 16:49:23] > ERROR: Couldn't estabilish connection to SQL database!

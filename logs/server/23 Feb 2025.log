@@ -1,0 +1,33 @@
+[23/02/2025 05:12:02] Pokemon Dash Advanced, version 0.3.6 (PDA)
+[23/02/2025 05:12:02] Compiled with GNU C++ version 4.4.0 at Jan  1 2025, 15:31:04.
+[23/02/2025 05:12:02] A server developed by Elf, slawkens, Talaturen, KaczooH, Lithium, Kiper, Kornholijo.
+[23/02/2025 05:12:02] Visit our forum for updates, support and resources: http://otland.net.
+[23/02/2025 05:12:02] 
+[23/02/2025 05:12:02] >> Loading config (config.lua)
+[23/02/2025 05:12:02] > Using SHA1 encryption
+[23/02/2025 05:12:02] >> Loading RSA key
+[23/02/2025 05:12:02] >> Starting SQL connection
+[23/02/2025 05:12:02] Pokemon Dash Advanced, version 0.3.6 (PDA)
+[23/02/2025 05:12:02] Compiled with GNU C++ version 4.4.0 at Jan  1 2025, 15:31:04.
+[23/02/2025 05:12:02] A server developed by Elf, slawkens, Talaturen, KaczooH, Lithium, Kiper, Kornholijo.
+[23/02/2025 05:12:02] Visit our forum for updates, support and resources: http://otland.net.
+[23/02/2025 05:12:02] 
+[23/02/2025 05:12:02] >> Loading config (config.lua)
+[23/02/2025 05:12:02] 
+[23/02/2025 05:12:02] > ERROR: Another instance of The Forgotten Server is already running with the same worldId.
+[23/02/2025 05:12:02] If you want to run multiple servers, please change the worldId in configuration file.
+[23/02/2025 05:12:04] Failed connecting to database - MYSQL ERROR: Can't connect to MySQL server on 'localhost' (10061) (2003)
+[23/02/2025 05:12:04] 
+[23/02/2025 05:12:04] > ERROR: Couldn't estabilish connection to SQL database!
+[23/02/2025 20:35:03] Pokemon Dash Advanced, version 0.3.6 (PDA)
+[23/02/2025 20:35:03] Compiled with GNU C++ version 4.4.0 at Jan  1 2025, 15:31:04.
+[23/02/2025 20:35:03] A server developed by Elf, slawkens, Talaturen, KaczooH, Lithium, Kiper, Kornholijo.
+[23/02/2025 20:35:03] Visit our forum for updates, support and resources: http://otland.net.
+[23/02/2025 20:35:03] 
+[23/02/2025 20:35:03] >> Loading config (config.lua)
+[23/02/2025 20:35:03] > Using SHA1 encryption
+[23/02/2025 20:35:03] >> Loading RSA key
+[23/02/2025 20:35:03] >> Starting SQL connection
+[23/02/2025 20:35:05] Failed connecting to database - MYSQL ERROR: Can't connect to MySQL server on 'localhost' (10061) (2003)
+[23/02/2025 20:35:05] 
+[23/02/2025 20:35:05] > ERROR: Couldn't estabilish connection to SQL database!

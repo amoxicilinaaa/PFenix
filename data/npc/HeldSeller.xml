@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Pelé" script="default.lua" walkinterval="0" floorchange="0" speed="0">
+<health now="150" max="150"/>
+<look type="587" head="10" body="15" legs="20" feet="25"/>
+<parameters>
+<parameter key="message_greet" value="Eu sou viciado em comer {doces}! ainda mais quando eles são {raros}! ouvi dizer que existe um local secreto por perto que escondem muitos!"/>
+<parameter key="message_farewell" value="Eu sou o Jô Soares Sua Piranha...Flw!"/>
+<parameter key="message_idletimeout" value="Eu sou o Jô Soares Sua Piranha...Flw!"/>
+<parameter key="message_walkaway" value="Eu sou o Jô Soares Sua Piranha...Flw!"/>
+<parameter key="module_shop" value="1"/>
+<parameter key="shop_buyable" value= ";"/>
+</parameters>
+</npc>

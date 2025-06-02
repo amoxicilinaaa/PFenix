@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Erikles" script="Erikles.lua" walkinterval="3000" floorchange="100" speed="90" skull ="green">
+<health now="150" max="150"/>
+<look type="520" head="91" body="114" legs="86" feet="0"/>
+<parameters>
+<parameter key="message_greet" value="Olá Amigo Consumidor, eu tenho artigos para lhe ajudar em sua jornada, diga {trade}!!"/>
+<parameter key="message_farewell" value="Tchau!"/>
+<parameter key="message_idletimeout" value="Tchau!"/>
+<parameter key="message_walkaway" value="Tchau"/>
+<parameter key="module_shop" value="1"/>
+<parameter key="shop_buyable" value= "poke ball,2580,10000;"/>
+<parameter key="shop_sellable" value= ""/>
+</parameters>
+</npc>

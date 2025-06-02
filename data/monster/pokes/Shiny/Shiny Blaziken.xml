@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Shiny Blaziken" nameDescription="a shiny blaziken" race="fire" experience="1100" speed="247" manacost="0">
+    <health now="170" max="170"/>
+    <look type="1629" head="80" body="90" legs="95" feet="113" corpse="14104"/>
+    <targetchange interval="2000" chance="0"/>
+    <strategy attack="100" defense="0"/>
+    <flags>
+        <flag summonable="1"/>
+        <flag attackable="1"/>
+        <flag hostile="1"/>
+        <flag illusionable="1"/>
+        <flag convinceable="1"/>
+        <flag pushable="1"/>
+        <flag canpushitems="0"/>
+        <flag canpushcreatures="0"/>
+        <flag targetdistance="1"/>
+        <flag staticattack="97"/>
+        <flag runonhealth="0"/>
+        
+    </flags>
+    <attacks>
+        <attack name="melee" interval="2000" chance="100" range="1" min="-50" max="-100"/>
+        <attack name="Double Kick" interval="2570" chance="26" range="3"/>
+        <attack name="Focus Blast" interval="2664" chance="20" range="5"/>
+        <attack name="Flare Blitz" interval="3580" chance="25" range="4"/>
+		<attack name="High Jump Kick" interval="3040" chance="24" range="3"/>
+        <attack name="Blaze Kick" interval="2852" chance="22" range="3"/>
+        <attack name="Blast Burn" interval="4128" chance="20" range="3"/>
+        <attack name="Brick Break" interval="3510" chance="31" range="2"/>
+        <attack name="Flamethrower" interval="3510" chance="21" range="3"/>	
+        <attack name="Fire Blast" interval="3510" chance="19" range="4"/>		
+        <attack name="Overheat" interval="3510" chance="15" range="6"/>	
+    </attacks>
+    <defenses armor="0" defense="0"/>
+    <voices interval="5000" chance="10">
+        <voice sentence="Blaa!"/>
+    </voices>
+    <loot>
+							       <item id="20904" chance="99999999999" count="1" countmax="1"/> --sh Stone
+    </loot>
+    <script>
+        <event name="Spawn"/>
+    </script>
+</monster>

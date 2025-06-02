@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Tentacruel" nameDescription="a tentacruel" race="water" experience="1100" speed="227" manacost="0">
+    <health now="170" max="170"/>
+    <look type="459" head="65" body="85" legs="95" feet="113" corpse="11973"/>
+    <targetchange interval="2000" chance="0"/>
+    <strategy attack="100" defense="0"/>
+    <flags>
+        <flag summonable="1"/>
+        <flag attackable="1"/>
+        <flag hostile="1"/>
+        <flag illusionable="1"/>
+        <flag convinceable="1"/>
+        <flag pushable="1"/>
+        <flag canpushitems="0"/>
+        <flag canpushcreatures="0"/>
+        <flag targetdistance="1"/>
+        <flag staticattack="97"/>
+        <flag runonhealth="0"/>
+        
+    </flags>
+    <attacks>
+        <attack name="melee" interval="2000" chance="100" range="1" min="-50" max="-100"/>
+        <attack name="Super Sonic" interval="4920" chance="15" range="2"/>
+        <attack name="Poison Jab" interval="2946" chance="20" range="2"/>
+        <attack name="Hydro Pump" interval="4356" chance="15" range="6"/>
+        <attack name="Sludge Wave" interval="2604" chance="20" range="3"/>
+        <attack name="Brine" interval="2664" chance="26" range="2"/>
+        <attack name="Sludge Bomb" interval="2758" chance="21" range="3"/>
+        <attack name="Surf" interval="2746" chance="22" range="3"/>
+    </attacks>
+    <defenses armor="0" defense="0"/>
+    <voices interval="5000" chance="10">
+        <voice sentence="TENTACRUEL!"/>
+    </voices>
+    <loot>
+        <item id="12161" chance="10000" countmax="80"/> --water gem
+        <item id="12170" chance="5000" count="1" countmax="1"/> --water pendant --water pendant
+        <item id="12202" chance="4000" count="1" countmax="1"/> --gosme
+		<item id="13795" chance="6000" countmax="1"/> --venom piece
+        <item id="12170" chance="5000" count="1" countmax="1"/> --water pendant
+        <item id="11442" chance="150" count="1" countmax="1"/> --water stone
+        <item id="12188" chance="4000" count="1" countmax="1"/> --ruby
+        <item id="11443" chance="150" count="1" countmax="1"/> --venom stone
+		        <item id="12338" chance="10" count="1"/> --bag box --bag box
+    <item id="15544" chance="300" count="1" countmax="1"/> -- toy
+   </loot>
+    <script>
+        <event name="Spawn"/>
+    </script>
+</monster>

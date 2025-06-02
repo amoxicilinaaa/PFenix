@@ -1,0 +1,9 @@
+  <!-- HELD FUSION -->
+ 	<talkaction words="HELDFUSION_3TIER1#" case-sensitive="no" event="script" value="/HELD_FUSION/3TIER1.lua"/>
+ 	<talkaction words="HELDFUSION_3TIER2#" case-sensitive="no" event="script" value="/HELD_FUSION/3TIER2.lua"/>
+ 	<talkaction words="HELDFUSION_3TIER3#" case-sensitive="no" event="script" value="/HELD_FUSION/3TIER3.lua"/>
+ 	<talkaction words="HELDFUSION_3TIER4#" case-sensitive="no" event="script" value="/HELD_FUSION/3TIER4.lua"/>
+ 	<talkaction words="HELDFUSION_3TIER5#" case-sensitive="no" event="script" value="/HELD_FUSION/3TIER5.lua"/>
+ 	<talkaction words="HELDFUSION_3TIER6#" case-sensitive="no" event="script" value="/HELD_FUSION/3TIER6.lua"/>
+ 	<talkaction words="HELDFUSION_3TIER7#" case-sensitive="no" event="script" value="/HELD_FUSION/3TIER7.lua"/>
+ 	<talkaction words="HELDFUSION_5TIERRANDOM#" case-sensitive="no" event="script" value="/HELD_FUSION/5TIERRANDOM.lua"/>

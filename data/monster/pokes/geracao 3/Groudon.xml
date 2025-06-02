@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Groudon" nameDescription="a Groudon" race="fire" experience="450" speed="237" manacost="0">
+    <health now="90" max="90"/>
+    <look type="2963" head="35" body="50" legs="95" feet="113" corpse="21474"/>
+    <targetchange interval="2000" chance="0"/>
+    <strategy attack="100" defense="0"/>
+    <flags>
+        <flag summonable="1"/>
+        <flag attackable="1"/>
+        <flag hostile="1"/>
+        <flag illusionable="1"/>
+        <flag convinceable="1"/>
+        <flag pushable="0"/>
+        <flag canpushitems="1"/>
+        <flag canpushcreatures="0"/>
+        <flag targetdistance="1"/>
+        <flag staticattack="97"/>
+        <flag runonhealth="0"/>
+       
+    </flags>
+    <attacks>
+        <attack name="melee" interval="2000" chance="100" range="1" min="-50" max="-100"/>
+        <attack name="Ancient Power" interval="2570" chance="80" range="6"/>
+        <attack name="Earth Power" interval="2664" chance="80" range="7"/>
+        <attack name="Lava Plume" interval="3580" chance="80" range="8"/>
+		<attack name="Earthquake" interval="3040" chance="80" range="6"/>
+        <attack name="Stomp" interval="2852" chance="80" range="10"/>
+        <attack name="Fissure" interval="3846" chance="80" range="9"/>
+        <attack name="Fire Blast" interval="4128" chance="80" range="7"/>
+        <attack name="Sunny Day" interval="3510" chance="80" range="7"/>
+        <attack name="Overheat" interval="3510" chance="80" range="9"/>		
+    </attacks>
+    <defenses armor="0" defense="0"/>
+    <voices interval="5000" chance="10">
+        <voice sentence="Groooudon!"/>
+    </voices>
+    <loot>
+        <item id="11447" chance="150" countmax="1"/> --fire stone
+        <item id="12338" chance="10" count="1"/> --bag box --bag box
+    </loot>
+    <script>
+        <event name="Spawn"/>
+    </script>
+	    <script>
+        <event name="tp14"/>
+    </script>
+</monster>

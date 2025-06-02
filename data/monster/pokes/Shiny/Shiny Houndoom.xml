@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Shiny Houndoom" nameDescription="a shiny houndoom" race="fire" experience="1100" speed="330" manacost="0">
+  <health now="70" max="40"/>
+  <look type="2080" head="60" body="77" legs="95" feet="113" corpse="0"/>
+	<targetchange interval="2000" chance="0"/>
+<strategy attack="100" defense="0"/>
+  <flags>
+    <flag summonable="1"/>
+    <flag attackable="1"/>
+    <flag hostile="1"/>
+    <flag illusionable="1"/>
+    <flag convinceable="1"/>
+    <flag pushable="1"/>
+    <flag canpushitems="0"/>
+    <flag canpushcreatures="0"/>
+    <flag targetdistance="1"/>
+    <flag staticattack="90"/>
+    <flag runonhealth="0"/>
+   
+</flags>
+  <attacks>
+		<attack name="melee" interval="2000" chance="100" range="1" min="-50" max="-100"/>
+		<attack name="Roar" interval="5005" chance="21" range="2"/>
+        <attack name="Bite" interval="2758" chance="30" range="1"/>
+		<attack name="Fire Fang" interval="3093" chance="28" range="1"/>
+        <attack name="Flamethrower" interval="3369" chance="26" range="6"/>
+		<attack name="Crunch" interval="4093" chance="31" range="2"/>
+		<attack name="Inferno" interval="4293" chance="25" range="3"/>
+		<attack name="Fire Blast" interval="4093" chance="28" range="4"/>
+		<attack name="Overheat" interval="3993" chance="20" range="2"/>
+  </attacks>
+  <defenses armor="0" defense="0"/>
+<voices interval="5000" chance="10">
+	<voice sentence="HOOUN!"/>
+<voice sentence="DOOOM!"/>
+<voice sentence="HOUNDOOM!"/>
+  </voices>
+  <loot>
+							       <item id="20904" chance="700" count="1" countmax="1"/> --sh Stone
+  </loot>
+<script>
+<event name="Spawn"/>
+</script>
+</monster>

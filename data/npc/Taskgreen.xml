@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Connor" script="taskgreen.lua" walkinterval="3000" floorchange="0" speed="0">
+	<health now="150" max="150"/>
+	<look type="3548" head="91" body="102" legs="83" feet="0"/>
+	<parameters>
+			<parameter key="message_greet" value="Voce quer task de {Tangela}? Use letras maiusculas e minusculas."/>
+	</parameters>
+</npc>

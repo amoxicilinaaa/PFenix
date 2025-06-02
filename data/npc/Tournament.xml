@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Torneio" script="tournament.lua" walkinterval="2000" floorchange="0" skull="white">>
+<health now="150" max="150"/>
+<look type="1444" head="91" body="114" legs="86" feet="0"/>
+<parameters>
+<parameter key="message_greet" value="Olá |PLAYERNAME|. quer entrar no torneio? fale : {torneio}."/>
+	</parameters>
+</npc>

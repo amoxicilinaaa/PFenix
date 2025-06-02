@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Suicune" nameDescription="a suicune" race="ice" experience="10000" speed="410" manacost="0">
+  <health now="40" max="40"/>
+  <look type="2573" head="90" body="100" legs="95" feet="113" corpse="4445"/>
+	<targetchange interval="2000" chance="0"/>
+<strategy attack="100" defense="0"/>
+  <flags>
+    <flag summonable="1"/>
+    <flag attackable="1"/>
+    <flag hostile="1"/>
+    <flag illusionable="1"/>
+    <flag convinceable="1"/>
+    <flag pushable="1"/>
+    <flag canpushitems="0"/>
+    <flag canpushcreatures="0"/>
+    <flag targetdistance="1"/>
+    <flag staticattack="90"/>
+    <flag runonhealth="0"/>
+   
+</flags>
+  <attacks>
+	<attack name="melee" interval="2000" chance="100" range="1" min="-206" max="-249">
+    <attack name="Bite" interval="3510" chance="100" range="6"/>
+    <attack name="Bubble Beam" interval="2758" chance="30" range="10"/>
+    <attack name="Rain Dance" interval="2758" chance="30" range="10"/>
+    <attack name="Ice Fang" interval="2758" chance="30" range="10"/>
+	<attack name="Aurora Beam" interval="3052" chance="29" range="6"/>
+	<attack name="Hydro Pump" interval="4252" chance="26" range="6"/>
+    <attack name="Blizzard" interval="3510" chance="100" range="6"/>
+    <attack name="Ice Beam" interval="3152" chance="29" range="6"/>
+    <attack name="Scald" interval="3510" chance="100" range="6"/>
+    <attack name="Surf" interval="3510" chance="100" range="6"/>
+   	</attack>
+  </attacks>
+  <defenses armor="0" defense="0">
+  </defenses>
+  <voices interval="5000" chance="10">
+	<voice sentence="SUUUI!"/>
+<voice sentence="CUUNE!"/>
+<voice sentence="SUICUNE!"/>
+  </voices>
+  <loot>
+        <item id="12338" chance="10" count="1"/> --bag box --bag box
+	<item id="15577" chance="300" count="1" countmax="1"/> -- toy
+  </loot>
+
+<script>
+<event name="Spawn"/>
+<event name="tp14"/>
+</script>
+</monster>

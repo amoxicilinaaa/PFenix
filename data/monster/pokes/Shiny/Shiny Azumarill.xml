@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Shiny Azumarill" nameDescription="an shiny azumarill" race="water" experience="450" speed="217" manacost="0">
+  <health now="110" max="110"/>
+  <look type="3127" head="30" body="50" legs="95" feet="113" corpse="21080"/>
+ <targetchange interval="2000" chance="0"/>
+    <strategy attack="100" defense="0"/>
+    <flags>
+        <flag summonable="1"/>
+        <flag attackable="1"/>
+        <flag hostile="1"/>
+        <flag illusionable="1"/>
+        <flag convinceable="1"/>
+        <flag pushable="1"/>
+        <flag canpushitems="0"/>
+        <flag canpushcreatures="0"/>
+        <flag targetdistance="1"/>
+        <flag staticattack="97"/>
+        <flag runonhealth="0"/>
+        
+    </flags>
+    <attacks>
+        <attack name="melee" interval="2000" chance="100" range="1" min="-50" max="-100"/>
+        <attack name="Aqua Tail" interval="5625" chance="18" range="6"/>
+        <attack name="Aqua Ring" interval="5570" chance="5" range="3"/>
+        <attack name="Hydro Pump" interval="2805" chance="21" range="3"/>
+		<attack name="Scald" interval="2470" chance="31" range="1"/>
+		<attack name="Surf" interval="3170" chance="15" range="4"/>
+		<attack name="Refresh" interval="3870" chance="8" range="3"/>
+		<attack name="Muddy Water" interval="3070" chance="13" range="3"/>
+		<attack name="Body Slam" interval="3470" chance="20" range="3"/>		
+    </attacks>
+    <defenses armor="0" defense="0"/>
+  <voices interval="5000" chance="10">
+	<voice sentence="AZUUU!"/>
+<voice sentence="MARIILL!"/>
+<voice sentence="AZUMARILL!"/>
+  </voices>
+    <loot>
+            <item id="22004" chance="30000" count="1" countmax="1"/> --Special Stone
+							   <item id="20904" chance="1500" count="1" countmax="1"/> --sh Stone
+    </loot>
+    <script>
+        <event name="Spawn"/>
+    </script>
+</monster>
+

@@ -1,0 +1,68 @@
+[10/02/2025 03:56:58] Pokemon Dash Advanced, version 0.3.6 (PDA)
+[10/02/2025 03:56:58] Compiled with GNU C++ version 4.4.0 at Jan  1 2025, 15:31:04.
+[10/02/2025 03:56:58] A server developed by Elf, slawkens, Talaturen, KaczooH, Lithium, Kiper, Kornholijo.
+[10/02/2025 03:56:58] Visit our forum for updates, support and resources: http://otland.net.
+[10/02/2025 03:56:58] 
+[10/02/2025 03:56:58] >> Loading config (config.lua)
+[10/02/2025 03:56:58] > Using SHA1 encryption
+[10/02/2025 03:56:58] >> Loading RSA key
+[10/02/2025 03:56:58] >> Starting SQL connection
+[10/02/2025 03:56:59] >> Running Database Manager
+[10/02/2025 03:57:00] > No tables were optimized.
+[10/02/2025 03:57:00] >> Loading items
+[10/02/2025 03:57:00] [Warning - Items::loadFromXml] No itemid found
+[10/02/2025 03:57:00] [Warning - Items::loadFromXml] No itemid found
+[10/02/2025 03:57:00] >> Loading groups
+[10/02/2025 03:57:00] >> Loading vocations
+[10/02/2025 03:57:00] >> Loading script systems
+[10/02/2025 03:57:03] >> Loading chat channels
+[10/02/2025 03:57:03] >> Loading outfits
+[10/02/2025 03:57:03] >> Loading experience stages
+[10/02/2025 03:57:03] >> Loading monsters
+[10/02/2025 03:57:03] [Warning - Monsters::loadFromXml] Unknown node name (script).
+[10/02/2025 03:57:05] >> Loading mods...
+[10/02/2025 03:57:05] > Loading classic_changender.xml... done.
+[10/02/2025 03:57:05] > Loading firstitems.xml... done.
+[10/02/2025 03:57:05] > Loading highscorebook.xml... done.
+[10/02/2025 03:57:05] > Loading minimap.xml... done.
+[10/02/2025 03:57:05] > 4 mods were loaded.
+[10/02/2025 03:57:05] >> Loading map and spawns...
+[10/02/2025 03:57:09] > Map size: 2800x2000.
+[10/02/2025 03:57:09] > Map descriptions: 
+[10/02/2025 03:57:09] "Saved with OTAcademy Map Editor 4.1.2"
+[10/02/2025 03:57:09] "Map Dash Editadu Por TiIoO"
+[10/02/2025 03:57:18] Duplicate uniqueId 19456
+[10/02/2025 03:57:19] Duplicate uniqueId 1048
+[10/02/2025 04:18:05] Pokemon Dash Advanced, version 0.3.6 (PDA)
+[10/02/2025 04:18:05] Compiled with GNU C++ version 4.4.0 at Jan  1 2025, 15:31:04.
+[10/02/2025 04:18:05] A server developed by Elf, slawkens, Talaturen, KaczooH, Lithium, Kiper, Kornholijo.
+[10/02/2025 04:18:05] Visit our forum for updates, support and resources: http://otland.net.
+[10/02/2025 04:18:05] 
+[10/02/2025 04:18:05] >> Loading config (config.lua)
+[10/02/2025 04:18:05] > Using SHA1 encryption
+[10/02/2025 04:18:05] >> Loading RSA key
+[10/02/2025 04:18:05] >> Starting SQL connection
+[10/02/2025 04:18:05] >> Running Database Manager
+[10/02/2025 04:18:05] > No tables were optimized.
+[10/02/2025 04:18:05] >> Loading items
+[10/02/2025 04:18:05] [Warning - Items::loadFromXml] No itemid found
+[10/02/2025 04:18:06] [Warning - Items::loadFromXml] No itemid found
+[10/02/2025 04:18:06] >> Loading groups
+[10/02/2025 04:18:06] >> Loading vocations
+[10/02/2025 04:18:06] >> Loading script systems
+[10/02/2025 04:18:07] >> Loading chat channels
+[10/02/2025 04:18:07] >> Loading outfits
+[10/02/2025 04:18:07] >> Loading experience stages
+[10/02/2025 04:18:07] >> Loading monsters
+[10/02/2025 04:18:07] [Warning - Monsters::loadFromXml] Unknown node name (script).
+[10/02/2025 04:18:08] >> Loading mods...
+[10/02/2025 04:18:08] > Loading classic_changender.xml... done.
+[10/02/2025 04:18:08] > Loading firstitems.xml... done.
+[10/02/2025 04:18:08] > Loading highscorebook.xml... done.
+[10/02/2025 04:18:08] > Loading minimap.xml... done.
+[10/02/2025 04:18:08] > 4 mods were loaded.
+[10/02/2025 04:18:08] >> Loading map and spawns...
+[10/02/2025 04:18:12] > Map size: 2800x2000.
+[10/02/2025 04:18:12] > Map descriptions: 
+[10/02/2025 04:18:12] "Saved with OTAcademy Map Editor 4.1.2"
+[10/02/2025 04:18:12] "Map Dash Editadu Por TiIoO"

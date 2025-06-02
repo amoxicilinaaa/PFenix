@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Shiny Scyther" nameDescription="a Shiny scyther" race="bug" experience="1044" speed="437" manacost="0">
+  <health now="110" max="110"/>
+  <look type="1317" head="75" body="85" legs="95" feet="113" corpse="12543"/>
+  <targetchange interval="1000" chance="0"/>
+  <strategy attack="100" defense="0"/>
+<flags>
+ <flag summonable="1"/>
+ <flag attackable="1"/>
+ <flag hostile="1"/>
+ <flag illusionable="1"/>
+ <flag convinceable="1"/>
+ <flag pushable="1"/>
+ <flag canpushitems="0"/>
+ <flag canpushcreatures="0"/>
+ <flag targetdistance="1"/>
+ <flag staticattack="97"/>
+ <flag runonhealth="0"/>
+ 
+</flags>
+
+<attacks>
+        <attack name="melee" interval="2000" chance="100" range="1" min="-50" max="-100"/>
+        <attack name="Wing Attack" interval="5040" chance="17" range="3"/>
+        <attack name="Fury Cutter" interval="3040" chance="30" range="4"/>
+        <attack name="Razor Wind" interval="5040" chance="15" range="4"/>
+        <attack name="Quick Attack" interval="5040" chance="25" range="4"/>
+</attacks>
+
+
+  <defenses armor="0" defense="0">
+  </defenses>
+
+ <voices interval="5000" chance="10">
+ <voice sentence="SCYTHER!"/>
+ </voices>
+
+  <loot>
+            <item id="22004" chance="30000" count="1" countmax="1"/> --Special Stone
+  </loot>
+
+<script>
+<event name="Spawn"/>
+</script>
+</monster>

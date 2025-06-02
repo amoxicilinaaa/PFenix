@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Vendedor De Bikes" script="default.lua" walkinterval="100" floorchange="0" speed="100" skull ="green">
+	<health now="150" max="150"/>
+	<look type="2099" head="91" body="114" legs="86" feet="0"/>
+	<parameters>
+			<parameter key="message_greet" value="Bom dia eu vendo Bicicletas {trade}!"/>
+			<parameter key="message_farewell" value="Até logo |PLAYERNAME|."/>
+			<parameter key="message_idletimeout" value="Até logo |PLAYERNAME|."/>
+			<parameter key="message_walkaway" value="Até logo |PLAYERNAME|."/>
+			<parameter key="module_shop" value="1"/>
+			<parameter key="shop_buyable" value="Bike,14440,200000000;"/>
+			<parameter key="shop_sellable" value="Bike,14440,25000000"/>
+	</parameters>
+</npc>

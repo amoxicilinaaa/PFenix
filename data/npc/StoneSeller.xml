@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Jailson" script="default.lua" walkinterval="0" floorchange="0" speed="60" skull ="green">
+<health now="150" max="150"/>
+<look type="1419" head="10" body="15" legs="20" feet="25"/>
+<parameters>
+<parameter key="message_greet" value="Olá, Meu Urso Você está aqui para ver minhas ofertas? Vamos lá, vamos delicia {trade}!"/>
+<parameter key="message_farewell" value="Tchau Meu Urso"/>
+<parameter key="message_idletimeout" value="Tchau Meu Urso"/>
+<parameter key="message_walkaway" value="Tchau Meu Urso"/>
+<parameter key="module_shop" value="1"/>
+<parameter key="shop_buyable" value= "metal coat,12232,10000000;"
+/>
+
+<parameter key="shop_sellable" value= "metal coat,12232,2500000;
+ancient stone,12244,5000000;
+earth stone,11451,1500000;
+water stone,11442,1500000;
+leaf stone,11441,1500000;
+heart stone,11453,1500000;
+thunder stone,11444,1500000;
+coccon stone,11448,1500000;
+rock stone,11445,1500000;
+crystal stone,11449,1500000;
+darkness stone,11450,1500000;
+enigma stone,11452,1500000;
+fire stone,11447,1500000;
+venom stone,11443,1500000;
+ice stone,11454,1500000;
+punch stone,11446,1500000;"/>
+</parameters>
+</npc>

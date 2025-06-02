@@ -1,0 +1,40 @@
+portal
+
+
+Vá em "Data/creaturescripts/scripts" copie e cole um arquivo .lua e renomeie para tp.lua, apague tudo e cole:
+
+local config = {
+    boss = "rotworm",
+    msg = "O teleport irá sumir em dois minutos.",
+    timeToRemove = 120, -- Tempo para remover em segundos.
+    teleport = { x = 32336, y = 32223, z = 7 }, -- Local onde irá aparecer o TP.
+    toteleport = { x = 32338, y = 32225, z = 7 } -- Local para onde o teleport irá mandar o player.
+}
+
+local function removal(position)
+    position.stackpos = 1
+    if (getThingfromPos(position).itemid == 1387) then
+        doRemoveItem(getThingfromPos(position).uid)
+    end
+    return TRUE
+end
+
+function onKill(cid, target)
+    if(isMonster(target) and string.lower(getCreatureName(target)) == config.boss) then
+        doCreateTeleport(1387, config.toteleport, config.teleport)
+        doCreatureSay(target, config.msg, TALKTYPE_ORANGE_1, 0, 0, getCreaturePosition(target))
+        addEvent(removal, config.timeToRemove * 1000, config.teleport)
+    end
+    return true
+end
+
+
+
+Em "Data/creaturescripts" abra o creaturescripts.xml e adicione:
+
+<event type="kill" name="TP" script="tp.lua"/>
+
+
+Em "Data/creaturescripts/others" abra o login.lua e registre em events antes do ultimo evento:
+
+'TP',

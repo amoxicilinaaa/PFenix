@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Shiny Typhlosion" nameDescription="a Shiny typhlosion" race="fire" experience="1604" speed="247" manacost="0">
+    <health now="170" max="170"/>
+  <look type="1534" head="80" body="90" legs="95" feet="113" corpse="12849"/>
+	<targetchange interval="1000" chance="0"/>
+<strategy attack="100" defense="0"/>
+  <flags>
+    <flag summonable="1"/>
+    <flag attackable="1"/>
+    <flag hostile="1"/>
+    <flag illusionable="1"/>
+    <flag convinceable="1"/>
+    <flag pushable="1"/>
+    <flag canpushitems="0"/>
+    <flag canpushcreatures="0"/>
+    <flag targetdistance="1"/>
+    <flag staticattack="90"/>
+    <flag runonhealth="0"/>
+  
+</flags>
+  <attacks>
+        <attack name="melee" interval="2000" chance="100" range="1" min="-50" max="-100"/>
+        <attack name="Tackle" interval="1970" chance="31" range="2"/>
+	    <attack name="SmokeScreen" interval="5446" chance="15" range="6"/>        
+		<attack name="Quick Attack" interval="1864" chance="31" range="2"/>
+        <attack name="Flame Wheel" interval="3000" chance="25" range="6"/>
+	    <attack name="Flamethrower" interval="2040" chance="30" range="4"/>
+        <attack name="Lava Plume" interval="1940" chance="26" range="3"/>
+        <attack name="Inferno" interval="3046" chance="25" range="6"/>
+        <attack name="Blast Burn" interval="4046" chance="20" range="3"/>
+        <attack name="Flare Blitz" interval="4146" chance="28" range="4"/>
+    </attacks>
+    <defenses armor="0" defense="0"/>
+  <voices interval="5000" chance="10">
+	<voice sentence="TY!"/>
+<voice sentence="TYPHLOSION!"/>
+  </voices>
+ <loot>
+					   <item id="20904" chance="1500" count="1" countmax="1"/> --sh Stone
+    </loot>
+    <script>
+        <event name="Spawn"/>
+    </script>
+</monster>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Shiny Crobat" nameDescription="a Shiny crobat" race="poison" experience="484" speed="255" manacost="0">
+  <health now="140" max="140"/>
+  <look type="1501" head="100" body="300" legs="95" feet="113" corpse="12743"/>
+	<strategy attack="100" defense="0"/>
+    <flags>
+        <flag summonable="1"/>
+        <flag attackable="1"/>
+        <flag hostile="1"/>
+        <flag illusionable="1"/>
+        <flag convinceable="1"/>
+        <flag pushable="1"/>
+        <flag canpushitems="0"/>
+        <flag canpushcreatures="0"/>
+        <flag targetdistance="1"/>
+        <flag staticattack="97"/>
+        <flag runonhealth="0"/>
+        
+    </flags>
+    <attacks>
+        <attack name="melee" interval="2000" chance="100" range="1" min="-50" max="-100"/>
+        <attack name="Super Sonic" interval="2993" chance="25" range="3"/>
+        <attack name="Bite" interval="2664" chance="30" range="1"/>
+        <attack name="Air Cutter" interval="2758" chance="23" range="3"/>
+        <attack name="Venoshock" interval="2805" chance="29" range="6"/>
+        <attack name="Air Slash" interval="4920" chance="18" range="6"/>
+        <attack name="Cross Poison" interval="2993" chance="20" range="3"/>
+        <attack name="Venom Drench" interval="3181" chance="23" range="4"/>
+        <attack name="Sludge Wave" interval="3322" chance="20" range="5"/>
+		<attack name="Sludge Bomb" interval="4022" chance="20" range="3"/>
+		<attack name="Aerial Ace" interval="3222" chance="18" range="4"/>
+		<attack name="Roost" interval="5222" chance="8" range="6"/>
+    </attacks>
+    <defenses armor="0" defense="0"/>
+  <voices interval="5000" chance="10">
+	<voice sentence="CROO!"/>
+<voice sentence="BAAT!"/>
+<voice sentence="CROBAT!"/>
+</voices>
+    <loot>
+							       <item id="20904" chance="700" count="1" countmax="1"/> --sh Stone
+    </loot>
+    <script>
+        <event name="Spawn"/>
+    </script>
+</monster>
+

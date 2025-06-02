@@ -1,0 +1,284 @@
+[02/01/2025 03:29:28] Pokemon Dash Advanced, version 0.3.6 (PDA)Compiled with GNU C++ version 4.4.0 at Jan  1 2025, 15:31:04.A server developed by Elf, slawkens, Talaturen, KaczooH, Lithium, Kiper, Kornholijo.Visit our forum for updates, support and resources: http://otland.net.>> Loading config (config.lua)> Using SHA1 encryption>> Loading RSA key>> Starting SQL connection>> Running Database Manager> No tables were optimized.>> Loading items[Warning - Items::loadFromXml] No itemid found[Warning - Items::loadFromXml] No itemid found>> Loading groups>> Loading vocations>> Loading script systems[Warning - Actions::registerEvent] Duplicate registered item with id: 22128, in fromid: 22113 and toid: 22144[Warning - Actions::registerEvent] Duplicate registered item with id: 22129, in fromid: 22113 and toid: 22144>> Loading chat channels>> Loading outfits>> Loading experience stages>> Loading monsters[Warning - Monsters::loadFromXml] Unknown node name (script).>> Loading mods...> Loading classic_changender.xml... done.> Loading firstitems.xml... done.> Loading highscorebook.xml... done.> Loading minimap.xml... done.> 4 mods were loaded.>> Loading map and spawns...> Map size: 2800x2000.> Map descriptions: "Saved with OTAcademy Map Editor 4.1.2""Map Dash Editadu Por TiIoO"Duplicate uniqueId 19456Duplicate uniqueId 1048Duplicate uniqueId 4648Duplicate uniqueId 15004Duplicate uniqueId 15005Duplicate uniqueId 15001Duplicate uniqueId 15002> Map loading time: 25.199 seconds.[Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (850)[Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (851)[Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (852)[Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (853)[Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (854)[Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (855)[Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (856)[Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (857)[Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (858)[Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (860)[Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (861)[Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (870)> Data parsing time: 1.059 seconds.> Houses synchronization time: 1.353 seconds.> Content unserialization time: 0.592 seconds.>> Checking world type... PvP>> Initializing game state modules and registering services...[Warning - Monster::Monster] Unknown event name - Spawn> Global address: 127.0.0.1> Local ports: 7171	7172	>> All modules were loaded, server is starting up...>> RoXy server Online!> Broadcasted message: "[Sistema-PokeFênix]Use !comandos para ver alguns comandos disponíveis no servidor.".> Broadcasted message: "[Sistema-PokeFênix]Para saber mais dos benefícios premium acesso nossa loja.".> Broadcasted message: "[PokeFênix]Lembre-se jogadores premium tem vantagem em: Exp/Catch/dropes.".> Broadcasted message: "[Sistema-PokeFênix]Para saber mais dos benefícios premium acesso nossa loja.".> Broadcasted message: "[Sistema-PokeFênix]Faça uma doação e ajude o servidor florecer.".> Broadcasted message: "[Sistema-PokeFênix]Para saber as vantagens de ser Premium account, acesse nossa loja agora mesmo.".> Broadcasted message: "{[PokeFênix]Não deixe de ficar por dentro das atualizações e noticias do servidor, acesse nosso discord: dicord.gg/pokefenix}".> Broadcasted message: "[Sistema-PokeFênix]Use !comandos para ver alguns comandos disponíveis no servidor.".> Broadcasted message: "[PokeFênix]Lembre-se jogadores premium tem vantagem em: Exp/Catch/dropes.".> Broadcasted message: "[Sistema-PokeFênix]Para saber mais dos benefícios premium acesso nossa loja.".> Broadcasted message: "[Sistema-PokeFênix]Para saber as vantagens de ser Premium account, acesse nossa loja agora mesmo.".> Broadcasted message: "[Dica-PokeFênix]Dúvidas? tire elas no Canal Help!".> Broadcasted message: "[Sistema-PokeFênix]Para saber as vantagens de ser Premium account, acesse nossa loja agora mesmo.".> Broadcasted message: "[Dica-PokeFênix]Use !comandos para ver alguns comandos disponíveis.".> Broadcasted message: "[Sistema-PokeFênix]Para saber mais dos benefícios premium acesso nossa loja.".> Broadcasted message: "[Dica-PokeFênix]Você pode usar o atalho CTRL+Z para usar a vara de pesca.".> Broadcasted message: "[Dica-PokeFênix]Para saber quantos Online Points você possui, digite: !opshop.".> Broadcasted message: "[Sistema-PokeFênix]Não deixe de atualizar nosso client para evitar erros e percas.".> Broadcasted message: "[Dica-PokeFênix]Use !comandos para ver alguns comandos disponíveis.".> Broadcasted message: "Server Save em 10 segundos.".> Broadcasted message: "Server Save em 5 segundos.".> Saving server...> SAVE: Complete in 0.842 seconds using relational house storage.> Broadcasted message: "[PokeFênix]Lembre-se jogadores premium tem vantagem em: Exp/Catch/dropes.".> Broadcasted message: "[Sistema-PokeFênix]Nosso site: ********".> Broadcasted message: "[Dica-PokeFênix]Para saber quantos Online Points você possui, digite: !opshop.".> Broadcasted message: "[PokeFênix]Lembre-se jogadores premium tem vantagem em: Exp/Catch/dropes.".> Broadcasted message: "[Sistema-PokeFênix]Nosso site: ********".> Broadcasted message: "[Dica-PokeFênix]Você pode usar o atalho CTRL+Z para usar a vara de pesca.".> Broadcasted message: "[PokeFênix]Garanta já sua premium, ganhe benefícios acesse já nossa loja.".> Broadcasted message: "[PokeFênix]Lembre-se jogadores premium tem vantagem em: Exp/Catch/dropes.".> Broadcasted message: "[Dica-PokeFênix]Para fazer a Mega Box Quest você precisa juntar 100 fire piece, 100 water piece e 100 leaf piece para poder entrar. São Dropados na outland e em alguns outros pokemons.".> Broadcasted message: "[Dica-PokeFênix]Você pode usar o atalho CTRL+Z para usar a vara de pesca.".> Broadcasted message: "[Sistema-PokeFênix]Para saber mais dos benefícios premium acesso nossa loja.".> Broadcasted message: "[PokeFênix]Lembre-se jogadores premium tem vantagem em: Exp/Catch/dropes.".> Broadcasted message: "[Dica-PokeFênix]Para saber quantos Online Points você possui, digite: !opshop.".> Broadcasted message: "[Sistema-PokeFênix]Use !comandos para ver alguns comandos disponíveis no servidor.".> Broadcasted message: "[Sistema-PokeFênix]Faça uma doação e ajude o servidor florecer.".> Broadcasted message: "[Dica-PokeFênix]Use !comandos para ver alguns comandos disponíveis.".> Broadcasted message: "[PokeFênix]Lembre-se jogadores premium tem vantagem em: Exp/Catch/dropes.".> Broadcasted message: "[Sistema-PokeFênix]Nosso site: ********".> Broadcasted message: "[PokeFênix]Garanta já sua premium, ganhe benefícios acesse já nossa loja.".> Broadcasted message: "[Derrote o Pokémon]: O evento começou e durará 11 minutos. O pokémon sorteado foi Slaking! Quem conseguir derrotar mais Slaking's até o fim  será o vencedor!".> Broadcasted message: "[Sistema-PokeFênix]Faça uma doação e ajude o servidor florecer.".> Broadcasted message: "Server Save em 10 segundos.".> Broadcasted message: "Server Save em 5 segundos.".> Saving server...> SAVE: Complete in 0.793 seconds using relational house storage.> Broadcasted message: "[Sistema-PokeFênix]Nosso site: ********".> Broadcasted message: "[Sistema-PokeFênix]Nosso site: ********".> Broadcasted message: "[Derrote o Pokémon]: O evento terminou e não houve nenhum vencedor.".> Broadcasted message: "[Dica-PokeFênix]Você pode usar o atalho CTRL+Z para usar a vara de pesca.".> Broadcasted message: "{[PokeFênix]Não deixe de ficar por dentro das atualizações e noticias do servidor, acesse nosso discord: dicord.gg/pokefenix}".> Broadcasted message: "{[PokeFênix]Não deixe de ficar por dentro das atualizações e noticias do servidor, acesse nosso discord: dicord.gg/pokefenix}".> Broadcasted message: "[Sistema-PokeFênix]Para saber as vantagens de ser Premium account, acesse nossa loja agora mesmo.".> Broadcasted message: "[Sistema-PokeFênix]Para saber mais dos benefícios premium acesso nossa loja.".> Broadcasted message: "[Sistema-PokeFênix]Para saber as vantagens de ser Premium account, acesse nossa loja agora mesmo.".> Broadcasted message: "[Dica-PokeFênix]Use !comandos para ver alguns comandos disponíveis.".> Broadcasted message: "[Dica-PokeFênix]Para fazer a Mega Box Quest você precisa juntar 100 fire piece, 100 water piece e 100 leaf piece para poder entrar. São Dropados na outland e em alguns outros pokemons.".> Broadcasted message: "[Sistema-PokeFênix]Nosso site: ********".> Broadcasted message: "[Dica-PokeFênix]Para fazer a Mega Box Quest você precisa juntar 100 fire piece, 100 water piece e 100 leaf piece para poder entrar. São Dropados na outland e em alguns outros pokemons.".> Broadcasted message: "{[PokeFênix]Não deixe de ficar por dentro das atualizações e noticias do servidor, acesse nosso discord: dicord.gg/pokefenix}".> Broadcasted message: "{[PokeFênix]Não deixe de ficar por dentro das atualizações e noticias do servidor, acesse nosso discord: dicord.gg/pokefenix}".> Broadcasted message: "[Sistema-PokeFênix]Nosso site: ********".> Broadcasted message: "[Sistema-PokeFênix]Para saber as vantagens de ser Premium account, acesse nossa loja agora mesmo.".> Broadcasted message: "[Dica-PokeFênix]Dúvidas? tire elas no Canal Help!".> Broadcasted message: "[PokeFênix]Garanta já sua premium, ganhe benefícios acesse já nossa loja.".> Broadcasted message: "[PokeFênix]Lembre-se jogadores premium tem vantagem em: Exp/Catch/dropes.".> Broadcasted message: "[Sistema-PokeFênix]Para saber as vantagens de ser Premium account, acesse nossa loja agora mesmo.".> Broadcasted message: "Server Save em 10 segundos.".> Broadcasted message: "Server Save em 5 segundos.".> Saving server...> SAVE: Complete in 0.764 seconds using relational house storage.> Broadcasted message: "[Dica-PokeFênix]Para saber quantos Online Points você possui, digite: !opshop.".> Broadcasted message: "[Dica-PokeFênix]Para fazer a Mega Box Quest você precisa juntar 100 fire piece, 100 water piece e 100 leaf piece para poder entrar. São Dropados na outland e em alguns outros pokemons.".> Broadcasted message: "{[PokeFênix]Não deixe de ficar por dentro das atualizações e noticias do servidor, acesse nosso discord: dicord.gg/pokefenix}".> Broadcasted message: "[Dica-PokeFênix]Para fazer a Mega Box Quest você precisa juntar 100 fire piece, 100 water piece e 100 leaf piece para poder entrar. São Dropados na outland e em alguns outros pokemons.".> Broadcasted message: "[Dica-PokeFênix]Para fazer a Mega Box Quest você precisa juntar 100 fire piece, 100 water piece e 100 leaf piece para poder entrar. São Dropados na outland e em alguns outros pokemons.".> Broadcasted message: "[Sistema-PokeFênix]Para saber as vantagens de ser Premium account, acesse nossa loja agora mesmo.".> Broadcasted message: "[Dica-PokeFênix]Para fazer a Mega Box Quest você precisa juntar 100 fire piece, 100 water piece e 100 leaf piece para poder entrar. São Dropados na outland e em alguns outros pokemons.".> Broadcasted message: "[Sistema-PokeFênix]Nosso site: ********".> Broadcasted message: "[Sistema-PokeFênix]Não deixe de atualizar nosso client para evitar erros e percas.".> Broadcasted message: "[Dica-PokeFênix]Para saber quantos Online Points você possui, digite: !opshop.".> Broadcasted message: "[Dica-PokeFênix]Você pode usar o atalho CTRL+Z para usar a vara de pesca.".> Broadcasted message: "[Sistema-PokeFênix]Faça uma doação e ajude o servidor florecer.".> Broadcasted message: "[Dica-PokeFênix]Para saber quantos Online Points você possui, digite: !opshop.".> Broadcasted message: "[Dica-PokeFênix]Para saber quantos Online Points você possui, digite: !opshop.".> Broadcasted message: "[Sistema-PokeFênix]Para saber mais dos benefícios premium acesso nossa loja.".> Broadcasted message: "[PokeFênix]Lembre-se jogadores premium tem vantagem em: Exp/Catch/dropes.".> Broadcasted message: "[Sistema-PokeFênix]Para saber mais dos benefícios premium acesso nossa loja.".> Broadcasted message: "[PokeFênix]Lembre-se jogadores premium tem vantagem em: Exp/Catch/dropes.".> Broadcasted message: "[Sistema-PokeFênix]Nosso site: ********".> Broadcasted message: "[Dica-PokeFênix]Dúvidas? tire elas no Canal Help!".> Broadcasted message: "Server Save em 10 segundos.".> Broadcasted message: "Server Save em 5 segundos.".> Saving server...> SAVE: Complete in 0.733 seconds using relational house storage.> Broadcasted message: "[Sistema-PokeFênix]Faça uma doação e ajude o servidor florecer.".> Broadcasted message: "[Sistema-PokeFênix]Não deixe de atualizar nosso client para evitar erros e percas.".> Broadcasted message: "[Dica-PokeFênix]Use !comandos para ver alguns comandos disponíveis.".> Broadcasted message: "[Dica-PokeFênix]Para fazer a Mega Box Quest você precisa juntar 100 fire piece, 100 water piece e 100 leaf piece para poder entrar. São Dropados na outland e em alguns outros pokemons.".> Broadcasted message: "{[PokeFênix]Não deixe de ficar por dentro das atualizações e noticias do servidor, acesse nosso discord: dicord.gg/pokefenix}".> Broadcasted message: "[PokeFênix]Garanta já sua premium, ganhe benefícios acesse já nossa loja.".> Broadcasted message: "[Sistema-PokeFênix]Faça uma doação e ajude o servidor florecer.".> Broadcasted message: "{[PokeFênix]Não deixe de ficar por dentro das atualizações e noticias do servidor, acesse nosso discord: dicord.gg/pokefenix}".> Broadcasted message: "[PokeFênix]Garanta já sua premium, ganhe benefícios acesse já nossa loja.".> Broadcasted message: "[PokeFênix]Lembre-se jogadores premium tem vantagem em: Exp/Catch/dropes.".> Broadcasted message: "[Sistema-PokeFênix]Use !comandos para ver alguns comandos disponíveis no servidor.".> Broadcasted message: "[Sistema-PokeFênix]Use !comandos para ver alguns comandos disponíveis no servidor.".> Broadcasted message: "[Dica-PokeFênix]Dúvidas? tire elas no Canal Help!".> Broadcasted message: "[Dica-PokeFênix]Para fazer a Mega Box Quest você precisa juntar 100 fire piece, 100 water piece e 100 leaf piece para poder entrar. São Dropados na outland e em alguns outros pokemons.".> Broadcasted message: "[Dica-PokeFênix]Para fazer a Mega Box Quest você precisa juntar 100 fire piece, 100 water piece e 100 leaf piece para poder entrar. São Dropados na outland e em alguns outros pokemons.".> Broadcasted message: "[Sistema-PokeFênix]Use !comandos para ver alguns comandos disponíveis no servidor.".> Broadcasted message: "[Sistema-PokeFênix]Faça uma doação e ajude o servidor florecer.".> Broadcasted message: "[Dica-PokeFênix]Você pode usar o atalho CTRL+Z para usar a vara de pesca.".> Broadcasted message: "[Derrote o Pokémon]: O evento começou e durará 14 minutos. O pokémon sorteado foi Alakazam! Quem conseguir derrotar mais Alakazam's até o fim  será o vencedor!".> Broadcasted message: "As inscrições para o Torneio abriu e fechará daqui 15 minutos! fale com o NPC Torneio no CP para entrar no Torneio".> Broadcasted message: "[Sistema-PokeFênix]Para saber mais dos benefícios premium acesso nossa loja.".> Broadcasted message: "[Sistema-PokeFênix]Para saber mais dos benefícios premium acesso nossa loja.".> Broadcasted message: "Server Save em 10 segundos.".> Broadcasted message: "Server Save em 5 segundos.".> Saving server...> SAVE: Complete in 0.72 seconds using relational house storage.> Broadcasted message: "As inscrições para o torneio está aberta fechará daqui 10 minuto ! fale com o NPC torneio para entrar no torneio!".> Broadcasted message: "[Sistema-PokeFênix]Faça uma doação e ajude o servidor florecer.".> Broadcasted message: "[Sistema-PokeFênix]Para saber as vantagens de ser Premium account, acesse nossa loja agora mesmo.".> Broadcasted message: "Golden Arena nao iniciou, por causa que nao tinha nenhum player!".> Broadcasted message: "As inscrições para o torneio abriu e fechará daqui 5minutos! fale com o NPC torneio para entrar no torneio!".> Broadcasted message: "[Sistema-PokeFênix]Nosso site: ********".> Broadcasted message: "[Derrote o Pokémon]: O evento terminou e não houve nenhum vencedor.".> Broadcasted message: "As inscrições para o torneio fechou!".> Broadcasted message: "[Dica-PokeFênix]Para saber quantos Online Points você possui, digite: !opshop.".> Broadcasted message: "[PokeFênix]Lembre-se jogadores premium tem vantagem em: Exp/Catch/dropes.".> Broadcasted message: "Golden Arena nao iniciou, por causa que nao tinha nenhum player!".> Broadcasted message: "[Sistema-PokeFênix]Para saber as vantagens de ser Premium account, acesse nossa loja agora mesmo.".> Broadcasted message: "[Sistema-PokeFênix]Faça uma doação e ajude o servidor florecer.".> Broadcasted message: "{[PokeFênix]Não deixe de ficar por dentro das atualizações e noticias do servidor, acesse nosso discord: dicord.gg/pokefenix}".> Broadcasted message: "[Dica-PokeFênix]Dúvidas? tire elas no Canal Help!".> Broadcasted message: "[Sistema-PokeFênix]Para saber as vantagens de ser Premium account, acesse nossa loja agora mesmo.".> Broadcasted message: "[PokeFênix]Lembre-se jogadores premium tem vantagem em: Exp/Catch/dropes.".> Broadcasted message: "[Dica-PokeFênix]Para saber quantos Online Points você possui, digite: !opshop.".> Broadcasted message: "[Dica-PokeFênix]Para saber quantos Online Points você possui, digite: !opshop.".> Broadcasted message: "[Dica-PokeFênix]Dúvidas? tire elas no Canal Help!".> Broadcasted message: "[PokeFênix]Garanta já sua premium, ganhe benefícios acesse já nossa loja.".> Broadcasted message: "{[PokeFênix]Não deixe de ficar por dentro das atualizações e noticias do servidor, acesse nosso discord: dicord.gg/pokefenix}".> Broadcasted message: "[Sistema-PokeFênix]Não deixe de atualizar nosso client para evitar erros e percas.".> Broadcasted message: "[Dica-PokeFênix]Você pode usar o atalho CTRL+Z para usar a vara de pesca.".> Broadcasted message: "[Dica-PokeFênix]Use !comandos para ver alguns comandos disponíveis.".> Broadcasted message: "[Sistema-PokeFênix]Não deixe de atualizar nosso client para evitar erros e percas.".> Broadcasted message: "Server Save em 10 segundos.".> Broadcasted message: "Server Save em 5 segundos.".> Saving server...> SAVE: Complete in 0.804 seconds using relational house storage.> Broadcasted message: "[Sistema-PokeFênix]Para saber mais dos benefícios premium acesso nossa loja.".> Broadcasted message: "[Dica-PokeFênix]Você pode usar o atalho CTRL+Z para usar a vara de pesca.".> Broadcasted message: "[Sistema-PokeFênix]Para saber mais dos benefícios premium acesso nossa loja.".> Broadcasted message: "[Sistema-PokeFênix]Para saber mais dos benefícios premium acesso nossa loja.".> Broadcasted message: "[Dica-PokeFênix]Você pode usar o atalho CTRL+Z para usar a vara de pesca.".> Broadcasted message: "[Sistema-PokeFênix]Não deixe de atualizar nosso client para evitar erros e percas.".> Broadcasted message: "[Sistema-PokeFênix]Faça uma doação e ajude o servidor florecer.".> Broadcasted message: "[Sistema-PokeFênix]Não deixe de atualizar nosso client para evitar erros e percas.".> Broadcasted message: "[Sistema-PokeFênix]Nosso site: ********".> Broadcasted message: "[PokeFênix]Lembre-se jogadores premium tem vantagem em: Exp/Catch/dropes.".> Broadcasted message: "[Sistema-PokeFênix]Para saber mais dos benefícios premium acesso nossa loja.".> Broadcasted message: "[Dica-PokeFênix]Use !comandos para ver alguns comandos disponíveis.".> Broadcasted message: "[Dica-PokeFênix]Para fazer a Mega Box Quest você precisa juntar 100 fire piece, 100 water piece e 100 leaf piece para poder entrar. São Dropados na outland e em alguns outros pokemons.".> Broadcasted message: "[PokeFênix]Garanta já sua premium, ganhe benefícios acesse já nossa loja.".> Broadcasted message: "[Dica-PokeFênix]Use !comandos para ver alguns comandos disponíveis.".> Broadcasted message: "[Sistema-PokeFênix]Nosso site: ********".> Broadcasted message: "[Sistema-PokeFênix]Não deixe de atualizar nosso client para evitar erros e percas.".> Broadcasted message: "[Sistema-PokeFênix]Use !comandos para ver alguns comandos disponíveis no servidor.".> Broadcasted message: "[PokeFênix]Lembre-se jogadores premium tem vantagem em: Exp/Catch/dropes.".Luquiinhas fez login.Lucas fez login.> Broadcasted message: "[Dica-PokeFênix]Você pode usar o atalho CTRL+Z para usar a vara de pesca.".> Broadcasted message: "Server Save em 10 segundos.".> Broadcasted message: "Server Save em 5 segundos.".> Saving server...> SAVE: Complete in 0.914 seconds using relational house storage.> Broadcasted message: "[Sistema-PokeFênix]Para saber mais dos benefícios premium acesso nossa loja.".[Error - CreatureScript Interface] data/creaturescripts/scripts/look.lua:onLookDescription: (luaGetCreatureName) Creature not found[Error - CreatureScript Interface] data/creaturescripts/scripts/look.lua:onLookDescription: (luaGetCreatureStorage) Creature not found[Error - CreatureScript Interface] data/creaturescripts/scripts/look.lua:onLookDescription: (luaGetCreatureStorage) Creature not found[Error - CreatureScript Interface] data/creaturescripts/scripts/look.lua:onLookDescription: data/creaturescripts/scripts/look.lua:292: invalid value (boolean) at index 2 in table for 'concat'stack traceback:	[C]: in function 'concat'	data/creaturescripts/scripts/look.lua:292: in function <data/creaturescripts/scripts/look.lua:89>> Broadcasted message: "[Sistema-PokeFênix]Não deixe de atualizar nosso client para evitar erros e percas.".> Broadcasted message: "[Dica-PokeFênix]Você pode usar o atalho CTRL+Z para usar a vara de pesca.".> Broadcasted message: "[Dica-PokeFênix]Dúvidas? tire elas no Canal Help!".> Broadcasted message: "[Dica-PokeFênix]Você pode usar o atalho CTRL+Z para usar a vara de pesca.".> Broadcasted message: "[Sistema-PokeFênix]Use !comandos para ver alguns comandos disponíveis no servidor.".> Broadcasted message: "[PokeFênix]Lembre-se jogadores premium tem vantagem em: Exp/Catch/dropes.".> Broadcasted message: "[Sistema-PokeFênix]Use !comandos para ver alguns comandos disponíveis no servidor.".> Broadcasted message: "[Sistema-PokeFênix]Para saber mais dos benefícios premium acesso nossa loja.".> Broadcasted message: "[PokeFênix]Garanta já sua premium, ganhe benefícios acesse já nossa loja.".> Broadcasted message: "[PokeFênix]Garanta já sua premium, ganhe benefícios acesse já nossa loja.".> Broadcasted message: "[Dica-PokeFênix]Você pode usar o atalho CTRL+Z para usar a vara de pesca.".> Broadcasted message: "[Sistema-PokeFênix]Para saber mais dos benefícios premium acesso nossa loja.".> Broadcasted message: "[Dica-PokeFênix]Para fazer a Mega Box Quest você precisa juntar 100 fire piece, 100 water piece e 100 leaf piece para poder entrar. São Dropados na outland e em alguns outros pokemons.".Lucas has logged out.> Broadcasted message: "[Sistema-PokeFênix]Faça uma doação e ajude o servidor florecer.".> Broadcasted message: "{[PokeFênix]Não deixe de ficar por dentro das atualizações e noticias do servidor, acesse nosso discord: dicord.gg/pokefenix}".> Broadcasted message: "[Sistema-PokeFênix]Não deixe de atualizar nosso client para evitar erros e percas.".> Broadcasted message: "[Dica-PokeFênix]Para saber quantos Online Points você possui, digite: !opshop.".> Broadcasted message: "[Derrote o Pokémon]: O evento começou e durará 14 minutos. O pokémon sorteado foi Tangela! Quem conseguir derrotar mais Tangela's até o fim  será o vencedor!".> Broadcasted message: "[Sistema-PokeFênix]Use !comandos para ver alguns comandos disponíveis no servidor.".> Broadcasted message: "[Sistema-PokeFênix]Para saber mais dos benefícios premium acesso nossa loja.".> Broadcasted message: "[LOTTERY SYSTEM] Winner: Luquiinhas, Reward: Crystal Stone! Congratulations! (Proxima Loteria em 2 Hours)".> Broadcasted message: "Server Save em 10 segundos.".> Broadcasted message: "Server Save em 5 segundos.".> Saving server...> SAVE: Complete in 0.872 seconds using relational house storage.> Broadcasted message: "[Sistema-PokeFênix]Use !comandos para ver alguns comandos disponíveis no servidor.".> Broadcasted message: "[PokeFênix]Garanta já sua premium, ganhe benefícios acesse já nossa loja.".> Broadcasted message: "[Dica-PokeFênix]Para fazer a Mega Box Quest você precisa juntar 100 fire piece, 100 water piece e 100 leaf piece para poder entrar. São Dropados na outland e em alguns outros pokemons.".> Broadcasted message: "[Derrote o Pokémon]: O evento terminou e não houve nenhum vencedor.".> Broadcasted message: "[Dica-PokeFênix]Use !comandos para ver alguns comandos disponíveis.".> Broadcasted message: "[Dica-PokeFênix]Dúvidas? tire elas no Canal Help!".> Broadcasted message: "[Sistema-PokeFênix]Faça uma doação e ajude o servidor florecer.".> Broadcasted message: "[PokeFênix]Lembre-se jogadores premium tem vantagem em: Exp/Catch/dropes.".> Broadcasted message: "[PokeFênix]Garanta já sua premium, ganhe benefícios acesse já nossa loja.".> Broadcasted message: "[Dica-PokeFênix]Use !comandos para ver alguns comandos disponíveis.".> Broadcasted message: "[Sistema-PokeFênix]Para saber mais dos benefícios premium acesso nossa loja.".> Broadcasted message: "[Sistema-PokeFênix]Faça uma doação e ajude o servidor florecer.".> Broadcasted message: "[Sistema-PokeFênix]Não deixe de atualizar nosso client para evitar erros e percas.".> Broadcasted message: "[Dica-PokeFênix]Para saber quantos Online Points você possui, digite: !opshop.".> Broadcasted message: "[Dica-PokeFênix]Para fazer a Mega Box Quest você precisa juntar 100 fire piece, 100 water piece e 100 leaf piece para poder entrar. São Dropados na outland e em alguns outros pokemons.".> Broadcasted message: "[Sistema-PokeFênix]Para saber as vantagens de ser Premium account, acesse nossa loja agora mesmo.".> Broadcasted message: "[Sistema-PokeFênix]Faça uma doação e ajude o servidor florecer.".> Broadcasted message: "[Sistema-PokeFênix]Não deixe de atualizar nosso client para evitar erros e percas.".> Broadcasted message: "[Sistema-PokeFênix]Nosso site: ********".> Broadcasted message: "{[PokeFênix]Não deixe de ficar por dentro das atualizações e noticias do servidor, acesse nosso discord: dicord.gg/pokefenix}".> Broadcasted message: "[Sistema-PokeFênix]Não deixe de atualizar nosso client para evitar erros e percas.".> Broadcasted message: "Server Save em 10 segundos.".> Broadcasted message: "Server Save em 5 segundos.".> Saving server...> SAVE: Complete in 0.908 seconds using relational house storage.> Broadcasted message: "[Sistema-PokeFênix]Nosso site: ********".> Broadcasted message: "[Sistema-PokeFênix]Use !comandos para ver alguns comandos disponíveis no servidor.".> Broadcasted message: "[PokeFênix]Lembre-se jogadores premium tem vantagem em: Exp/Catch/dropes.".> Broadcasted message: "[Dica-PokeFênix]Dúvidas? tire elas no Canal Help!".> Broadcasted message: "[Sistema-PokeFênix]Nosso site: ********".> Broadcasted message: "{[PokeFênix]Não deixe de ficar por dentro das atualizações e noticias do servidor, acesse nosso discord: dicord.gg/pokefenix}".> Broadcasted message: "[Sistema-PokeFênix]Para saber mais dos benefícios premium acesso nossa loja.".> Broadcasted message: "{[PokeFênix]Não deixe de ficar por dentro das atualizações e noticias do servidor, acesse nosso discord: dicord.gg/pokefenix}".> Broadcasted message: "[PokeFênix]Garanta já sua premium, ganhe benefícios acesse já nossa loja.".> Broadcasted message: "[Dica-PokeFênix]Use !comandos para ver alguns comandos disponíveis.".> Broadcasted message: "[PokeFênix]Lembre-se jogadores premium tem vantagem em: Exp/Catch/dropes.".> Broadcasted message: "[Dica-PokeFênix]Use !comandos para ver alguns comandos disponíveis.".> Broadcasted message: "[Dica-PokeFênix]Use !comandos para ver alguns comandos disponíveis.".> Broadcasted message: "[Sistema-PokeFênix]Não deixe de atualizar nosso client para evitar erros e percas.".> Broadcasted message: "[Sistema-PokeFênix]Para saber mais dos benefícios premium acesso nossa loja.".> Broadcasted message: "[Sistema-PokeFênix]Nosso site: ********".> Broadcasted message: "[Sistema-PokeFênix]Use !comandos para ver alguns comandos disponíveis no servidor.".> Broadcasted message: "[Dica-PokeFênix]Para fazer a Mega Box Quest você precisa juntar 100 fire piece, 100 water piece e 100 leaf piece para poder entrar. São Dropados na outland e em alguns outros pokemons.".> Broadcasted message: "[Sistema-PokeFênix]Nosso site: ********".> Broadcasted message: "[LOTTERY SYSTEM] Winner: Luquiinhas, Reward: Leaf Stone! Congratulations! (Proxima Loteria em 2 Hours)".> Broadcasted message: "Server Save em 10 segundos.".> Broadcasted message: "Server Save em 5 segundos.".> Saving server...> SAVE: Complete in 0.795 seconds using relational house storage.> Broadcasted message: "{[PokeFênix]Não deixe de ficar por dentro das atualizações e noticias do servidor, acesse nosso discord: dicord.gg/pokefenix}".> Broadcasted message: "{[PokeFênix]Não deixe de ficar por dentro das atualizações e noticias do servidor, acesse nosso discord: dicord.gg/pokefenix}".> Broadcasted message: "[Dica-PokeFênix]Para saber quantos Online Points você possui, digite: !opshop.".> Broadcasted message: "[PokeFênix]Lembre-se jogadores premium tem vantagem em: Exp/Catch/dropes.".> Broadcasted message: "{[PokeFênix]Não deixe de ficar por dentro das atualizações e noticias do servidor, acesse nosso discord: dicord.gg/pokefenix}".> Broadcasted message: "[Sistema-PokeFênix]Use !comandos para ver alguns comandos disponíveis no servidor.".> Broadcasted message: "[Sistema-PokeFênix]Não deixe de atualizar nosso client para evitar erros e percas.".> Broadcasted message: "[Sistema-PokeFênix]Use !comandos para ver alguns comandos disponíveis no servidor.".> Broadcasted message: "[Sistema-PokeFênix]Para saber mais dos benefícios premium acesso nossa loja.".> Broadcasted message: "[Sistema-PokeFênix]Faça uma doação e ajude o servidor florecer.".> Broadcasted message: "[Sistema-PokeFênix]Para saber mais dos benefícios premium acesso nossa loja.".> Broadcasted message: "{[PokeFênix]Não deixe de ficar por dentro das atualizações e noticias do servidor, acesse nosso discord: dicord.gg/pokefenix}".> Broadcasted message: "[Dica-PokeFênix]Para fazer a Mega Box Quest você precisa juntar 100 fire piece, 100 water piece e 100 leaf piece para poder entrar. São Dropados na outland e em alguns outros pokemons.".> Broadcasted message: "[Sistema-PokeFênix]Para saber as vantagens de ser Premium account, acesse nossa loja agora mesmo.".> Broadcasted message: "[Dica-PokeFênix]Para fazer a Mega Box Quest você precisa juntar 100 fire piece, 100 water piece e 100 leaf piece para poder entrar. São Dropados na outland e em alguns outros pokemons.".> Broadcasted message: "[Dica-PokeFênix]Use !comandos para ver alguns comandos disponíveis.".> Broadcasted message: "[Dica-PokeFênix]Para saber quantos Online Points você possui, digite: !opshop.".> Broadcasted message: "[Dica-PokeFênix]Você pode usar o atalho CTRL+Z para usar a vara de pesca.".> Broadcasted message: "[Dica-PokeFênix]Use !comandos para ver alguns comandos disponíveis.".> Broadcasted message: "[Sistema-PokeFênix]Não deixe de atualizar nosso client para evitar erros e percas.".> Broadcasted message: "Server Save em 10 segundos.".> Broadcasted message: "Server Save em 5 segundos.".> Saving server...> SAVE: Complete in 0.841 seconds using relational house storage.> Broadcasted message: "[Sistema-PokeFênix]Para saber mais dos benefícios premium acesso nossa loja.".> Broadcasted message: "[Dica-PokeFênix]Para fazer a Mega Box Quest você precisa juntar 100 fire piece, 100 water piece e 100 leaf piece para poder entrar. São Dropados na outland e em alguns outros pokemons.".> Broadcasted message: "[PokeFênix]Lembre-se jogadores premium tem vantagem em: Exp/Catch/dropes.".> Broadcasted message: "{[PokeFênix]Não deixe de ficar por dentro das atualizações e noticias do servidor, acesse nosso discord: dicord.gg/pokefenix}".> Broadcasted message: "[PokeFênix]Garanta já sua premium, ganhe benefícios acesse já nossa loja.".> Broadcasted message: "[Dica-PokeFênix]Para saber quantos Online Points você possui, digite: !opshop.".> Broadcasted message: "[PokeFênix]Lembre-se jogadores premium tem vantagem em: Exp/Catch/dropes.".> Broadcasted message: "[Dica-PokeFênix]Para saber quantos Online Points você possui, digite: !opshop.".> Broadcasted message: "[Sistema-PokeFênix]Para saber mais dos benefícios premium acesso nossa loja.".> Broadcasted message: "[Sistema-PokeFênix]Para saber as vantagens de ser Premium account, acesse nossa loja agora mesmo.".> Broadcasted message: "[Dica-PokeFênix]Para saber quantos Online Points você possui, digite: !opshop.".> Broadcasted message: "[Dica-PokeFênix]Para fazer a Mega Box Quest você precisa juntar 100 fire piece, 100 water piece e 100 leaf piece para poder entrar. São Dropados na outland e em alguns outros pokemons.".> Broadcasted message: "[Dica-PokeFênix]Para fazer a Mega Box Quest você precisa juntar 100 fire piece, 100 water piece e 100 leaf piece para poder entrar. São Dropados na outland e em alguns outros pokemons.".> Broadcasted message: "[PokeFênix]Garanta já sua premium, ganhe benefícios acesse já nossa loja.".> Broadcasted message: "[Dica-PokeFênix]Para saber quantos Online Points você possui, digite: !opshop.".> Broadcasted message: "[Sistema-PokeFênix]Não deixe de atualizar nosso client para evitar erros e percas.".> Broadcasted message: "[Sistema-PokeFênix]Faça uma doação e ajude o servidor florecer.".> Broadcasted message: "[Dica-PokeFênix]Você pode usar o atalho CTRL+Z para usar a vara de pesca.".> Broadcasted message: "[Sistema-PokeFênix]
+[02/01/2025 03:29:28] Para saber as vantagens de ser Premium account, acesse nossa loja agora mesmo.".
+[02/01/2025 03:32:29] > Broadcasted message: "[Sistema-PokeFênix]
+[02/01/2025 03:32:29] Nosso site: ********".
+[02/01/2025 03:34:34] > Broadcasted message: "[LOTTERY SYSTEM] Winner: Luquiinhas, Reward: Rock Stone! Congratulations! (Proxima Loteria em 2 Hours)".
+[02/01/2025 03:34:40] > Broadcasted message: "Server Save em 10 segundos.".
+[02/01/2025 03:34:45] > Broadcasted message: "Server Save em 5 segundos.".
+[02/01/2025 03:34:50] > Saving server...
+[02/01/2025 03:34:52] > SAVE: Complete in 1.731 seconds using relational house storage.
+[02/01/2025 03:35:30] > Broadcasted message: "[PokeFênix]
+[02/01/2025 03:35:30] Garanta já sua premium, ganhe benefícios acesse já nossa loja.".
+[02/01/2025 03:38:31] > Broadcasted message: "[Dica-PokeFênix]
+[02/01/2025 03:38:31] Para fazer a Mega Box Quest você precisa juntar 100 fire piece, 100 water piece e 100 leaf piece para poder entrar. São Dropados na outland e em alguns outros pokemons.".
+[02/01/2025 03:41:32] > Broadcasted message: "{[PokeFênix]
+[02/01/2025 03:41:32] Não deixe de ficar por dentro das atualizações e noticias do servidor, acesse nosso discord: dicord.gg/pokefenix}".
+[02/01/2025 03:42:44] Pokemon Dash Advanced, version 0.3.6 (PDA)
+[02/01/2025 03:42:44] Compiled with GNU C++ version 4.4.0 at Jan  1 2025, 22:37:13.
+[02/01/2025 03:42:44] A server developed by Elf, slawkens, Talaturen, KaczooH, Lithium, Kiper, Kornholijo.
+[02/01/2025 03:42:44] Visit our forum for updates, support and resources: http://otland.net.
+[02/01/2025 03:42:44] 
+[02/01/2025 03:42:44] >> Loading config (config.lua)
+[02/01/2025 03:42:44] 
+[02/01/2025 03:42:44] > ERROR: Another instance of The Forgotten Server is already running with the same worldId.
+[02/01/2025 03:42:44] If you want to run multiple servers, please change the worldId in configuration file.
+[02/01/2025 03:42:55] Luquiinhas has logged out.
+[02/01/2025 03:42:55] > Saving server...
+[02/01/2025 03:42:56] > SAVE: Complete in 0.802 seconds using relational house storage.
+[02/01/2025 03:42:59] Pokemon Dash Advanced, version 0.3.6 (PDA)
+[02/01/2025 03:42:59] Compiled with GNU C++ version 4.4.0 at Jan  1 2025, 22:37:13.
+[02/01/2025 03:42:59] A server developed by Elf, slawkens, Talaturen, KaczooH, Lithium, Kiper, Kornholijo.
+[02/01/2025 03:42:59] Visit our forum for updates, support and resources: http://otland.net.
+[02/01/2025 03:42:59] 
+[02/01/2025 03:42:59] >> Loading config (config.lua)
+[02/01/2025 03:42:59] > Using SHA1 encryption
+[02/01/2025 03:42:59] >> Loading RSA key
+[02/01/2025 03:42:59] >> Starting SQL connection
+[02/01/2025 03:42:59] >> Running Database Manager
+[02/01/2025 03:42:59] > No tables were optimized.
+[02/01/2025 03:42:59] >> Loading items
+[02/01/2025 03:42:59] [Warning - Items::loadFromXml] No itemid found
+[02/01/2025 03:42:59] [Warning - Items::loadFromXml] No itemid found
+[02/01/2025 03:42:59] >> Loading groups
+[02/01/2025 03:42:59] >> Loading vocations
+[02/01/2025 03:42:59] >> Loading script systems
+[02/01/2025 03:43:00] [Warning - Actions::registerEvent] Duplicate registered item with id: 22128, in fromid: 22113 and toid: 22144
+[02/01/2025 03:43:00] [Warning - Actions::registerEvent] Duplicate registered item with id: 22129, in fromid: 22113 and toid: 22144
+[02/01/2025 03:43:01] >> Loading chat channels
+[02/01/2025 03:43:01] >> Loading outfits
+[02/01/2025 03:43:01] >> Loading experience stages
+[02/01/2025 03:43:01] >> Loading monsters
+[02/01/2025 03:43:01] [Warning - Monsters::loadFromXml] Unknown node name (script).
+[02/01/2025 03:43:02] >> Loading mods...
+[02/01/2025 03:43:02] > Loading classic_changender.xml... done.
+[02/01/2025 03:43:02] > Loading firstitems.xml... done.
+[02/01/2025 03:43:02] > Loading highscorebook.xml... done.
+[02/01/2025 03:43:02] > Loading minimap.xml... done.
+[02/01/2025 03:43:02] > 4 mods were loaded.
+[02/01/2025 03:43:02] >> Loading map and spawns...
+[02/01/2025 03:43:05] > Map size: 2800x2000.
+[02/01/2025 03:43:05] > Map descriptions: 
+[02/01/2025 03:43:05] "Saved with OTAcademy Map Editor 4.1.2"
+[02/01/2025 03:43:05] "Map Dash Editadu Por TiIoO"
+[02/01/2025 03:43:11] Duplicate uniqueId 19456
+[02/01/2025 03:43:12] Duplicate uniqueId 1048
+[02/01/2025 03:43:16] Duplicate uniqueId 4648
+[02/01/2025 03:43:19] Duplicate uniqueId 15004
+[02/01/2025 03:43:20] Duplicate uniqueId 15005
+[02/01/2025 03:43:20] Duplicate uniqueId 15001
+[02/01/2025 03:43:20] Duplicate uniqueId 15002
+[02/01/2025 03:44:28] Pokemon Dash Advanced, version 0.3.6 (PDA)
+[02/01/2025 03:44:28] Compiled with GNU C++ version 4.4.0 at Jan  1 2025, 22:37:13.
+[02/01/2025 03:44:28] A server developed by Elf, slawkens, Talaturen, KaczooH, Lithium, Kiper, Kornholijo.
+[02/01/2025 03:44:28] Visit our forum for updates, support and resources: http://otland.net.
+[02/01/2025 03:44:28] 
+[02/01/2025 03:44:28] >> Loading config (config.lua)
+[02/01/2025 03:44:28] > Using SHA1 encryption
+[02/01/2025 03:44:28] >> Loading RSA key
+[02/01/2025 03:44:29] >> Starting SQL connection
+[02/01/2025 03:44:29] >> Running Database Manager
+[02/01/2025 03:44:29] > No tables were optimized.
+[02/01/2025 03:44:29] >> Loading items
+[02/01/2025 03:44:29] [Warning - Items::loadFromXml] No itemid found
+[02/01/2025 03:44:29] [Warning - Items::loadFromXml] No itemid found
+[02/01/2025 03:44:29] >> Loading groups
+[02/01/2025 03:44:29] >> Loading vocations
+[02/01/2025 03:44:29] >> Loading script systems
+[02/01/2025 03:44:29] [Warning - Actions::registerEvent] Duplicate registered item with id: 22128, in fromid: 22113 and toid: 22144
+[02/01/2025 03:44:29] [Warning - Actions::registerEvent] Duplicate registered item with id: 22129, in fromid: 22113 and toid: 22144
+[02/01/2025 03:44:30] >> Loading chat channels
+[02/01/2025 03:44:30] >> Loading outfits
+[02/01/2025 03:44:30] >> Loading experience stages
+[02/01/2025 03:44:30] >> Loading monsters
+[02/01/2025 03:44:30] [Warning - Monsters::loadFromXml] Unknown node name (script).
+[02/01/2025 03:44:31] >> Loading mods...
+[02/01/2025 03:44:31] > Loading classic_changender.xml... done.
+[02/01/2025 03:44:31] > Loading firstitems.xml... done.
+[02/01/2025 03:44:31] > Loading highscorebook.xml... done.
+[02/01/2025 03:44:31] > Loading minimap.xml... done.
+[02/01/2025 03:44:31] > 4 mods were loaded.
+[02/01/2025 03:44:31] >> Loading map and spawns...
+[02/01/2025 03:44:33] > Map size: 2800x2000.
+[02/01/2025 03:44:33] > Map descriptions: 
+[02/01/2025 03:44:33] "Saved with OTAcademy Map Editor 4.1.2"
+[02/01/2025 03:44:33] "Map Dash Editadu Por TiIoO"
+[02/01/2025 03:44:40] Duplicate uniqueId 19456
+[02/01/2025 03:44:40] Duplicate uniqueId 1048
+[02/01/2025 03:44:45] Duplicate uniqueId 4648
+[02/01/2025 03:44:48] Duplicate uniqueId 15004
+[02/01/2025 03:44:49] Duplicate uniqueId 15005
+[02/01/2025 03:44:49] Duplicate uniqueId 15001
+[02/01/2025 03:44:49] Duplicate uniqueId 15002
+[02/01/2025 03:45:42] Pokemon Dash Advanced, version 0.3.6 (PDA)
+[02/01/2025 03:45:42] Compiled with GNU C++ version 4.4.0 at Jan  1 2025, 22:37:13.
+[02/01/2025 03:45:42] A server developed by Elf, slawkens, Talaturen, KaczooH, Lithium, Kiper, Kornholijo.
+[02/01/2025 03:45:42] Visit our forum for updates, support and resources: http://otland.net.
+[02/01/2025 03:45:42] 
+[02/01/2025 03:45:42] >> Loading config (config.lua)
+[02/01/2025 03:45:42] > Using SHA1 encryption
+[02/01/2025 03:45:42] >> Loading RSA key
+[02/01/2025 03:45:42] >> Starting SQL connection
+[02/01/2025 03:45:42] >> Running Database Manager
+[02/01/2025 03:45:42] > No tables were optimized.
+[02/01/2025 03:45:42] >> Loading items
+[02/01/2025 03:45:42] [Warning - Items::loadFromXml] No itemid found
+[02/01/2025 03:45:42] [Warning - Items::loadFromXml] No itemid found
+[02/01/2025 03:45:42] >> Loading groups
+[02/01/2025 03:45:42] >> Loading vocations
+[02/01/2025 03:45:42] >> Loading script systems
+[02/01/2025 03:45:42] [Warning - Actions::registerEvent] Duplicate registered item with id: 22128, in fromid: 22113 and toid: 22144
+[02/01/2025 03:45:42] [Warning - Actions::registerEvent] Duplicate registered item with id: 22129, in fromid: 22113 and toid: 22144
+[02/01/2025 03:45:43] >> Loading chat channels
+[02/01/2025 03:45:43] >> Loading outfits
+[02/01/2025 03:45:43] >> Loading experience stages
+[02/01/2025 03:45:43] >> Loading monsters
+[02/01/2025 03:45:43] [Warning - Monsters::loadFromXml] Unknown node name (script).
+[02/01/2025 03:45:44] >> Loading mods...
+[02/01/2025 03:45:44] > Loading classic_changender.xml... done.
+[02/01/2025 03:45:44] > Loading firstitems.xml... done.
+[02/01/2025 03:45:44] > Loading highscorebook.xml... done.
+[02/01/2025 03:45:44] > Loading minimap.xml... done.
+[02/01/2025 03:45:44] > 4 mods were loaded.
+[02/01/2025 03:45:44] >> Loading map and spawns...
+[02/01/2025 03:45:46] > Map size: 2800x2000.
+[02/01/2025 03:45:46] > Map descriptions: 
+[02/01/2025 03:45:46] "Saved with OTAcademy Map Editor 4.1.2"
+[02/01/2025 03:45:46] "Map Dash Editadu Por TiIoO"
+[02/01/2025 03:45:53] Duplicate uniqueId 19456
+[02/01/2025 03:45:53] Duplicate uniqueId 1048
+[02/01/2025 03:45:58] Duplicate uniqueId 4648
+[02/01/2025 03:46:01] Duplicate uniqueId 15004
+[02/01/2025 03:46:02] Duplicate uniqueId 15005
+[02/01/2025 03:46:02] Duplicate uniqueId 15001
+[02/01/2025 03:46:02] Duplicate uniqueId 15002
+[02/01/2025 03:46:09] > Map loading time: 24.869 seconds.
+[02/01/2025 03:46:10] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (850)
+[02/01/2025 03:46:10] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (851)
+[02/01/2025 03:46:10] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (852)
+[02/01/2025 03:46:10] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (853)
+[02/01/2025 03:46:10] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (854)
+[02/01/2025 03:46:10] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (855)
+[02/01/2025 03:46:10] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (856)
+[02/01/2025 03:46:10] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (857)
+[02/01/2025 03:46:10] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (858)
+[02/01/2025 03:46:10] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (860)
+[02/01/2025 03:46:10] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (861)
+[02/01/2025 03:46:10] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (870)
+[02/01/2025 03:46:10] > Data parsing time: 0.99 seconds.
+[02/01/2025 03:46:11] > Houses synchronization time: 1.846 seconds.
+[02/01/2025 03:46:13] > Content unserialization time: 1.214 seconds.
+[02/01/2025 03:46:13] >> Checking world type... PvP
+[02/01/2025 03:46:13] >> Initializing game state modules and registering services...
+[02/01/2025 03:46:21] [Warning - Monster::Monster] Unknown event name - Spawn
+[02/01/2025 03:46:21] > Global address: 127.0.0.1
+[02/01/2025 03:46:21] > Local ports: 7171	7172	
+[02/01/2025 03:46:21] >> All modules were loaded, server is starting up...
+[02/01/2025 03:46:21] >> RoXy server Online!
+[02/01/2025 03:46:21] 
+[02/01/2025 03:46:34] Luquiinhas fez login.
+[02/01/2025 03:46:41] Lucas fez login.
+[02/01/2025 16:10:14] Pokemon Dash Advanced, version 0.3.6 (PDA)
+[02/01/2025 16:10:14] Compiled with GNU C++ version 4.4.0 at Jun  6 2019, 13:39:38.
+[02/01/2025 16:10:14] A server developed by Elf, slawkens, Talaturen, KaczooH, Lithium, Kiper, Kornholijo.
+[02/01/2025 16:10:14] Visit our forum for updates, support and resources: http://otland.net.
+[02/01/2025 16:10:14] 
+[02/01/2025 16:10:14] >> Loading config (config.lua)
+[02/01/2025 16:10:14] > Using SHA1 encryption
+[02/01/2025 16:10:14] >> Loading RSA key
+[02/01/2025 16:10:14] >> Starting SQL connection
+[02/01/2025 16:10:15] >> Running Database Manager
+[02/01/2025 16:10:15] > No tables were optimized.
+[02/01/2025 16:10:15] >> Loading items
+[02/01/2025 16:10:15] [Warning - Items::loadFromXml] No itemid found
+[02/01/2025 16:10:15] [Warning - Items::loadFromXml] No itemid found
+[02/01/2025 16:10:15] >> Loading groups
+[02/01/2025 16:10:15] >> Loading vocations
+[02/01/2025 16:10:15] >> Loading script systems
+[02/01/2025 16:10:17] [Warning - Actions::registerEvent] Duplicate registered item with id: 22128, in fromid: 22113 and toid: 22144
+[02/01/2025 16:10:17] [Warning - Actions::registerEvent] Duplicate registered item with id: 22129, in fromid: 22113 and toid: 22144
+[02/01/2025 16:10:20] >> Loading chat channels
+[02/01/2025 16:10:21] >> Loading outfits
+[02/01/2025 16:10:21] >> Loading experience stages
+[02/01/2025 16:10:21] >> Loading monsters
+[02/01/2025 16:10:21] [Warning - Monsters::loadFromXml] Unknown node name (script).
+[02/01/2025 16:10:25] >> Loading mods...
+[02/01/2025 16:10:25] > Loading classic_changender.xml... done.
+[02/01/2025 16:10:25] > Loading firstitems.xml... done.
+[02/01/2025 16:10:25] > Loading highscorebook.xml... done.
+[02/01/2025 16:10:25] > Loading minimap.xml... done.
+[02/01/2025 16:10:25] > 4 mods were loaded.
+[02/01/2025 16:10:25] >> Loading map and spawns...
+[02/01/2025 16:10:30] > Map size: 2800x2000.
+[02/01/2025 16:10:30] > Map descriptions: 
+[02/01/2025 16:10:30] "Saved with OTAcademy Map Editor 4.1.2"
+[02/01/2025 16:10:30] "Map Dash Editadu Por TiIoO"
+[02/01/2025 16:10:40] Duplicate uniqueId 19456
+[02/01/2025 16:10:41] Duplicate uniqueId 1048
+[02/01/2025 16:11:23] Pokemon Dash Advanced, version 0.3.6 (PDA)
+[02/01/2025 16:11:23] Compiled with GNU C++ version 4.4.0 at Jun  6 2019, 13:39:38.
+[02/01/2025 16:11:23] A server developed by Elf, slawkens, Talaturen, KaczooH, Lithium, Kiper, Kornholijo.
+[02/01/2025 16:11:23] Visit our forum for updates, support and resources: http://otland.net.
+[02/01/2025 16:11:23] 
+[02/01/2025 16:11:23] >> Loading config (config.lua)
+[02/01/2025 16:11:23] > Using SHA1 encryption
+[02/01/2025 16:11:23] >> Loading RSA key
+[02/01/2025 16:11:23] >> Starting SQL connection
+[02/01/2025 16:11:23] >> Running Database Manager
+[02/01/2025 16:11:23] > No tables were optimized.
+[02/01/2025 16:11:23] >> Loading items
+[02/01/2025 16:11:23] [Warning - Items::loadFromXml] No itemid found
+[02/01/2025 16:11:23] [Warning - Items::loadFromXml] No itemid found
+[02/01/2025 16:11:23] >> Loading groups
+[02/01/2025 16:11:23] >> Loading vocations
+[02/01/2025 16:11:23] >> Loading script systems
+[02/01/2025 16:11:24] [Warning - Actions::registerEvent] Duplicate registered item with id: 22128, in fromid: 22113 and toid: 22144
+[02/01/2025 16:11:24] [Warning - Actions::registerEvent] Duplicate registered item with id: 22129, in fromid: 22113 and toid: 22144
+[02/01/2025 16:11:25] >> Loading chat channels
+[02/01/2025 16:11:25] >> Loading outfits
+[02/01/2025 16:11:25] >> Loading experience stages
+[02/01/2025 16:11:25] >> Loading monsters
+[02/01/2025 16:11:25] [Warning - Monsters::loadFromXml] Unknown node name (script).
+[02/01/2025 16:11:26] >> Loading mods...
+[02/01/2025 16:11:26] > Loading classic_changender.xml... done.
+[02/01/2025 16:11:26] > Loading firstitems.xml... done.
+[02/01/2025 16:11:26] > Loading highscorebook.xml... done.
+[02/01/2025 16:11:26] > Loading minimap.xml... done.
+[02/01/2025 16:11:26] > 4 mods were loaded.
+[02/01/2025 16:11:26] >> Loading map and spawns...
+[02/01/2025 16:11:29] > Map size: 2800x2000.
+[02/01/2025 16:11:29] > Map descriptions: 
+[02/01/2025 16:11:29] "Saved with OTAcademy Map Editor 4.1.2"
+[02/01/2025 16:11:29] "Map Dash Editadu Por TiIoO"
+[02/01/2025 16:11:39] Duplicate uniqueId 19456
+[02/01/2025 16:11:39] Duplicate uniqueId 1048
+[02/01/2025 16:11:46] Duplicate uniqueId 4648
+[02/01/2025 16:11:51] Duplicate uniqueId 15004
+[02/01/2025 16:11:52] Duplicate uniqueId 15005
+[02/01/2025 16:11:52] Duplicate uniqueId 15001
+[02/01/2025 16:11:52] Duplicate uniqueId 15002
+[02/01/2025 16:12:09] > Map loading time: 43.344 seconds.
+[02/01/2025 16:12:12] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (850)
+[02/01/2025 16:12:12] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (851)
+[02/01/2025 16:12:12] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (852)
+[02/01/2025 16:12:12] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (853)
+[02/01/2025 16:12:12] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (854)
+[02/01/2025 16:12:12] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (855)
+[02/01/2025 16:12:12] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (856)
+[02/01/2025 16:12:12] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (857)
+[02/01/2025 16:12:12] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (858)
+[02/01/2025 16:12:12] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (860)
+[02/01/2025 16:12:12] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (861)
+[02/01/2025 16:12:12] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (870)
+[02/01/2025 16:12:12] > Data parsing time: 2.384 seconds.
+[02/01/2025 16:12:13] > Houses synchronization time: 1.509 seconds.
+[02/01/2025 16:12:14] > Content unserialization time: 1.046 seconds.
+[02/01/2025 16:12:14] >> Checking world type... PvP
+[02/01/2025 16:12:14] >> Initializing game state modules and registering services...
+[02/01/2025 16:12:23] [Warning - Monster::Monster] Unknown event name - Spawn
+[02/01/2025 16:12:23] > Global address: 127.0.0.1
+[02/01/2025 16:12:23] > Local ports: 7171	7172	
+[02/01/2025 16:12:23] >> All modules were loaded, server is starting up...
+[02/01/2025 16:12:23] >> RoXy server Online!
+[02/01/2025 16:12:23] 
+[02/01/2025 16:12:39] > Saving server...
+[02/01/2025 16:12:40] > SAVE: Complete in 1.013 seconds using relational house storage.

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Factur Lady" script="data/npc/scripts/factur.lua" walkinterval="1500" floorchange="0" access="5" level="1" maglevel="1" skull ="white">
+          <health now="150" max="150"/>
+          <look type="3702" head="114" body="12" legs="57" feet="114" addons="0" />
+          <parameters>
+                    <parameter key="message_greet" value="Hello, |PLAYERNAME|! Would like to travel to {outland}?"/>
+                    <parameter key="message_walkaway" value="Hey Hey, where you go ?"/>
+                    <parameter key="message_farewell" value="Bye bye!"/>
+          </parameters>
+</npc>

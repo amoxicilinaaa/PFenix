@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Sophie" script="Sheldon.lua" walkinterval="100" speed="80" floorchange="0">
+          <health now="150" max="150" />
+          <look type="4737" head="57" body="59" legs="40" feet="76" corpse="2212" />
+          <parameters>
+                    <parameter key="message_greet" value="Ola |PLAYERNAME|. O coelho da pascoa acabou de passar pelo mapa do Pokemon Roxy e deixou {Blue Easter Egg}, {Pink Easter Egg}, {Red Easter Egg}, {Golden Easter Egg}. Um em cada canto do mapa (norte,leste,oeste,sul). Traga-os para mim, feito isso diga {Pascoa}, e eu te darei uma otima recompensa." />
+                    <parameter key="message_farewell" value="Bye bye!" />
+          </parameters>
+</npc>

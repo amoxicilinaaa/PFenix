@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Jax" script="Jax.lua" walkinterval="2000" floorchange="0">
+          <health now="150" max="150" />
+          <look type="3149" head="57" body="59" legs="40" feet="76" corpse="2212" />
+          <parameters>
+                    <parameter key="message_greet" value="Ola |PLAYERNAME|. Eu preciso de 1 Boneco de Vodoo e de 1 Cruz Psiquica para trocar por {Shiny Abra}. Os itens estao perdido nas caves dessa ilha." />
+                    <parameter key="message_farewell" value="Bye bye!" />
+          </parameters>
+</npc>

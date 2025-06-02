@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Porygon" nameDescription="a porygon" race="normal" experience="1100" speed="221" manacost="0">
+    <health now="80" max="80"/>
+    <look type="448" head="40" body="60" legs="95" feet="113" corpse="11947"/>
+    <targetchange interval="2000" chance="0"/>
+    <strategy attack="100" defense="0"/>
+    <flags>
+        <flag summonable="1"/>
+        <flag attackable="1"/>
+        <flag hostile="1"/>
+        <flag passive="1"/>
+        <flag illusionable="1"/>
+        <flag convinceable="1"/>
+        <flag pushable="1"/>
+        <flag canpushitems="0"/>
+        <flag canpushcreatures="0"/>
+        <flag targetdistance="1"/>
+        <flag staticattack="97"/>
+        <flag runonhealth="0"/>
+       
+    </flags>
+    <attacks>
+        <attack name="physical" interval="2000" chance="100" range="5" min="-50" max="-100">
+            <attribute key="shootEffect" value="eartharrow"/>
+        </attack>
+        <attack name="Psybeam" interval="2758" chance="20" range="4"/>
+        <attack name="Agility" interval="5625" chance="15" range="6"/>
+        <attack name="Recover" interval="2675" chance="5" range="6"/>
+		<attack name="Discharge" interval="2675" chance="15" range="6"/>
+        <attack name="Tri Attack" interval="3228" chance="25" range="2"/>
+        <attack name="Magic Coat" interval="3510" chance="10" range="5"/>
+        <attack name="Zap Cannon" interval="6330" chance="15" range="3"/>
+        <attack name="Hyper Beam" interval="6130" chance="18" range="3"/>		
+    </attacks>
+    <defenses armor="0" defense="0"/>
+    <voices interval="5000" chance="10">
+        <voice sentence="PORYGON!"/>
+    </voices>
+    <loot>
+        <item id="12194" chance="1500" count="1" countmax="1"/>
+        <item id="11452" chance="150" count="1" countmax="1"/> --enigma stone
+        <item id="12338" chance="10" count="1"/> --bag box --bag box
+        <item id="21999" chance="15" count="1"/> --Poryz stone
+		<item id="15580" chance="300" count="1" countmax="1"/> -- toy
+   </loot>
+    <script>
+        <event name="Spawn"/>
+    </script>
+</monster>

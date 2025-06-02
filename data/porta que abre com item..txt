@@ -1,0 +1,68 @@
+sumir item pra abrir porta.
+
+
+Action:
+
+local config = {
+    itens = {11641, 1},          --ID do item/quantidade que deve "dar" a porta.
+    time = 8,                    --Tempo, em segundos, para a porta fechar.
+    storage = 90561,
+}
+function onUse(cid, item, fromPosition, itemEx, toPosition)
+    if getPlayerStorageValue(cid, config.storage) > -1 then
+        return doPlayerSendCancel(cid, "You already passed through the door.")
+    elseif getPlayerItemCount(cid, config.itens[1]) < config.itens[2] then
+        return doPlayerSendCancel(cid, "You need "..config.itens[2].." "..getItemNameById(config.itens[1]).." to open the door.")
+    end
+    local guid, name, itemid = getPlayerGUID(cid), getCreatureName(cid), item.itemid + 1
+    addEvent(function()
+        item = getTileItemById(toPosition, itemid).uid
+        if item > 0 then
+            doItemSetAttribute(item, "aid", 7815)
+            doTransformItem(item, itemid - 1)
+        end
+        if isPlayer(cid) then
+            setPlayerStorageValue(cid, config.storage, 1)
+        else
+            cid = getPlayerByName(name)
+            if isCreature(cid) then
+                setPlayerStorageValue(cid, config.storage, 1)
+            else
+                db.executeQuery("UPDATE player_storage SET value = 1 WHERE key = "..config.storage.." AND player_id = "..guid)
+            end
+        end
+    end, config.time * 1000)
+    doPlayerRemoveItem(cid, config.itens[1], config.itens[2])
+    doPlayerSendTextMessage(cid, 27, "You sacrificed "..config.itens[2].." "..getItemNameById(config.itens[1]).." to open the door.")
+    doTransformItem(item.uid, item.itemid + 1)
+    doItemSetAttribute(item.uid, "aid", 7816)
+    return true
+end
+
+
+
+Tag:
+
+<action actionid="7815" event="script" value="nome_do_arquivo.lua"/>
+
+
+
+Movement:
+
+local storage = 90561
+function onStepIn(cid, item, position, fromPosition)
+    if not isPlayer(cid) then
+        return true
+    end
+    if getPlayerStorageValue(cid, storage) > -1 then
+        return doPlayerSendCancel(cid, "You cannot pass through the door.") and doTeleportThing(cid, fromPosition)
+    end
+    return true
+end
+
+
+
+Tag:
+
+
+<movevent type="StepIn" actionid="7816" event="script" value="nome_do_arquivo.lua"/>

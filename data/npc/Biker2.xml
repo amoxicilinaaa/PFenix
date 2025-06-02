@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Biker" script="default.lua" walkinterval="0" floorchange="0" speed="0">
+<health now="150" max="150"/>
+<look type="606" head="91" body="114" legs="86" feet="0"/>
+<parameters>
+<parameter key="message_greet" value="Olá Amigo, eu tenho algumas bikes para vender se lhe interessar, diga {trade}!!"/>
+<parameter key="message_farewell" value="Tchau!"/>
+<parameter key="message_idletimeout" value="Tchau!"/>
+<parameter key="message_walkaway" value="Tchau"/>
+<parameter key="module_shop" value="1"/>
+<parameter key="shop_buyable" value= "bike noob,22080,150000000;
+"/>
+<parameter key="shop_sellable" value= "bike noob,22080,25000000;"/>
+</parameters>
+</npc>

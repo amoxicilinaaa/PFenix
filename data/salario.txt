@@ -1,0 +1,52 @@
+Salario pra tutor ou outro cargo
+
+
+Globalevents
+
+
+local config = {
+    tutorId = 3,                  --Group ID do tutor.
+    day = "1",                    --Dia do mês que receberá o salário.
+    diamond = {itemid, count},    --{ID_do_diamond, quantidade},
+}
+function onTime()
+    if os.date("%d") == config.day then
+        local tutors = db.getResult("SELECT name, id, online FROM players WHERE group_id = "..config.tutorId)
+        if tutors:getID() ~= -1 then
+            repeat
+                if tutors:getDataInt("online") > 0 then
+                    local player = getPlayerByName(tutors:getDataString("name"))
+                    doPlayerSendTextMessage(player, MESSAGE_STATUS_CONSOLE_ORANGE, "You received "..config.diamond[2].." diamonds.")
+                    doPlayerAddItem(cid, config.diamond[1], config.diamond[2])
+                else
+                    db.executeQuery("UPDATE player_storage SET value = 1 WHERE key = 9561 AND player_id = "..tutors:getDataInt("id"))
+                end
+            until not tutors:next()
+            tutors:free()
+        end
+    end
+    return true
+end
+
+
+
+creaturescript
+
+local diamond = {itemid, count}    --{ID_do_diamond, quantidade}
+function onLogin(cid)
+    if getPlayerStorageValue(cid, 9561) > -1 then
+        doPlayerSendTextMessage(player, MESSAGE_STATUS_CONSOLE_ORANGE, "You received "..diamond[2].." diamonds.")
+        doPlayerAddItem(cid, diamond[1], diamond[2])
+        setPlayerStorageValue(cid, 9561, -1)
+    end
+    return true
+end
+
+
+tag creaturescript
+
+<event type="login" name="SalaryLogin" event="script" value="nome_do_arquivo.lua"/>
+
+tag globalevents
+
+<globalevent name="Salary" time="00:00" event="script" value="nome_do_arquivo.lua"/>

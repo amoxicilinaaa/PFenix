@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Articuno" nameDescription="a articuno" race="ice" experience="1000" speed="400" manacost="0">
+    <health now="220" max="220"/>
+    <look type="5714" head="100" body="100" legs="95" feet="113" corpse="11843"/>
+    <targetchange interval="2000" chance="0"/>
+    <strategy attack="100" defense="0"/>
+    <flags>
+        <flag summonable="1"/>
+        <flag attackable="1"/>
+        <flag hostile="1"/>
+        <flag illusionable="1"/>
+        <flag convinceable="1"/>
+        <flag pushable="1"/>
+        <flag canpushitems="0"/>
+        <flag canpushcreatures="0"/>
+        <flag targetdistance="1"/>
+        <flag staticattack="97"/>
+        <flag runonhealth="0"/>
+        
+    </flags>
+    <script>
+        <event name="Spawn"/>
+    </script>
+    <attacks>
+        <attack name="melee" interval="2000" chance="100" range="1" min="-50" max="-100"/>
+        <attack name="Gust" interval="2805" chance="100" range="1"/>
+        <attack name="Ancient Power" interval="2946" chance="100" range="3"/>
+        <attack name="Agility" interval="2993" chance="100" range="6"/>
+        <attack name="Reflect" interval="2946" chance="100" range="6"/>
+        <attack name="Tailwind" interval="3940" chance="100" range="2"/>
+        <attack name="Ice Beam" interval="5069" chance="100" range="3"/>
+        <attack name="Blizzard" interval="3510" chance="100" range="6"/>
+		<attack name="Hurricane" interval="2852" chance="100" range="2"/>
+		<attack name="Aerial Ace" interval="2852" chance="100" range="6"/>
+    </attacks>
+    <defenses armor="0" defense="0"/>
+    <voices interval="5000" chance="10">
+        <voice sentence="ARTICUNO!"/>
+    </voices>
+    <loot>
+	<item id="15718" chance="2000" count="1"/> --toy
+    </loot>
+	<script>
+<event name="Spawn"/>
+</script>
+	    <script>
+        <event name="tp16"/>
+    </script>
+</monster>

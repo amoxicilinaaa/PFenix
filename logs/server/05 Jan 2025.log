@@ -1,0 +1,127 @@
+[05/01/2025 12:26:32] Pokemon Dash Advanced, version 0.3.6 (PDA)
+[05/01/2025 12:26:32] Compiled with GNU C++ version 4.4.0 at Jan  1 2025, 15:31:04.
+[05/01/2025 12:26:32] A server developed by Elf, slawkens, Talaturen, KaczooH, Lithium, Kiper, Kornholijo.
+[05/01/2025 12:26:32] Visit our forum for updates, support and resources: http://otland.net.
+[05/01/2025 12:26:32] 
+[05/01/2025 12:26:32] >> Loading config (config.lua)
+[05/01/2025 12:26:32] > Using SHA1 encryption
+[05/01/2025 12:26:32] >> Loading RSA key
+[05/01/2025 12:26:32] >> Starting SQL connection
+[05/01/2025 12:26:32] >> Running Database Manager
+[05/01/2025 12:26:34] > No tables were optimized.
+[05/01/2025 12:26:34] >> Loading items
+[05/01/2025 12:26:34] [Warning - Items::loadFromXml] No itemid found
+[05/01/2025 12:26:34] [Warning - Items::loadFromXml] No itemid found
+[05/01/2025 12:26:34] >> Loading groups
+[05/01/2025 12:26:34] >> Loading vocations
+[05/01/2025 12:26:34] >> Loading script systems
+[05/01/2025 12:26:35] [Warning - Actions::registerEvent] Duplicate registered item with id: 22128, in fromid: 22113 and toid: 22144
+[05/01/2025 12:26:35] [Warning - Actions::registerEvent] Duplicate registered item with id: 22129, in fromid: 22113 and toid: 22144
+[05/01/2025 12:26:37] >> Loading chat channels
+[05/01/2025 12:26:37] >> Loading outfits
+[05/01/2025 12:26:37] >> Loading experience stages
+[05/01/2025 12:26:37] >> Loading monsters
+[05/01/2025 12:26:37] [Warning - Monsters::loadFromXml] Unknown node name (script).
+[05/01/2025 12:26:39] >> Loading mods...
+[05/01/2025 12:26:39] > Loading classic_changender.xml... done.
+[05/01/2025 12:26:39] > Loading firstitems.xml... done.
+[05/01/2025 12:26:39] > Loading highscorebook.xml... done.
+[05/01/2025 12:26:39] > Loading minimap.xml... done.
+[05/01/2025 12:26:39] > 4 mods were loaded.
+[05/01/2025 12:26:39] >> Loading map and spawns...
+[05/01/2025 12:26:42] > Map size: 2800x2000.
+[05/01/2025 12:26:42] > Map descriptions: 
+[05/01/2025 12:26:42] "Saved with OTAcademy Map Editor 4.1.2"
+[05/01/2025 12:26:42] "Map Dash Editadu Por TiIoO"
+[05/01/2025 12:26:49] Duplicate uniqueId 19456
+[05/01/2025 12:26:49] Duplicate uniqueId 1048
+[05/01/2025 12:26:54] Duplicate uniqueId 4648
+[05/01/2025 12:26:58] Duplicate uniqueId 15004
+[05/01/2025 12:26:59] Duplicate uniqueId 15005
+[05/01/2025 12:26:59] Duplicate uniqueId 15001
+[05/01/2025 12:26:59] Duplicate uniqueId 15002
+[05/01/2025 12:27:06] > Map loading time: 26.875 seconds.
+[05/01/2025 12:27:07] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (850)
+[05/01/2025 12:27:07] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (851)
+[05/01/2025 12:27:07] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (852)
+[05/01/2025 12:27:07] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (853)
+[05/01/2025 12:27:07] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (854)
+[05/01/2025 12:27:07] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (855)
+[05/01/2025 12:27:07] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (856)
+[05/01/2025 12:27:07] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (857)
+[05/01/2025 12:27:07] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (858)
+[05/01/2025 12:27:07] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (860)
+[05/01/2025 12:27:07] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (861)
+[05/01/2025 12:27:07] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (870)
+[05/01/2025 12:27:07] > Data parsing time: 1.344 seconds.
+[05/01/2025 12:27:09] > Houses synchronization time: 1.742 seconds.
+[05/01/2025 12:27:10] > Content unserialization time: 0.771 seconds.
+[05/01/2025 12:27:10] >> Checking world type... PvP
+[05/01/2025 12:27:10] >> Initializing game state modules and registering services...
+[05/01/2025 12:27:18] [Warning - Monster::Monster] Unknown event name - Spawn
+[05/01/2025 12:27:18] > Global address: 127.0.0.1
+[05/01/2025 12:27:18] > Local ports: 7171	7172	
+[05/01/2025 12:27:18] >> All modules were loaded, server is starting up...
+[05/01/2025 12:27:18] >> RoXy server Online!
+[05/01/2025 12:27:18] 
+[05/01/2025 12:29:38] > Broadcasted message: "[Dica-PokeFênix]
+[05/01/2025 12:29:38] Para saber quantos Online Points você possui, digite: !opshop.".
+[05/01/2025 12:32:39] > Broadcasted message: "[Sistema-PokeFênix]
+[05/01/2025 12:32:39] Para saber mais dos benefícios premium acesso nossa loja.".
+[05/01/2025 12:35:40] > Broadcasted message: "{[PokeFênix]
+[05/01/2025 12:35:40] Não deixe de ficar por dentro das atualizações e noticias do servidor, acesse nosso discord: dicord.gg/pokefenix}".
+[05/01/2025 12:38:41] > Broadcasted message: "[PokeFênix]
+[05/01/2025 12:38:41] Lembre-se jogadores premium tem vantagem em: Exp/Catch/dropes.".
+[05/01/2025 12:41:42] > Broadcasted message: "[Sistema-PokeFênix]
+[05/01/2025 12:41:42] Para saber as vantagens de ser Premium account, acesse nossa loja agora mesmo.".
+[05/01/2025 12:44:36] [Warning - Protocol::RSA_decrypt] First byte != 0
+[05/01/2025 12:44:39] [Warning - Protocol::RSA_decrypt] First byte != 0
+[05/01/2025 12:44:43] > Broadcasted message: "{[PokeFênix]
+[05/01/2025 12:44:43] Não deixe de ficar por dentro das atualizações e noticias do servidor, acesse nosso discord: dicord.gg/pokefenix}".
+[05/01/2025 12:47:44] > Broadcasted message: "[Dica-PokeFênix]
+[05/01/2025 12:47:44] Para fazer a Mega Box Quest você precisa juntar 100 fire piece, 100 water piece e 100 leaf piece para poder entrar. São Dropados na outland e em alguns outros pokemons.".
+[05/01/2025 12:50:45] > Broadcasted message: "[Sistema-PokeFênix]
+[05/01/2025 12:50:45] Para saber as vantagens de ser Premium account, acesse nossa loja agora mesmo.".
+[05/01/2025 12:51:49] [Warning - Protocol::RSA_decrypt] First byte != 0
+[05/01/2025 12:53:46] > Broadcasted message: "[Dica-PokeFênix]
+[05/01/2025 12:53:46] Para saber quantos Online Points você possui, digite: !opshop.".
+[05/01/2025 12:54:16] [Warning - Protocol::RSA_decrypt] First byte != 0
+[05/01/2025 12:56:15] [Warning - Protocol::RSA_decrypt] First byte != 0
+[05/01/2025 12:56:47] > Broadcasted message: "[Dica-PokeFênix]
+[05/01/2025 12:56:47] Para fazer a Mega Box Quest você precisa juntar 100 fire piece, 100 water piece e 100 leaf piece para poder entrar. São Dropados na outland e em alguns outros pokemons.".
+[05/01/2025 12:59:48] > Broadcasted message: "[Dica-PokeFênix]
+[05/01/2025 12:59:48] Use !comandos para ver alguns comandos disponíveis.".
+[05/01/2025 13:02:49] > Broadcasted message: "[PokeFênix]
+[05/01/2025 13:02:49] Lembre-se jogadores premium tem vantagem em: Exp/Catch/dropes.".
+[05/01/2025 13:05:50] > Broadcasted message: "[Sistema-PokeFênix]
+[05/01/2025 13:05:50] Para saber mais dos benefícios premium acesso nossa loja.".
+[05/01/2025 13:08:51] > Broadcasted message: "[Dica-PokeFênix]
+[05/01/2025 13:08:51] Para saber quantos Online Points você possui, digite: !opshop.".
+[05/01/2025 13:11:52] > Broadcasted message: "[Sistema-PokeFênix]
+[05/01/2025 13:11:52] Nosso site: ********".
+[05/01/2025 13:14:53] > Broadcasted message: "{[PokeFênix]
+[05/01/2025 13:14:53] Não deixe de ficar por dentro das atualizações e noticias do servidor, acesse nosso discord: dicord.gg/pokefenix}".
+[05/01/2025 13:17:54] > Broadcasted message: "[Sistema-PokeFênix]
+[05/01/2025 13:17:54] Para saber mais dos benefícios premium acesso nossa loja.".
+[05/01/2025 13:20:55] > Broadcasted message: "[Dica-PokeFênix]
+[05/01/2025 13:20:55] Use !comandos para ver alguns comandos disponíveis.".
+[05/01/2025 13:23:56] > Broadcasted message: "[Sistema-PokeFênix]
+[05/01/2025 13:23:56] Para saber as vantagens de ser Premium account, acesse nossa loja agora mesmo.".
+[05/01/2025 13:26:38] > Broadcasted message: "Server Save em 10 segundos.".
+[05/01/2025 13:26:43] > Broadcasted message: "Server Save em 5 segundos.".
+[05/01/2025 13:26:48] > Saving server...
+[05/01/2025 13:26:49] > SAVE: Complete in 1.016 seconds using relational house storage.
+[05/01/2025 13:26:57] > Broadcasted message: "[Dica-PokeFênix]
+[05/01/2025 13:26:57] Para saber quantos Online Points você possui, digite: !opshop.".
+[05/01/2025 13:29:58] > Broadcasted message: "[Sistema-PokeFênix]
+[05/01/2025 13:29:58] Não deixe de atualizar nosso client para evitar erros e percas.".
+[05/01/2025 13:30:00] > Broadcasted message: "[Derrote o Pokémon]: O evento começou e durará 11 minutos. O pokémon sorteado foi Fearow! Quem conseguir derrotar mais Fearow's até o fim  será o vencedor!".
+[05/01/2025 13:32:59] > Broadcasted message: "[PokeFênix]
+[05/01/2025 13:32:59] Garanta já sua premium, ganhe benefícios acesse já nossa loja.".
+[05/01/2025 13:36:00] > Broadcasted message: "[Dica-PokeFênix]
+[05/01/2025 13:36:00] Use !comandos para ver alguns comandos disponíveis.".
+[05/01/2025 13:39:01] > Broadcasted message: "[Sistema-PokeFênix]
+[05/01/2025 13:39:01] Faça uma doação e ajude o servidor florecer.".
+[05/01/2025 13:41:00] > Broadcasted message: "[Derrote o Pokémon]: O evento terminou e não houve nenhum vencedor.".
+[05/01/2025 13:41:45] > Saving server...
+[05/01/2025 13:41:46] > SAVE: Complete in 0.751 seconds using relational house storage.

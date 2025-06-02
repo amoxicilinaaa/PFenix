@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Tathy" script="default.lua" walkinterval="350000" floorchange="0" speed="0" lookdir="2">
+<health now="150" max="150"/>
+<look type="511" head="22" body="0" legs="19" feet="82"/>
+
+	<parameters>
+		<parameter key="message_greet" value="Bem-vindo à Lan House, aqui você pode jogar vários jogos, divirta-se,eo jogo mais jogado e o Pokechampions,Ele e Muito Divertido!"/>
+	</parameters>
+
+</npc>

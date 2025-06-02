@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Luxray" nameDescription="an Luxray" race="electric" experience="450" speed="227" manacost="0">
+    <health now="120" max="120"/>
+    <look type="2593" head="35" body="60" legs="95" feet="113" corpse="20717"/>
+    <targetchange interval="2000" chance="0"/>
+    <strategy attack="100" defense="0"/>
+    <flags>
+        <flag summonable="1"/>
+        <flag attackable="1"/>
+        <flag hostile="1"/>
+        <flag illusionable="1"/>
+        <flag convinceable="1"/>
+        <flag pushable="1"/>
+        <flag canpushitems="0"/>
+        <flag canpushcreatures="0"/>
+        <flag targetdistance="1"/>
+        <flag staticattack="97"/>
+        <flag runonhealth="0"/>
+       
+    </flags>
+    <attacks>
+        <attack name="melee" interval="2000" chance="100" range="1" min="-50" max="-100"/>
+        <attack name="Charge" interval="2664" chance="18" range="1"/>
+        <attack name="Crunch" interval="2758" chance="29" range="3"/>
+        <attack name="Discharge" interval="3228" chance="20" range="4"/>
+        <attack name="Howl" interval="10560" chance="15" range="6"/>
+        <attack name="Spark" interval="3510" chance="25" range="2"/>
+		<attack name="Thunderbolt" interval="4510" chance="20" range="4"/>
+		<attack name="Thunder" interval="4510" chance="18" range="6"/>
+		<attack name="Charge Beam" interval="4510" chance="29" range="2"/>
+		<attack name="Thunder Wave" interval="4510" chance="25" range="3"/>
+		<attack name="Thunder Fang" interval="4510" chance="28" range="4"/>		
+    </attacks>
+    <defenses armor="0" defense="0"/>
+    <voices interval="5000" chance="10">
+        <voice sentence="Luxraaay!"/>
+    </voices>
+    <loot>
+        <item id="12164" chance="10000" countmax="80"/> --screw
+        <item id="12176" chance="4000" countmax="1"/> --electric box
+        <item id="12198" chance="500" count="1" countmax="1"/>
+        <item id="11444" chance="150" countmax="1"/>
+        <item id="12338" chance="10" count="1"/> --bag box --bag box
+    </loot>
+    <script>
+        <event name="Spawn"/>
+    </script>
+</monster>

@@ -1,0 +1,91 @@
+[03/01/2025 16:31:13] Pokemon Dash Advanced, version 0.3.6 (PDA)
+[03/01/2025 16:31:13] Compiled with GNU C++ version 4.4.0 at Jan  1 2025, 15:31:04.
+[03/01/2025 16:31:13] A server developed by Elf, slawkens, Talaturen, KaczooH, Lithium, Kiper, Kornholijo.
+[03/01/2025 16:31:13] Visit our forum for updates, support and resources: http://otland.net.
+[03/01/2025 16:31:13] 
+[03/01/2025 16:31:13] >> Loading config (config.lua)
+[03/01/2025 16:31:13] > Using SHA1 encryption
+[03/01/2025 16:31:13] >> Loading RSA key
+[03/01/2025 16:31:13] >> Starting SQL connection
+[03/01/2025 16:31:13] >> Running Database Manager
+[03/01/2025 16:31:13] > No tables were optimized.
+[03/01/2025 16:31:13] >> Loading items
+[03/01/2025 16:31:13] [Warning - Items::loadFromXml] No itemid found
+[03/01/2025 16:31:17] Pokemon Dash Advanced, version 0.3.6 (PDA)
+[03/01/2025 16:31:17] Compiled with GNU C++ version 4.4.0 at Jan  1 2025, 15:31:04.
+[03/01/2025 16:31:17] A server developed by Elf, slawkens, Talaturen, KaczooH, Lithium, Kiper, Kornholijo.
+[03/01/2025 16:31:17] Visit our forum for updates, support and resources: http://otland.net.
+[03/01/2025 16:31:17] 
+[03/01/2025 16:31:17] >> Loading config (config.lua)
+[03/01/2025 16:31:17] > Using SHA1 encryption
+[03/01/2025 16:31:17] >> Loading RSA key
+[03/01/2025 16:31:17] >> Starting SQL connection
+[03/01/2025 16:31:17] >> Running Database Manager
+[03/01/2025 16:31:17] > No tables were optimized.
+[03/01/2025 16:31:17] >> Loading items
+[03/01/2025 16:31:17] [Warning - Items::loadFromXml] No itemid found
+[03/01/2025 16:31:17] [Warning - Items::loadFromXml] No itemid found
+[03/01/2025 16:31:17] >> Loading groups
+[03/01/2025 16:31:17] >> Loading vocations
+[03/01/2025 16:31:17] >> Loading script systems
+[03/01/2025 16:31:18] [Warning - Actions::registerEvent] Duplicate registered item with id: 22128, in fromid: 22113 and toid: 22144
+[03/01/2025 16:31:18] [Warning - Actions::registerEvent] Duplicate registered item with id: 22129, in fromid: 22113 and toid: 22144
+[03/01/2025 16:31:19] >> Loading chat channels
+[03/01/2025 16:31:19] >> Loading outfits
+[03/01/2025 16:31:19] >> Loading experience stages
+[03/01/2025 16:31:19] >> Loading monsters
+[03/01/2025 16:31:19] [Warning - Monsters::loadFromXml] Unknown node name (script).
+[03/01/2025 16:31:20] >> Loading mods...
+[03/01/2025 16:31:20] > Loading classic_changender.xml... done.
+[03/01/2025 16:31:20] > Loading firstitems.xml... done.
+[03/01/2025 16:31:20] > Loading highscorebook.xml... done.
+[03/01/2025 16:31:20] > Loading minimap.xml... done.
+[03/01/2025 16:31:20] > 4 mods were loaded.
+[03/01/2025 16:31:20] >> Loading map and spawns...
+[03/01/2025 16:31:23] > Map size: 2800x2000.
+[03/01/2025 16:31:23] > Map descriptions: 
+[03/01/2025 16:31:23] "Saved with OTAcademy Map Editor 4.1.2"
+[03/01/2025 16:31:23] "Map Dash Editadu Por TiIoO"
+[03/01/2025 16:31:30] Duplicate uniqueId 19456
+[03/01/2025 16:31:31] Duplicate uniqueId 1048
+[03/01/2025 16:31:36] Duplicate uniqueId 4648
+[03/01/2025 16:31:39] Duplicate uniqueId 15004
+[03/01/2025 16:31:40] Duplicate uniqueId 15005
+[03/01/2025 16:31:40] Duplicate uniqueId 15001
+[03/01/2025 16:31:40] Duplicate uniqueId 15002
+[03/01/2025 16:31:47] > Map loading time: 27.072 seconds.
+[03/01/2025 16:31:48] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (850)
+[03/01/2025 16:31:48] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (851)
+[03/01/2025 16:31:48] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (852)
+[03/01/2025 16:31:48] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (853)
+[03/01/2025 16:31:48] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (854)
+[03/01/2025 16:31:48] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (855)
+[03/01/2025 16:31:48] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (856)
+[03/01/2025 16:31:48] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (857)
+[03/01/2025 16:31:48] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (858)
+[03/01/2025 16:31:48] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (860)
+[03/01/2025 16:31:48] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (861)
+[03/01/2025 16:31:48] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (870)
+[03/01/2025 16:31:48] > Data parsing time: 1.221 seconds.
+[03/01/2025 16:31:49] > Houses synchronization time: 1.298 seconds.
+[03/01/2025 16:31:50] > Content unserialization time: 0.538 seconds.
+[03/01/2025 16:31:50] >> Checking world type... PvP
+[03/01/2025 16:31:50] >> Initializing game state modules and registering services...
+[03/01/2025 16:31:58] [Warning - Monster::Monster] Unknown event name - Spawn
+[03/01/2025 16:31:58] > Global address: 127.0.0.1
+[03/01/2025 16:31:58] > Local ports: 7171	7172	
+[03/01/2025 16:31:58] >> All modules were loaded, server is starting up...
+[03/01/2025 16:31:58] >> RoXy server Online!
+[03/01/2025 16:31:58] 
+[03/01/2025 16:34:20] > Broadcasted message: "[PokeFênix]
+[03/01/2025 16:34:20] Garanta já sua premium, ganhe benefícios acesse já nossa loja.".
+[03/01/2025 16:35:05] Lucas fez login.
+[03/01/2025 16:37:21] > Broadcasted message: "[Dica-PokeFênix]
+[03/01/2025 16:37:21] Use !comandos para ver alguns comandos disponíveis.".
+[03/01/2025 16:40:22] > Broadcasted message: "{[PokeFênix]
+[03/01/2025 16:40:22] Não deixe de ficar por dentro das atualizações e noticias do servidor, acesse nosso discord: dicord.gg/pokefenix}".
+[03/01/2025 16:43:23] > Broadcasted message: "[PokeFênix]
+[03/01/2025 16:43:23] Garanta já sua premium, ganhe benefícios acesse já nossa loja.".
+[03/01/2025 16:44:41] Luquiinhas fez login.
+[03/01/2025 16:46:24] > Broadcasted message: "[Sistema-PokeFênix]
+[03/01/2025 16:46:24] Use !comandos para ver alguns comandos disponíveis no servidor.".

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Honchkrow" nameDescription="a honchkrow" race="dark" experience="450" speed="270" manacost="0">
+  <health now="240" max="240"/>
+  <look type="2119" head="33" body="57" legs="95" feet="113" corpse="20718"/>
+	<targetchange interval="2000" chance="0"/>
+<strategy attack="100" defense="0"/>
+  <flags>
+    <flag summonable="1"/>
+    <flag attackable="1"/>
+    <flag hostile="1"/>
+    <flag illusionable="1"/>
+    <flag convinceable="1"/>
+    <flag pushable="1"/>
+    <flag canpushitems="0"/>
+    <flag canpushcreatures="0"/>
+    <flag targetdistance="1"/>
+    <flag staticattack="90"/>
+    <flag runonhealth="0"/>
+   
+</flags>
+  <attacks>
+		<attack name="melee" interval="2000" chance="100" range="1" min="-51" max="-70"/>
+        <attack name="Night Shade" interval="2570" chance="20" range="3"/>
+        <attack name="Brave Bird" interval="2711" chance="25" range="6"/>
+        <attack name="Feather Dance" interval="3005" chance="26" range="3"/>
+        <attack name="Night Slash" interval="2948" chance="20" range="2"/>
+        <attack name="Sucker Punch" interval="3184" chance="25" range="2"/>
+        <attack name="Feint Attack" interval="5061" chance="28" range="2"/>
+        <attack name="Dark Pulse" interval="7035" chance="15" range="1"/>
+        <attack name="Drill Peck" interval="7035" chance="23" range="3"/>		
+   </attacks>
+  <defenses armor="0" defense="0">
+  </defenses>
+  <voices interval="5000" chance="10">
+	<voice sentence="MUURK!"/>
+<voice sentence="KROOOW!"/>
+<voice sentence="MURKROW!"/>
+  </voices>
+  <loot>
+	<item id="12194" countmax="1" chance="3000"/>-- future orb
+        <item id="12745" chance="10000" countmax="80"/> --darkness gem
+        <item id="12206" chance="10000" countmax="80"/> --essence of dark
+        <item id="12240" chance="4000" count="1" countmax="1"/> --bag of poisonous dust
+        <item id="12200" chance="5000" count="1" countmax="1"/> --feather
+        <item id="12172" chance="5000" count="1" countmax="1"/> --bird break
+        <item id="11450" chance="150" count="1" countmax="1"/>
+        <item id="12338" chance="100" count="1"/> --bag box --bag box
+  <item id="15556" chance="300" count="1" countmax="1"/> -- toy
+  </loot>
+<script>
+<event name="Spawn"/>
+</script>
+</monster>

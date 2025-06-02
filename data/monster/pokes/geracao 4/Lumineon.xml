@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Lumineon" nameDescription="a Lumineon" race="water" experience="250" speed="207" manacost="0">
+    <health now="70" max="70"/>
+    <look type="3042" head="15" body="30" legs="95" feet="113" corpse="21621"/>
+    <targetchange interval="2000" chance="0"/>
+    <strategy attack="100" defense="0"/>
+    <flags>
+        <flag summonable="1"/>
+        <flag attackable="1"/>
+        <flag hostile="1"/>
+        <flag illusionable="1"/>
+        <flag convinceable="1"/>
+        <flag pushable="1"/>
+        <flag canpushitems="0"/>
+        <flag canpushcreatures="0"/>
+        <flag targetdistance="1"/>
+        <flag staticattack="97"/>
+        <flag runonhealth="0"/>
+       
+    </flags>
+    <attacks>
+        <attack name="melee" interval="2000" chance="100" range="1" min="-50" max="-100"/>
+        <attack name="Water Gun" interval="2617" chance="26" range="4"/>
+        <attack name="Water Pulse" interval="2993" chance="20" range="6"/>
+		<attack name="Safeguard" interval="2946" chance="15" range="1"/>
+        <attack name="Aqua Ring" interval="2758" chance="8" range="6"/>
+		<attack name="Whirlpool" interval="4058" chance="31" range="2"/>
+        <attack name="Aqua Tail" interval="5625" chance="20" range="4"/>
+        <attack name="Brine" interval="5625" chance="25" range="3"/>		
+    </attacks>
+    <defenses armor="0" defense="0"/>
+    <voices interval="5000" chance="10">
+        <voice sentence="Lumineon!"/>
+    </voices>
+    <loot>
+        <item id="12161" chance="10000" countmax="80"/> --water gem
+        <item id="12170" chance="5000" count="1" countmax="1"/> --water pendant --water pendant
+        <item id="12338" chance="10" count="1"/> --bag box --bag box
+    </loot>
+    <script>
+        <event name="Spawn"/>
+    </script>
+</monster>

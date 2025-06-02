@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mod name="player_speed" version="1.0" author="Hopus" enabled="yes">
+	<event type="login" name="player_speed" event="script">	<![CDATA[
+		function onLogin(cid)
+                        local valor = 100
+			cid = isPlayer(cid) and doChangeSpeed(cid, valor)
+			return true
+		end
+	]]></event>
+</mod>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Hoverboard Seller" script="hoverboard.lua" walkinterval="900" floorchange="0" speed="120">
+<health now="150" max="150"/>
+<look type="5987" head="115" body="88" legs="114" feet="0"/>
+<parameters>
+<parameter key="message_greet" value="Olá eu vendo Hoverboard iguais a esse que estou usando, caso tenha interesse em comprar diga {Hoverboard}. Ele custa apenas 5kk, promoção."/>
+<parameter key="message_farewell" value="Ok, até a próxima!"/>
+<parameter key="message_idletimeout" value="Tchau"/>
+<parameter key="message_walkaway" value="Flw!"/>
+</parameters>
+</npc>

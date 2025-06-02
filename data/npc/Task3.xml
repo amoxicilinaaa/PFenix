@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Stephany" script="task3.lua" walkinterval="1000" floorchange="0" speed="100">
+	<health now="150" max="150"/>
+	<look type="5449" head="91" body="102" legs="83" feet="0"/>
+	<parameters>
+			<parameter key="message_greet" value="Voce quer fazer a task diaria de '{Elder Conkeldurr}', '{Elder Spiritomb}' ou {Exonered Typhlosion}? (Use letras maiusculas e minusculas) "/>
+	</parameters>
+</npc>

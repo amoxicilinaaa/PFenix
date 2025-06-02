@@ -1,0 +1,66 @@
+[04/04/2025 23:40:53] Pokemon Dash Advanced, version 0.3.6 (PDA)
+[04/04/2025 23:40:53] Compiled with GNU C++ version 4.4.0 at Jan  1 2025, 15:31:04.
+[04/04/2025 23:40:53] A server developed by Elf, slawkens, Talaturen, KaczooH, Lithium, Kiper, Kornholijo.
+[04/04/2025 23:40:53] Visit our forum for updates, support and resources: http://otland.net.
+[04/04/2025 23:40:53] 
+[04/04/2025 23:40:53] >> Loading config (config.lua)
+[04/04/2025 23:40:53] > Using SHA1 encryption
+[04/04/2025 23:40:53] >> Loading RSA key
+[04/04/2025 23:40:53] >> Starting SQL connection
+[04/04/2025 23:40:53] >> Running Database Manager
+[04/04/2025 23:40:54] > No tables were optimized.
+[04/04/2025 23:40:54] >> Loading items
+[04/04/2025 23:40:55] [Warning - Items::loadFromXml] No itemid found
+[04/04/2025 23:40:55] [Warning - Items::loadFromXml] No itemid found
+[04/04/2025 23:40:55] >> Loading groups
+[04/04/2025 23:40:55] >> Loading vocations
+[04/04/2025 23:40:55] >> Loading script systems
+[04/04/2025 23:40:58] >> Loading chat channels
+[04/04/2025 23:40:58] >> Loading outfits
+[04/04/2025 23:40:58] >> Loading experience stages
+[04/04/2025 23:40:58] >> Loading monsters
+[04/04/2025 23:40:58] [Warning - Monsters::loadFromXml] Unknown node name (script).
+[04/04/2025 23:41:00] >> Loading mods...
+[04/04/2025 23:41:00] > Loading classic_changender.xml... done.
+[04/04/2025 23:41:00] > Loading firstitems.xml... done.
+[04/04/2025 23:41:00] > Loading highscorebook.xml... done.
+[04/04/2025 23:41:00] > Loading minimap.xml... done.
+[04/04/2025 23:41:00] > 4 mods were loaded.
+[04/04/2025 23:41:00] >> Loading map and spawns...
+[04/04/2025 23:41:03] > Map size: 2800x2000.
+[04/04/2025 23:41:03] > Map descriptions: 
+[04/04/2025 23:41:03] "Saved with OTAcademy Map Editor 4.1.2"
+[04/04/2025 23:41:03] "Map Dash Editadu Por TiIoO"
+[04/04/2025 23:41:10] Duplicate uniqueId 19456
+[04/04/2025 23:41:10] Duplicate uniqueId 1048
+[04/04/2025 23:41:15] Duplicate uniqueId 4648
+[04/04/2025 23:41:19] Duplicate uniqueId 15004
+[04/04/2025 23:41:19] Duplicate uniqueId 15005
+[04/04/2025 23:41:20] Duplicate uniqueId 15001
+[04/04/2025 23:41:20] Duplicate uniqueId 15002
+[04/04/2025 23:41:27] > Map loading time: 27.027 seconds.
+[04/04/2025 23:41:28] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (850)
+[04/04/2025 23:41:28] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (851)
+[04/04/2025 23:41:28] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (852)
+[04/04/2025 23:41:28] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (853)
+[04/04/2025 23:41:29] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (854)
+[04/04/2025 23:41:29] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (855)
+[04/04/2025 23:41:29] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (856)
+[04/04/2025 23:41:29] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (857)
+[04/04/2025 23:41:29] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (858)
+[04/04/2025 23:41:29] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (860)
+[04/04/2025 23:41:29] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (861)
+[04/04/2025 23:41:29] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (870)
+[04/04/2025 23:41:29] > Data parsing time: 1.704 seconds.
+[04/04/2025 23:41:29] > Houses synchronization time: 0.696 seconds.
+[04/04/2025 23:41:30] > Content unserialization time: 0.714 seconds.
+[04/04/2025 23:41:30] >> Checking world type... PvP
+[04/04/2025 23:41:30] >> Initializing game state modules and registering services...
+[04/04/2025 23:41:42] [Warning - Monster::Monster] Unknown event name - Spawn
+[04/04/2025 23:41:42] > Global address: 127.0.0.1
+[04/04/2025 23:41:42] > Local ports: 7171	7172	
+[04/04/2025 23:41:42] >> All modules were loaded, server is starting up...
+[04/04/2025 23:41:42] > Saving server...>> RoXy server Online!
+[04/04/2025 23:41:42] 
+[04/04/2025 23:41:42] 
+[04/04/2025 23:41:44] > SAVE: Complete in 1.22 seconds using relational house storage.

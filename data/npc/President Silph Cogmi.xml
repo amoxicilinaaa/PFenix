@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Empresario" script= "default.lua" walkinterval="350000" floorchange="0" speed="0" lookdir="2">
+<health now="150" max="150"/>
+<look type="1419" head="95" body="132" legs="19" feet="116"/>
+
+	<parameters>
+		<parameter key="message_greet" value="Olá, esta empresa cresceu com muito esforço. Esta empresa é o principal fabricante de tecnologia Pokémon. Aqui nós produzimos as PokeBall usadas por treinadores para capturar Pokémon!"/>
+	</parameters>
+
+</npc>

@@ -1,0 +1,563 @@
+[30/01/2025 04:02:43] Pokemon Dash Advanced, version 0.3.6 (PDA)
+[30/01/2025 04:02:43] Compiled with GNU C++ version 4.4.0 at Jan  1 2025, 15:31:04.
+[30/01/2025 04:02:43] A server developed by Elf, slawkens, Talaturen, KaczooH, Lithium, Kiper, Kornholijo.
+[30/01/2025 04:02:43] Visit our forum for updates, support and resources: http://otland.net.
+[30/01/2025 04:02:43] 
+[30/01/2025 04:02:43] >> Loading config (config.lua)
+[30/01/2025 04:02:43] > Using SHA1 encryption
+[30/01/2025 04:02:43] >> Loading RSA key
+[30/01/2025 04:02:43] >> Starting SQL connection
+[30/01/2025 04:02:43] >> Running Database Manager
+[30/01/2025 04:02:43] > No tables were optimized.
+[30/01/2025 04:02:43] >> Loading items
+[30/01/2025 04:02:44] [Warning - Items::loadFromXml] No itemid found
+[30/01/2025 04:02:47] Pokemon Dash Advanced, version 0.3.6 (PDA)
+[30/01/2025 04:02:47] Compiled with GNU C++ version 4.4.0 at Jan  1 2025, 15:31:04.
+[30/01/2025 04:02:47] A server developed by Elf, slawkens, Talaturen, KaczooH, Lithium, Kiper, Kornholijo.
+[30/01/2025 04:02:47] Visit our forum for updates, support and resources: http://otland.net.
+[30/01/2025 04:02:47] 
+[30/01/2025 04:02:47] >> Loading config (config.lua)
+[30/01/2025 04:02:47] > Using SHA1 encryption
+[30/01/2025 04:02:47] >> Loading RSA key
+[30/01/2025 04:02:47] >> Starting SQL connection
+[30/01/2025 04:02:47] >> Running Database Manager
+[30/01/2025 04:02:48] > No tables were optimized.
+[30/01/2025 04:02:48] >> Loading items
+[30/01/2025 04:02:48] [Warning - Items::loadFromXml] No itemid found
+[30/01/2025 04:02:50] Pokemon Dash Advanced, version 0.3.6 (PDA)
+[30/01/2025 04:02:50] Compiled with GNU C++ version 4.4.0 at Jan  1 2025, 15:31:04.
+[30/01/2025 04:02:50] A server developed by Elf, slawkens, Talaturen, KaczooH, Lithium, Kiper, Kornholijo.
+[30/01/2025 04:02:50] Visit our forum for updates, support and resources: http://otland.net.
+[30/01/2025 04:02:50] 
+[30/01/2025 04:02:50] >> Loading config (config.lua)
+[30/01/2025 04:02:50] > Using SHA1 encryption
+[30/01/2025 04:02:50] >> Loading RSA key
+[30/01/2025 04:02:50] >> Starting SQL connection
+[30/01/2025 04:02:50] >> Running Database Manager
+[30/01/2025 04:02:51] > No tables were optimized.
+[30/01/2025 04:02:51] >> Loading items
+[30/01/2025 04:02:51] [Warning - Items::loadFromXml] No itemid found
+[30/01/2025 04:02:54] Pokemon Dash Advanced, version 0.3.6 (PDA)
+[30/01/2025 04:02:54] Compiled with GNU C++ version 4.4.0 at Jan  1 2025, 15:31:04.
+[30/01/2025 04:02:54] A server developed by Elf, slawkens, Talaturen, KaczooH, Lithium, Kiper, Kornholijo.
+[30/01/2025 04:02:54] Visit our forum for updates, support and resources: http://otland.net.
+[30/01/2025 04:02:54] 
+[30/01/2025 04:02:54] >> Loading config (config.lua)
+[30/01/2025 04:02:54] > Using SHA1 encryption
+[30/01/2025 04:02:54] >> Loading RSA key
+[30/01/2025 04:02:54] >> Starting SQL connection
+[30/01/2025 04:02:54] >> Running Database Manager
+[30/01/2025 04:02:54] > No tables were optimized.
+[30/01/2025 04:02:54] >> Loading items
+[30/01/2025 04:02:55] [Warning - Items::loadFromXml] No itemid found
+[30/01/2025 04:03:00] Pokemon Dash Advanced, version 0.3.6 (PDA)
+[30/01/2025 04:03:00] Compiled with GNU C++ version 4.4.0 at Jan  1 2025, 15:31:04.
+[30/01/2025 04:03:00] A server developed by Elf, slawkens, Talaturen, KaczooH, Lithium, Kiper, Kornholijo.
+[30/01/2025 04:03:00] Visit our forum for updates, support and resources: http://otland.net.
+[30/01/2025 04:03:00] 
+[30/01/2025 04:03:00] >> Loading config (config.lua)
+[30/01/2025 04:03:00] > Using SHA1 encryption
+[30/01/2025 04:03:00] >> Loading RSA key
+[30/01/2025 04:03:00] >> Starting SQL connection
+[30/01/2025 04:03:00] >> Running Database Manager
+[30/01/2025 04:03:00] > No tables were optimized.
+[30/01/2025 04:03:00] >> Loading items
+[30/01/2025 04:03:01] [Warning - Items::loadFromXml] No itemid found
+[30/01/2025 04:03:01] [Warning - Items::loadFromXml] No itemid found
+[30/01/2025 04:03:01] >> Loading groups
+[30/01/2025 04:03:01] >> Loading vocations
+[30/01/2025 04:03:01] >> Loading script systems
+[30/01/2025 04:03:02] [Warning - Actions::registerEvent] Duplicate registered item with id: 22128, in fromid: 22113 and toid: 22144
+[30/01/2025 04:03:02] [Warning - Actions::registerEvent] Duplicate registered item with id: 22129, in fromid: 22113 and toid: 22144
+[30/01/2025 04:03:03] >> Loading chat channels
+[30/01/2025 04:03:03] >> Loading outfits
+[30/01/2025 04:03:03] >> Loading experience stages
+[30/01/2025 04:03:04] >> Loading monsters
+[30/01/2025 04:03:04] [Warning - Monsters::loadFromXml] Unknown node name (script).
+[30/01/2025 04:03:05] >> Loading mods...
+[30/01/2025 04:03:05] > Loading classic_changender.xml... done.
+[30/01/2025 04:03:05] > Loading firstitems.xml... done.
+[30/01/2025 04:03:05] > Loading highscorebook.xml... done.
+[30/01/2025 04:03:05] > Loading minimap.xml... done.
+[30/01/2025 04:03:05] > 4 mods were loaded.
+[30/01/2025 04:03:05] >> Loading map and spawns...
+[30/01/2025 04:03:08] > Map size: 2800x2000.
+[30/01/2025 04:03:08] > Map descriptions: 
+[30/01/2025 04:03:08] "Saved with OTAcademy Map Editor 4.1.2"
+[30/01/2025 04:03:08] "Map Dash Editadu Por TiIoO"
+[30/01/2025 04:03:15] Duplicate uniqueId 19456
+[30/01/2025 04:03:15] Duplicate uniqueId 1048
+[30/01/2025 04:03:21] Duplicate uniqueId 4648
+[30/01/2025 04:03:24] Duplicate uniqueId 15004
+[30/01/2025 04:03:25] Duplicate uniqueId 15005
+[30/01/2025 04:03:25] Duplicate uniqueId 15001
+[30/01/2025 04:03:25] Duplicate uniqueId 15002
+[30/01/2025 04:03:32] > Map loading time: 26.567 seconds.
+[30/01/2025 04:03:33] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (850)
+[30/01/2025 04:03:33] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (851)
+[30/01/2025 04:03:33] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (852)
+[30/01/2025 04:03:33] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (853)
+[30/01/2025 04:03:33] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (854)
+[30/01/2025 04:03:33] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (855)
+[30/01/2025 04:03:33] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (856)
+[30/01/2025 04:03:33] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (857)
+[30/01/2025 04:03:33] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (858)
+[30/01/2025 04:03:33] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (860)
+[30/01/2025 04:03:33] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (861)
+[30/01/2025 04:03:33] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (870)
+[30/01/2025 04:03:33] > Data parsing time: 1.354 seconds.
+[30/01/2025 04:03:35] > Houses synchronization time: 1.391 seconds.
+[30/01/2025 04:03:35] > Content unserialization time: 0.578 seconds.
+[30/01/2025 04:03:35] >> Checking world type... PvP
+[30/01/2025 04:03:35] >> Initializing game state modules and registering services...
+[30/01/2025 04:03:44] [Warning - Monster::Monster] Unknown event name - Spawn
+[30/01/2025 04:03:44] > Global address: 127.0.0.1
+[30/01/2025 04:03:44] > Local ports: 7171	7172	
+[30/01/2025 04:03:44] >> All modules were loaded, server is starting up...
+[30/01/2025 04:03:44] >> RoXy server Online!
+[30/01/2025 04:03:44] 
+[30/01/2025 04:04:50] Luquiinhas fez login.
+[30/01/2025 04:05:18] Luquiinhas has logged out.
+[30/01/2025 04:05:19] Lucas fez login.
+[30/01/2025 04:06:04] > Broadcasted message: "[Dica-PokeFênix]
+[30/01/2025 04:06:04] Dúvidas? tire elas no Canal Help!".
+[30/01/2025 04:07:38] Lucas has logged out.
+[30/01/2025 04:07:38] > Saving server...
+[30/01/2025 04:07:39] > SAVE: Complete in 1.011 seconds using relational house storage.
+[30/01/2025 04:07:40] Pokemon Dash Advanced, version 0.3.6 (PDA)
+[30/01/2025 04:07:40] Compiled with GNU C++ version 4.4.0 at Jan  1 2025, 15:31:04.
+[30/01/2025 04:07:40] A server developed by Elf, slawkens, Talaturen, KaczooH, Lithium, Kiper, Kornholijo.
+[30/01/2025 04:07:40] Visit our forum for updates, support and resources: http://otland.net.
+[30/01/2025 04:07:40] 
+[30/01/2025 04:07:40] >> Loading config (config.lua)
+[30/01/2025 04:07:40] > Using SHA1 encryption
+[30/01/2025 04:07:40] >> Loading RSA key
+[30/01/2025 04:07:40] >> Starting SQL connection
+[30/01/2025 04:07:40] >> Running Database Manager
+[30/01/2025 04:07:40] > No tables were optimized.
+[30/01/2025 04:07:40] >> Loading items
+[30/01/2025 04:07:40] [Warning - Items::loadFromXml] No itemid found
+[30/01/2025 04:07:40] [Warning - Items::loadFromXml] No itemid found
+[30/01/2025 04:07:41] >> Loading groups
+[30/01/2025 04:07:41] >> Loading vocations
+[30/01/2025 04:07:41] >> Loading script systems
+[30/01/2025 04:07:41] [Warning - Actions::registerEvent] Duplicate registered item with id: 22128, in fromid: 22113 and toid: 22144
+[30/01/2025 04:07:41] [Warning - Actions::registerEvent] Duplicate registered item with id: 22129, in fromid: 22113 and toid: 22144
+[30/01/2025 04:07:42] >> Loading chat channels
+[30/01/2025 04:07:42] >> Loading outfits
+[30/01/2025 04:07:42] >> Loading experience stages
+[30/01/2025 04:07:42] >> Loading monsters
+[30/01/2025 04:07:42] [Warning - Monsters::loadFromXml] Unknown node name (script).
+[30/01/2025 04:07:42] >> Loading mods...
+[30/01/2025 04:07:42] > Loading classic_changender.xml... done.
+[30/01/2025 04:07:42] > Loading firstitems.xml... done.
+[30/01/2025 04:07:42] > Loading highscorebook.xml... done.
+[30/01/2025 04:07:42] > Loading minimap.xml... done.
+[30/01/2025 04:07:42] > 4 mods were loaded.
+[30/01/2025 04:07:42] >> Loading map and spawns...
+[30/01/2025 04:07:45] > Map size: 2800x2000.
+[30/01/2025 04:07:45] > Map descriptions: 
+[30/01/2025 04:07:45] "Saved with OTAcademy Map Editor 4.1.2"
+[30/01/2025 04:07:45] "Map Dash Editadu Por TiIoO"
+[30/01/2025 04:07:51] Duplicate uniqueId 19456
+[30/01/2025 04:07:52] Duplicate uniqueId 1048
+[30/01/2025 04:07:57] Duplicate uniqueId 4648
+[30/01/2025 04:08:00] Duplicate uniqueId 15004
+[30/01/2025 04:08:01] Duplicate uniqueId 15005
+[30/01/2025 04:08:01] Duplicate uniqueId 15001
+[30/01/2025 04:08:01] Duplicate uniqueId 15002
+[30/01/2025 04:08:08] > Map loading time: 25.906 seconds.
+[30/01/2025 04:08:09] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (850)
+[30/01/2025 04:08:09] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (851)
+[30/01/2025 04:08:09] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (852)
+[30/01/2025 04:08:09] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (853)
+[30/01/2025 04:08:09] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (854)
+[30/01/2025 04:08:09] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (855)
+[30/01/2025 04:08:09] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (856)
+[30/01/2025 04:08:09] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (857)
+[30/01/2025 04:08:09] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (858)
+[30/01/2025 04:08:09] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (860)
+[30/01/2025 04:08:09] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (861)
+[30/01/2025 04:08:09] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (870)
+[30/01/2025 04:08:09] > Data parsing time: 0.943 seconds.
+[30/01/2025 04:08:11] > Houses synchronization time: 1.38 seconds.
+[30/01/2025 04:08:12] > Content unserialization time: 1.825 seconds.
+[30/01/2025 04:08:12] >> Checking world type... PvP
+[30/01/2025 04:08:13] >> Initializing game state modules and registering services...
+[30/01/2025 04:08:21] [Warning - Monster::Monster] Unknown event name - Spawn
+[30/01/2025 04:08:21] > Global address: 127.0.0.1
+[30/01/2025 04:08:21] > Local ports: 7171	7172	
+[30/01/2025 04:08:21] >> All modules were loaded, server is starting up...
+[30/01/2025 04:08:21] >> RoXy server Online!
+[30/01/2025 04:08:21] 
+[30/01/2025 04:08:25] Lucas fez login.
+[30/01/2025 04:10:04] Lucas has logged out.
+[30/01/2025 04:10:04] > Saving server...
+[30/01/2025 04:10:05] > SAVE: Complete in 1.027 seconds using relational house storage.
+[30/01/2025 04:10:07] Pokemon Dash Advanced, version 0.3.6 (PDA)
+[30/01/2025 04:10:07] Compiled with GNU C++ version 4.4.0 at Jan  1 2025, 15:31:04.
+[30/01/2025 04:10:07] A server developed by Elf, slawkens, Talaturen, KaczooH, Lithium, Kiper, Kornholijo.
+[30/01/2025 04:10:07] Visit our forum for updates, support and resources: http://otland.net.
+[30/01/2025 04:10:07] 
+[30/01/2025 04:10:07] >> Loading config (config.lua)
+[30/01/2025 04:10:07] > Using SHA1 encryption
+[30/01/2025 04:10:07] >> Loading RSA key
+[30/01/2025 04:10:07] >> Starting SQL connection
+[30/01/2025 04:10:07] >> Running Database Manager
+[30/01/2025 04:10:08] > No tables were optimized.
+[30/01/2025 04:10:08] >> Loading items
+[30/01/2025 04:10:08] [Warning - Items::loadFromXml] No itemid found
+[30/01/2025 04:10:08] [Warning - Items::loadFromXml] No itemid found
+[30/01/2025 04:10:08] >> Loading groups
+[30/01/2025 04:10:08] >> Loading vocations
+[30/01/2025 04:10:08] >> Loading script systems
+[30/01/2025 04:10:08] [Warning - Actions::registerEvent] Duplicate registered item with id: 22128, in fromid: 22113 and toid: 22144
+[30/01/2025 04:10:08] [Warning - Actions::registerEvent] Duplicate registered item with id: 22129, in fromid: 22113 and toid: 22144
+[30/01/2025 04:10:09] >> Loading chat channels
+[30/01/2025 04:10:09] >> Loading outfits
+[30/01/2025 04:10:09] >> Loading experience stages
+[30/01/2025 04:10:09] >> Loading monsters
+[30/01/2025 04:10:09] [Warning - Monsters::loadFromXml] Unknown node name (script).
+[30/01/2025 04:10:10] >> Loading mods...
+[30/01/2025 04:10:10] > Loading classic_changender.xml... done.
+[30/01/2025 04:10:10] > Loading firstitems.xml... done.
+[30/01/2025 04:10:10] > Loading highscorebook.xml... done.
+[30/01/2025 04:10:10] > Loading minimap.xml... done.
+[30/01/2025 04:10:10] > 4 mods were loaded.
+[30/01/2025 04:10:10] >> Loading map and spawns...
+[30/01/2025 04:10:12] > Map size: 2800x2000.
+[30/01/2025 04:10:12] > Map descriptions: 
+[30/01/2025 04:10:12] "Saved with OTAcademy Map Editor 4.1.2"
+[30/01/2025 04:10:12] "Map Dash Editadu Por TiIoO"
+[30/01/2025 04:10:19] Duplicate uniqueId 19456
+[30/01/2025 04:10:19] Duplicate uniqueId 1048
+[30/01/2025 04:10:24] Duplicate uniqueId 4648
+[30/01/2025 04:10:27] Duplicate uniqueId 15004
+[30/01/2025 04:10:28] Duplicate uniqueId 15005
+[30/01/2025 04:10:28] Duplicate uniqueId 15001
+[30/01/2025 04:10:28] Duplicate uniqueId 15002
+[30/01/2025 04:10:35] > Map loading time: 25.237 seconds.
+[30/01/2025 04:10:36] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (850)
+[30/01/2025 04:10:36] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (851)
+[30/01/2025 04:10:36] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (852)
+[30/01/2025 04:10:36] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (853)
+[30/01/2025 04:10:36] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (854)
+[30/01/2025 04:10:36] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (855)
+[30/01/2025 04:10:36] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (856)
+[30/01/2025 04:10:36] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (857)
+[30/01/2025 04:10:36] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (858)
+[30/01/2025 04:10:36] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (860)
+[30/01/2025 04:10:36] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (861)
+[30/01/2025 04:10:36] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (870)
+[30/01/2025 04:10:36] > Data parsing time: 0.944 seconds.
+[30/01/2025 04:10:37] > Houses synchronization time: 1.355 seconds.
+[30/01/2025 04:10:38] > Content unserialization time: 0.659 seconds.
+[30/01/2025 04:10:38] >> Checking world type... PvP
+[30/01/2025 04:10:38] >> Initializing game state modules and registering services...
+[30/01/2025 04:10:46] [Warning - Monster::Monster] Unknown event name - Spawn
+[30/01/2025 04:10:46] > Global address: 127.0.0.1
+[30/01/2025 04:10:46] > Local ports: 7171	7172	
+[30/01/2025 04:10:46] >> All modules were loaded, server is starting up...
+[30/01/2025 04:10:46] >> RoXy server Online!
+[30/01/2025 04:10:46] 
+[30/01/2025 04:10:50] Lucas fez login.
+[30/01/2025 04:13:04] Lucas has logged out.
+[30/01/2025 04:13:04] > Saving server...
+[30/01/2025 04:13:05] > SAVE: Complete in 1.045 seconds using relational house storage.
+[30/01/2025 04:13:56] Pokemon Dash Advanced, version 0.3.6 (PDA)
+[30/01/2025 04:13:56] Compiled with GNU C++ version 4.4.0 at Jan  1 2025, 15:31:04.
+[30/01/2025 04:13:56] A server developed by Elf, slawkens, Talaturen, KaczooH, Lithium, Kiper, Kornholijo.
+[30/01/2025 04:13:56] Visit our forum for updates, support and resources: http://otland.net.
+[30/01/2025 04:13:56] 
+[30/01/2025 04:13:56] >> Loading config (config.lua)
+[30/01/2025 04:13:56] > Using SHA1 encryption
+[30/01/2025 04:13:56] >> Loading RSA key
+[30/01/2025 04:13:56] >> Starting SQL connection
+[30/01/2025 04:13:56] >> Running Database Manager
+[30/01/2025 04:13:56] > No tables were optimized.
+[30/01/2025 04:13:56] >> Loading items
+[30/01/2025 04:13:56] [Warning - Items::loadFromXml] No itemid found
+[30/01/2025 04:13:59] Pokemon Dash Advanced, version 0.3.6 (PDA)
+[30/01/2025 04:13:59] Compiled with GNU C++ version 4.4.0 at Jan  1 2025, 15:31:04.
+[30/01/2025 04:13:59] A server developed by Elf, slawkens, Talaturen, KaczooH, Lithium, Kiper, Kornholijo.
+[30/01/2025 04:13:59] Visit our forum for updates, support and resources: http://otland.net.
+[30/01/2025 04:13:59] 
+[30/01/2025 04:13:59] >> Loading config (config.lua)
+[30/01/2025 04:13:59] > Using SHA1 encryption
+[30/01/2025 04:13:59] >> Loading RSA key
+[30/01/2025 04:13:59] >> Starting SQL connection
+[30/01/2025 04:13:59] >> Running Database Manager
+[30/01/2025 04:13:59] > No tables were optimized.
+[30/01/2025 04:13:59] >> Loading items
+[30/01/2025 04:13:59] [Warning - Items::loadFromXml] No itemid found
+[30/01/2025 04:13:59] [Warning - Items::loadFromXml] No itemid found
+[30/01/2025 04:13:59] [Warning - Items::loadFromXml] Duplicate registered item with id 22826
+[30/01/2025 04:14:00] >> Loading groups
+[30/01/2025 04:14:00] >> Loading vocations
+[30/01/2025 04:14:00] >> Loading script systems
+[30/01/2025 04:14:00] [Warning - Actions::registerEvent] Duplicate registered item with id: 22128, in fromid: 22113 and toid: 22144
+[30/01/2025 04:14:00] [Warning - Actions::registerEvent] Duplicate registered item with id: 22129, in fromid: 22113 and toid: 22144
+[30/01/2025 04:14:01] >> Loading chat channels
+[30/01/2025 04:14:01] >> Loading outfits
+[30/01/2025 04:14:01] >> Loading experience stages
+[30/01/2025 04:14:01] >> Loading monsters
+[30/01/2025 04:14:01] [Warning - Monsters::loadFromXml] Unknown node name (script).
+[30/01/2025 04:14:01] >> Loading mods...
+[30/01/2025 04:14:01] > Loading classic_changender.xml... done.
+[30/01/2025 04:14:01] > Loading firstitems.xml... done.
+[30/01/2025 04:14:01] > Loading highscorebook.xml... done.
+[30/01/2025 04:14:01] > Loading minimap.xml... done.
+[30/01/2025 04:14:01] > 4 mods were loaded.
+[30/01/2025 04:14:01] >> Loading map and spawns...
+[30/01/2025 04:14:04] > Map size: 2800x2000.
+[30/01/2025 04:14:04] > Map descriptions: 
+[30/01/2025 04:14:04] "Saved with OTAcademy Map Editor 4.1.2"
+[30/01/2025 04:14:04] "Map Dash Editadu Por TiIoO"
+[30/01/2025 04:14:11] Duplicate uniqueId 19456
+[30/01/2025 04:14:11] Duplicate uniqueId 1048
+[30/01/2025 04:14:16] Duplicate uniqueId 4648
+[30/01/2025 04:14:19] Duplicate uniqueId 15004
+[30/01/2025 04:14:20] Duplicate uniqueId 15005
+[30/01/2025 04:14:21] Duplicate uniqueId 15001
+[30/01/2025 04:14:21] Duplicate uniqueId 15002
+[30/01/2025 04:14:28] > Map loading time: 26.901 seconds.
+[30/01/2025 04:14:29] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (850)
+[30/01/2025 04:14:29] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (851)
+[30/01/2025 04:14:29] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (852)
+[30/01/2025 04:14:29] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (853)
+[30/01/2025 04:14:29] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (854)
+[30/01/2025 04:14:29] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (855)
+[30/01/2025 04:14:29] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (856)
+[30/01/2025 04:14:29] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (857)
+[30/01/2025 04:14:29] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (858)
+[30/01/2025 04:14:29] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (860)
+[30/01/2025 04:14:29] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (861)
+[30/01/2025 04:14:29] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (870)
+[30/01/2025 04:14:29] > Data parsing time: 0.954 seconds.
+[30/01/2025 04:14:31] > Houses synchronization time: 1.403 seconds.
+[30/01/2025 04:14:31] > Content unserialization time: 0.596 seconds.
+[30/01/2025 04:14:31] >> Checking world type... PvP
+[30/01/2025 04:14:31] >> Initializing game state modules and registering services...
+[30/01/2025 04:14:40] [Warning - Monster::Monster] Unknown event name - Spawn
+[30/01/2025 04:14:40] > Global address: 127.0.0.1
+[30/01/2025 04:14:40] > Local ports: 7171	7172	
+[30/01/2025 04:14:40] >> All modules were loaded, server is starting up...
+[30/01/2025 04:14:40] >> RoXy server Online!
+[30/01/2025 04:14:40] 
+[30/01/2025 04:14:49] > Saving server...
+[30/01/2025 04:14:50] > SAVE: Complete in 0.844 seconds using relational house storage.
+[30/01/2025 04:14:53] Pokemon Dash Advanced, version 0.3.6 (PDA)
+[30/01/2025 04:14:53] Compiled with GNU C++ version 4.4.0 at Jan  1 2025, 15:31:04.
+[30/01/2025 04:14:53] A server developed by Elf, slawkens, Talaturen, KaczooH, Lithium, Kiper, Kornholijo.
+[30/01/2025 04:14:53] Visit our forum for updates, support and resources: http://otland.net.
+[30/01/2025 04:14:53] 
+[30/01/2025 04:14:53] >> Loading config (config.lua)
+[30/01/2025 04:14:53] > Using SHA1 encryption
+[30/01/2025 04:14:53] >> Loading RSA key
+[30/01/2025 04:14:53] >> Starting SQL connection
+[30/01/2025 04:14:53] >> Running Database Manager
+[30/01/2025 04:14:54] > No tables were optimized.
+[30/01/2025 04:14:54] >> Loading items
+[30/01/2025 04:14:54] [Warning - Items::loadFromXml] No itemid found
+[30/01/2025 04:14:54] [Warning - Items::loadFromXml] No itemid found
+[30/01/2025 04:14:54] >> Loading groups
+[30/01/2025 04:14:54] >> Loading vocations
+[30/01/2025 04:14:54] >> Loading script systems
+[30/01/2025 04:14:54] [Warning - Actions::registerEvent] Duplicate registered item with id: 22128, in fromid: 22113 and toid: 22144
+[30/01/2025 04:14:54] [Warning - Actions::registerEvent] Duplicate registered item with id: 22129, in fromid: 22113 and toid: 22144
+[30/01/2025 04:14:55] >> Loading chat channels
+[30/01/2025 04:14:55] >> Loading outfits
+[30/01/2025 04:14:55] >> Loading experience stages
+[30/01/2025 04:14:55] >> Loading monsters
+[30/01/2025 04:14:55] [Warning - Monsters::loadFromXml] Unknown node name (script).
+[30/01/2025 04:14:56] >> Loading mods...
+[30/01/2025 04:14:56] > Loading classic_changender.xml... done.
+[30/01/2025 04:14:56] > Loading firstitems.xml... done.
+[30/01/2025 04:14:56] > Loading highscorebook.xml... done.
+[30/01/2025 04:14:56] > Loading minimap.xml... done.
+[30/01/2025 04:14:56] > 4 mods were loaded.
+[30/01/2025 04:14:56] >> Loading map and spawns...
+[30/01/2025 04:14:58] > Map size: 2800x2000.
+[30/01/2025 04:14:58] > Map descriptions: 
+[30/01/2025 04:14:58] "Saved with OTAcademy Map Editor 4.1.2"
+[30/01/2025 04:14:58] "Map Dash Editadu Por TiIoO"
+[30/01/2025 04:15:05] Duplicate uniqueId 19456
+[30/01/2025 04:15:05] Duplicate uniqueId 1048
+[30/01/2025 04:15:10] Duplicate uniqueId 4648
+[30/01/2025 04:15:13] Duplicate uniqueId 15004
+[30/01/2025 04:15:14] Duplicate uniqueId 15005
+[30/01/2025 04:15:14] Duplicate uniqueId 15001
+[30/01/2025 04:15:14] Duplicate uniqueId 15002
+[30/01/2025 04:15:21] > Map loading time: 24.966 seconds.
+[30/01/2025 04:15:21] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (850)
+[30/01/2025 04:15:21] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (851)
+[30/01/2025 04:15:22] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (852)
+[30/01/2025 04:15:22] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (853)
+[30/01/2025 04:15:22] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (854)
+[30/01/2025 04:15:22] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (855)
+[30/01/2025 04:15:22] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (856)
+[30/01/2025 04:15:22] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (857)
+[30/01/2025 04:15:22] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (858)
+[30/01/2025 04:15:22] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (860)
+[30/01/2025 04:15:22] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (861)
+[30/01/2025 04:15:22] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (870)
+[30/01/2025 04:15:22] > Data parsing time: 1.051 seconds.
+[30/01/2025 04:15:23] > Houses synchronization time: 1.406 seconds.
+[30/01/2025 04:15:24] > Content unserialization time: 0.526 seconds.
+[30/01/2025 04:15:24] >> Checking world type... PvP
+[30/01/2025 04:15:24] >> Initializing game state modules and registering services...
+[30/01/2025 04:15:32] [Warning - Monster::Monster] Unknown event name - Spawn
+[30/01/2025 04:15:32] > Global address: 127.0.0.1
+[30/01/2025 04:15:32] > Local ports: 7171	7172	
+[30/01/2025 04:15:32] >> All modules were loaded, server is starting up...
+[30/01/2025 04:15:32] >> RoXy server Online!
+[30/01/2025 04:15:32] 
+[30/01/2025 04:16:04] Lucas fez login.
+[30/01/2025 04:17:56] > Broadcasted message: "[Dica-PokeFênix]
+[30/01/2025 04:17:56] Dúvidas? tire elas no Canal Help!".
+[30/01/2025 04:19:27] Lucas has logged out.
+[30/01/2025 04:19:28] > Saving server...
+[30/01/2025 04:19:29] > SAVE: Complete in 1.387 seconds using relational house storage.
+[30/01/2025 04:19:32] Pokemon Dash Advanced, version 0.3.6 (PDA)
+[30/01/2025 04:19:32] Compiled with GNU C++ version 4.4.0 at Jan  1 2025, 15:31:04.
+[30/01/2025 04:19:32] A server developed by Elf, slawkens, Talaturen, KaczooH, Lithium, Kiper, Kornholijo.
+[30/01/2025 04:19:32] Visit our forum for updates, support and resources: http://otland.net.
+[30/01/2025 04:19:32] 
+[30/01/2025 04:19:32] >> Loading config (config.lua)
+[30/01/2025 04:19:32] > Using SHA1 encryption
+[30/01/2025 04:19:32] >> Loading RSA key
+[30/01/2025 04:19:32] >> Starting SQL connection
+[30/01/2025 04:19:32] >> Running Database Manager
+[30/01/2025 04:19:33] > No tables were optimized.
+[30/01/2025 04:19:33] >> Loading items
+[30/01/2025 04:19:33] [Warning - Items::loadFromXml] No itemid found
+[30/01/2025 04:19:36] Pokemon Dash Advanced, version 0.3.6 (PDA)
+[30/01/2025 04:19:36] Compiled with GNU C++ version 4.4.0 at Jan  1 2025, 15:31:04.
+[30/01/2025 04:19:36] A server developed by Elf, slawkens, Talaturen, KaczooH, Lithium, Kiper, Kornholijo.
+[30/01/2025 04:19:36] Visit our forum for updates, support and resources: http://otland.net.
+[30/01/2025 04:19:36] 
+[30/01/2025 04:19:36] >> Loading config (config.lua)
+[30/01/2025 04:19:36] > Using SHA1 encryption
+[30/01/2025 04:19:36] >> Loading RSA key
+[30/01/2025 04:19:36] >> Starting SQL connection
+[30/01/2025 04:19:36] >> Running Database Manager
+[30/01/2025 04:19:36] > No tables were optimized.
+[30/01/2025 04:19:36] >> Loading items
+[30/01/2025 04:19:36] [Warning - Items::loadFromXml] No itemid found
+[30/01/2025 04:19:36] [Warning - Items::loadFromXml] No itemid found
+[30/01/2025 04:19:36] >> Loading groups
+[30/01/2025 04:19:36] >> Loading vocations
+[30/01/2025 04:19:36] >> Loading script systems
+[30/01/2025 04:19:37] [Warning - Actions::registerEvent] Duplicate registered item with id: 22128, in fromid: 22113 and toid: 22144
+[30/01/2025 04:19:37] [Warning - Actions::registerEvent] Duplicate registered item with id: 22129, in fromid: 22113 and toid: 22144
+[30/01/2025 04:19:38] >> Loading chat channels
+[30/01/2025 04:19:38] >> Loading outfits
+[30/01/2025 04:19:38] >> Loading experience stages
+[30/01/2025 04:19:38] >> Loading monsters
+[30/01/2025 04:19:38] [Warning - Monsters::loadFromXml] Unknown node name (script).
+[30/01/2025 04:19:38] >> Loading mods...
+[30/01/2025 04:19:38] > Loading classic_changender.xml... done.
+[30/01/2025 04:19:38] > Loading firstitems.xml... done.
+[30/01/2025 04:19:38] > Loading highscorebook.xml... done.
+[30/01/2025 04:19:38] > Loading minimap.xml... done.
+[30/01/2025 04:19:38] > 4 mods were loaded.
+[30/01/2025 04:19:38] >> Loading map and spawns...
+[30/01/2025 04:19:42] > Map size: 2800x2000.
+[30/01/2025 04:19:42] > Map descriptions: 
+[30/01/2025 04:19:42] "Saved with OTAcademy Map Editor 4.1.2"
+[30/01/2025 04:19:42] "Map Dash Editadu Por TiIoO"
+[30/01/2025 04:19:49] Duplicate uniqueId 19456
+[30/01/2025 04:19:49] Duplicate uniqueId 1048
+[30/01/2025 04:19:55] Duplicate uniqueId 4648
+[30/01/2025 04:19:58] Duplicate uniqueId 15004
+[30/01/2025 04:19:59] Duplicate uniqueId 15005
+[30/01/2025 04:19:59] Duplicate uniqueId 15001
+[30/01/2025 04:19:59] Duplicate uniqueId 15002
+[30/01/2025 04:20:06] > Map loading time: 27.02 seconds.
+[30/01/2025 04:20:06] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (850)
+[30/01/2025 04:20:06] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (851)
+[30/01/2025 04:20:06] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (852)
+[30/01/2025 04:20:06] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (853)
+[30/01/2025 04:20:06] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (854)
+[30/01/2025 04:20:06] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (855)
+[30/01/2025 04:20:06] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (856)
+[30/01/2025 04:20:06] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (857)
+[30/01/2025 04:20:06] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (858)
+[30/01/2025 04:20:06] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (860)
+[30/01/2025 04:20:06] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (861)
+[30/01/2025 04:20:06] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (870)
+[30/01/2025 04:20:06] > Data parsing time: 0.952 seconds.
+[30/01/2025 04:20:08] > Houses synchronization time: 1.737 seconds.
+[30/01/2025 04:20:09] > Content unserialization time: 0.618 seconds.
+[30/01/2025 04:20:09] >> Checking world type... PvP
+[30/01/2025 04:20:09] >> Initializing game state modules and registering services...
+[30/01/2025 04:20:17] [Warning - Monster::Monster] Unknown event name - Spawn
+[30/01/2025 04:20:17] > Global address: 127.0.0.1
+[30/01/2025 04:20:17] > Local ports: 7171	7172	
+[30/01/2025 04:20:17] >> All modules were loaded, server is starting up...
+[30/01/2025 04:20:17] >> RoXy server Online!
+[30/01/2025 04:20:17] 
+[30/01/2025 04:22:31] Lucas fez login.
+[30/01/2025 04:22:39] > Broadcasted message: "[PokeFênix]
+[30/01/2025 04:22:39] Lembre-se jogadores premium tem vantagem em: Exp/Catch/dropes.".
+[30/01/2025 04:22:59] 
+[30/01/2025 04:22:59] [Error - TalkAction Interface] 
+[30/01/2025 04:22:59] data/talkactions/scripts/pbar.lua:onSay
+[30/01/2025 04:22:59] Description: 
+[30/01/2025 04:22:59] data/talkactions/scripts/pbar.lua:105: attempt to compare nil with number
+[30/01/2025 04:22:59] stack traceback:
+[30/01/2025 04:22:59] 	data/talkactions/scripts/pbar.lua:105: in function 'volta'
+[30/01/2025 04:22:59] 	data/talkactions/scripts/pbar.lua:237: in function <data/talkactions/scripts/pbar.lua:226>
+[30/01/2025 04:23:01] 
+[30/01/2025 04:23:01] [Error - TalkAction Interface] 
+[30/01/2025 04:23:01] data/talkactions/scripts/pbar.lua:onSay
+[30/01/2025 04:23:01] Description: 
+[30/01/2025 04:23:01] data/talkactions/scripts/pbar.lua:105: attempt to compare nil with number
+[30/01/2025 04:23:01] stack traceback:
+[30/01/2025 04:23:01] 	data/talkactions/scripts/pbar.lua:105: in function 'volta'
+[30/01/2025 04:23:01] 	data/talkactions/scripts/pbar.lua:229: in function <data/talkactions/scripts/pbar.lua:226>
+[30/01/2025 04:23:01] 
+[30/01/2025 04:23:01] [Error - TalkAction Interface] 
+[30/01/2025 04:23:01] data/talkactions/scripts/pbar.lua:onSay
+[30/01/2025 04:23:01] Description: 
+[30/01/2025 04:23:01] data/talkactions/scripts/pbar.lua:105: attempt to compare nil with number
+[30/01/2025 04:23:01] stack traceback:
+[30/01/2025 04:23:01] 	data/talkactions/scripts/pbar.lua:105: in function 'volta'
+[30/01/2025 04:23:01] 	data/talkactions/scripts/pbar.lua:229: in function <data/talkactions/scripts/pbar.lua:226>
+[30/01/2025 04:23:02] 
+[30/01/2025 04:23:02] [Error - TalkAction Interface] 
+[30/01/2025 04:23:02] data/talkactions/scripts/pbar.lua:onSay
+[30/01/2025 04:23:02] Description: 
+[30/01/2025 04:23:02] data/talkactions/scripts/pbar.lua:105: attempt to compare nil with number
+[30/01/2025 04:23:02] stack traceback:
+[30/01/2025 04:23:02] 	data/talkactions/scripts/pbar.lua:105: in function 'volta'
+[30/01/2025 04:23:02] 	data/talkactions/scripts/pbar.lua:229: in function <data/talkactions/scripts/pbar.lua:226>
+[30/01/2025 04:23:03] 
+[30/01/2025 04:23:03] [Error - TalkAction Interface] 
+[30/01/2025 04:23:03] data/talkactions/scripts/pbar.lua:onSay
+[30/01/2025 04:23:03] Description: 
+[30/01/2025 04:23:03] data/talkactions/scripts/pbar.lua:105: attempt to compare nil with number
+[30/01/2025 04:23:03] stack traceback:
+[30/01/2025 04:23:03] 	data/talkactions/scripts/pbar.lua:105: in function 'volta'
+[30/01/2025 04:23:03] 	data/talkactions/scripts/pbar.lua:229: in function <data/talkactions/scripts/pbar.lua:226>
+[30/01/2025 04:23:04] 
+[30/01/2025 04:23:04] [Error - TalkAction Interface] 
+[30/01/2025 04:23:04] data/talkactions/scripts/pbar.lua:onSay
+[30/01/2025 04:23:04] Description: 
+[30/01/2025 04:23:04] data/talkactions/scripts/pbar.lua:105: attempt to compare nil with number
+[30/01/2025 04:23:04] stack traceback:
+[30/01/2025 04:23:04] 	data/talkactions/scripts/pbar.lua:105: in function 'volta'
+[30/01/2025 04:23:04] 	data/talkactions/scripts/pbar.lua:229: in function <data/talkactions/scripts/pbar.lua:226>
+[30/01/2025 04:23:04] 
+[30/01/2025 04:23:04] [Error - TalkAction Interface] 
+[30/01/2025 04:23:04] data/talkactions/scripts/pbar.lua:onSay
+[30/01/2025 04:23:04] Description: 
+[30/01/2025 04:23:04] data/talkactions/scripts/pbar.lua:105: attempt to compare nil with number
+[30/01/2025 04:23:04] stack traceback:
+[30/01/2025 04:23:04] 	data/talkactions/scripts/pbar.lua:105: in function 'volta'
+[30/01/2025 04:23:04] 	data/talkactions/scripts/pbar.lua:229: in function <data/talkactions/scripts/pbar.lua:226>
+[30/01/2025 04:23:29] Lucas has logged out.
+[30/01/2025 04:25:40] > Broadcasted message: "[Sistema-PokeFênix]
+[30/01/2025 04:25:40] Nosso site: ********".
+[30/01/2025 04:27:43] > Saving server...
+[30/01/2025 04:27:44] > SAVE: Complete in 1.006 seconds using relational house storage.

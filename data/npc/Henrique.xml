@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Henrique" script="data/npc/scripts/Henrique.lua" walkinterval="1500" floorchange="0" access="5" level="1" maglevel="1">
+          <health now="150" max="150"/>
+          <look type="4906" head="114" body="12" legs="57" feet="114" addons="0" />
+          <parameters>
+                    <parameter key="message_greet" value="Ola, |PLAYERNAME|! Posso te levar para a {Snow Island}. Deseja viajar?"/>
+                    <parameter key="message_walkaway" value="Hey Hey, where you go ?"/>
+                    <parameter key="message_farewell" value="Bye bye!"/>
+          </parameters>
+</npc>

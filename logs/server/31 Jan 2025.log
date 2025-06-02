@@ -1,0 +1,245 @@
+[31/01/2025 01:21:36] Pokemon Dash Advanced, version 0.3.6 (PDA)
+[31/01/2025 01:21:36] Compiled with GNU C++ version 4.4.0 at Jan  1 2025, 15:31:04.
+[31/01/2025 01:21:36] A server developed by Elf, slawkens, Talaturen, KaczooH, Lithium, Kiper, Kornholijo.
+[31/01/2025 01:21:36] Visit our forum for updates, support and resources: http://otland.net.
+[31/01/2025 01:21:36] 
+[31/01/2025 01:21:36] >> Loading config (config.lua)
+[31/01/2025 01:21:36] > Using SHA1 encryption
+[31/01/2025 01:21:36] >> Loading RSA key
+[31/01/2025 01:21:36] >> Starting SQL connection
+[31/01/2025 01:21:36] >> Running Database Manager
+[31/01/2025 01:21:36] > No tables were optimized.
+[31/01/2025 01:21:36] >> Loading items
+[31/01/2025 01:21:36] [Warning - Items::loadFromXml] No itemid found
+[31/01/2025 01:21:36] [Warning - Items::loadFromXml] No itemid found
+[31/01/2025 01:21:36] >> Loading groups
+[31/01/2025 01:21:37] >> Loading vocations
+[31/01/2025 01:21:37] >> Loading script systems
+[31/01/2025 01:21:38] [Warning - Actions::registerEvent] Duplicate registered item with id: 22128, in fromid: 22113 and toid: 22144
+[31/01/2025 01:21:38] [Warning - Actions::registerEvent] Duplicate registered item with id: 22129, in fromid: 22113 and toid: 22144
+[31/01/2025 01:21:40] >> Loading chat channels
+[31/01/2025 01:21:40] >> Loading outfits
+[31/01/2025 01:21:40] >> Loading experience stages
+[31/01/2025 01:21:40] >> Loading monsters
+[31/01/2025 01:21:40] [Warning - Monsters::loadFromXml] Unknown node name (script).
+[31/01/2025 01:21:42] >> Loading mods...
+[31/01/2025 01:21:42] > Loading classic_changender.xml... done.
+[31/01/2025 01:21:42] > Loading firstitems.xml... done.
+[31/01/2025 01:21:42] > Loading highscorebook.xml... done.
+[31/01/2025 01:21:42] > Loading minimap.xml... done.
+[31/01/2025 01:21:42] > 4 mods were loaded.
+[31/01/2025 01:21:42] >> Loading map and spawns...
+[31/01/2025 01:21:44] > Map size: 2800x2000.
+[31/01/2025 01:21:44] > Map descriptions: 
+[31/01/2025 01:21:44] "Saved with OTAcademy Map Editor 4.1.2"
+[31/01/2025 01:21:44] "Map Dash Editadu Por TiIoO"
+[31/01/2025 01:21:51] Duplicate uniqueId 19456
+[31/01/2025 01:21:51] Duplicate uniqueId 1048
+[31/01/2025 01:21:56] Duplicate uniqueId 4648
+[31/01/2025 01:22:00] Duplicate uniqueId 15004
+[31/01/2025 01:22:00] Duplicate uniqueId 15005
+[31/01/2025 01:22:01] Duplicate uniqueId 15001
+[31/01/2025 01:22:01] Duplicate uniqueId 15002
+[31/01/2025 01:22:07] > Map loading time: 25.447 seconds.
+[31/01/2025 01:22:09] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (850)
+[31/01/2025 01:22:09] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (851)
+[31/01/2025 01:22:09] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (852)
+[31/01/2025 01:22:09] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (853)
+[31/01/2025 01:22:09] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (854)
+[31/01/2025 01:22:09] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (855)
+[31/01/2025 01:22:09] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (856)
+[31/01/2025 01:22:09] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (857)
+[31/01/2025 01:22:09] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (858)
+[31/01/2025 01:22:09] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (860)
+[31/01/2025 01:22:09] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (861)
+[31/01/2025 01:22:09] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (870)
+[31/01/2025 01:22:09] > Data parsing time: 1.316 seconds.
+[31/01/2025 01:22:10] > Houses synchronization time: 1.346 seconds.
+[31/01/2025 01:22:11] > Content unserialization time: 0.608 seconds.
+[31/01/2025 01:22:11] >> Checking world type... PvP
+[31/01/2025 01:22:11] >> Initializing game state modules and registering services...
+[31/01/2025 01:22:19] [Warning - Monster::Monster] Unknown event name - Spawn
+[31/01/2025 01:22:19] > Global address: 127.0.0.1
+[31/01/2025 01:22:19] > Local ports: 7171	7172	
+[31/01/2025 01:22:19] >> All modules were loaded, server is starting up...
+[31/01/2025 01:22:19] >> RoXy server Online!
+[31/01/2025 01:22:19] 
+[31/01/2025 01:24:41] > Broadcasted message: "[Dica-PokeFênix]
+[31/01/2025 01:24:41] Para fazer a Mega Box Quest você precisa juntar 100 fire piece, 100 water piece e 100 leaf piece para poder entrar. São Dropados na outland e em alguns outros pokemons.".
+[31/01/2025 01:26:36] > Saving server...
+[31/01/2025 01:26:37] > SAVE: Complete in 0.859 seconds using relational house storage.
+[31/01/2025 01:26:40] Pokemon Dash Advanced, version 0.3.6 (PDA)
+[31/01/2025 01:26:40] Compiled with GNU C++ version 4.4.0 at Jan  1 2025, 15:31:04.
+[31/01/2025 01:26:40] A server developed by Elf, slawkens, Talaturen, KaczooH, Lithium, Kiper, Kornholijo.
+[31/01/2025 01:26:40] Visit our forum for updates, support and resources: http://otland.net.
+[31/01/2025 01:26:40] 
+[31/01/2025 01:26:40] >> Loading config (config.lua)
+[31/01/2025 01:26:40] > Using SHA1 encryption
+[31/01/2025 01:26:40] >> Loading RSA key
+[31/01/2025 01:26:40] >> Starting SQL connection
+[31/01/2025 01:26:40] >> Running Database Manager
+[31/01/2025 01:26:40] > No tables were optimized.
+[31/01/2025 01:26:40] >> Loading items
+[31/01/2025 01:26:40] [Warning - Items::loadFromXml] No itemid found
+[31/01/2025 01:26:40] [Warning - Items::loadFromXml] No itemid found
+[31/01/2025 01:26:40] >> Loading groups
+[31/01/2025 01:26:40] >> Loading vocations
+[31/01/2025 01:26:40] >> Loading script systems
+[31/01/2025 01:26:41] >> Loading chat channels
+[31/01/2025 01:26:42] >> Loading outfits
+[31/01/2025 01:26:42] >> Loading experience stages
+[31/01/2025 01:26:42] >> Loading monsters
+[31/01/2025 01:26:42] [Warning - Monsters::loadFromXml] Unknown node name (script).
+[31/01/2025 01:26:42] >> Loading mods...
+[31/01/2025 01:26:42] > Loading classic_changender.xml... done.
+[31/01/2025 01:26:42] > Loading firstitems.xml... done.
+[31/01/2025 01:26:42] > Loading highscorebook.xml... done.
+[31/01/2025 01:26:42] > Loading minimap.xml... done.
+[31/01/2025 01:26:42] > 4 mods were loaded.
+[31/01/2025 01:26:42] >> Loading map and spawns...
+[31/01/2025 01:26:45] > Map size: 2800x2000.
+[31/01/2025 01:26:45] > Map descriptions: 
+[31/01/2025 01:26:45] "Saved with OTAcademy Map Editor 4.1.2"
+[31/01/2025 01:26:45] "Map Dash Editadu Por TiIoO"
+[31/01/2025 01:26:51] Duplicate uniqueId 19456
+[31/01/2025 01:26:51] Duplicate uniqueId 1048
+[31/01/2025 01:26:56] Duplicate uniqueId 4648
+[31/01/2025 01:26:59] Duplicate uniqueId 15004
+[31/01/2025 01:27:00] Duplicate uniqueId 15005
+[31/01/2025 01:27:00] Duplicate uniqueId 15001
+[31/01/2025 01:27:00] Duplicate uniqueId 15002
+[31/01/2025 01:27:07] > Map loading time: 24.923 seconds.
+[31/01/2025 01:27:08] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (850)
+[31/01/2025 01:27:08] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (851)
+[31/01/2025 01:27:08] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (852)
+[31/01/2025 01:27:08] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (853)
+[31/01/2025 01:27:08] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (854)
+[31/01/2025 01:27:08] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (855)
+[31/01/2025 01:27:08] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (856)
+[31/01/2025 01:27:08] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (857)
+[31/01/2025 01:27:08] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (858)
+[31/01/2025 01:27:08] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (860)
+[31/01/2025 01:27:08] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (861)
+[31/01/2025 01:27:08] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (870)
+[31/01/2025 01:27:08] > Data parsing time: 0.924 seconds.
+[31/01/2025 01:27:09] > Houses synchronization time: 1.383 seconds.
+[31/01/2025 01:27:10] > Content unserialization time: 0.594 seconds.
+[31/01/2025 01:27:10] >> Checking world type... PvP
+[31/01/2025 01:27:10] >> Initializing game state modules and registering services...
+[31/01/2025 01:27:18] [Warning - Monster::Monster] Unknown event name - Spawn
+[31/01/2025 01:27:18] > Global address: 127.0.0.1
+[31/01/2025 01:27:18] > Local ports: 7171	7172	
+[31/01/2025 01:27:18] >> All modules were loaded, server is starting up...
+[31/01/2025 01:27:18] >> RoXy server Online!
+[31/01/2025 01:27:18] 
+[31/01/2025 01:28:08] Lucas fez login.
+[31/01/2025 01:28:11] 
+[31/01/2025 01:28:11] [Error - Action Interface] 
+[31/01/2025 01:28:11] data/actions/scripts/goback.lua:onUse
+[31/01/2025 01:28:11] Description: 
+[31/01/2025 01:28:11] data/actions/scripts/goback.lua:94: attempt to compare nil with number
+[31/01/2025 01:28:11] stack traceback:
+[31/01/2025 01:28:11] 	data/actions/scripts/goback.lua:94: in function <data/actions/scripts/goback.lua:19>
+[31/01/2025 01:28:13] 
+[31/01/2025 01:28:13] [Error - TalkAction Interface] 
+[31/01/2025 01:28:13] data/talkactions/scripts/pbar.lua:onSay
+[31/01/2025 01:28:13] Description: 
+[31/01/2025 01:28:13] data/talkactions/scripts/pbar.lua:105: attempt to compare nil with number
+[31/01/2025 01:28:13] stack traceback:
+[31/01/2025 01:28:13] 	data/talkactions/scripts/pbar.lua:105: in function 'volta'
+[31/01/2025 01:28:13] 	data/talkactions/scripts/pbar.lua:229: in function <data/talkactions/scripts/pbar.lua:226>
+[31/01/2025 01:28:15] 
+[31/01/2025 01:28:15] [Error - TalkAction Interface] 
+[31/01/2025 01:28:15] data/talkactions/scripts/pbar.lua:onSay
+[31/01/2025 01:28:15] Description: 
+[31/01/2025 01:28:15] data/talkactions/scripts/pbar.lua:105: attempt to compare nil with number
+[31/01/2025 01:28:15] stack traceback:
+[31/01/2025 01:28:15] 	data/talkactions/scripts/pbar.lua:105: in function 'volta'
+[31/01/2025 01:28:15] 	data/talkactions/scripts/pbar.lua:229: in function <data/talkactions/scripts/pbar.lua:226>
+[31/01/2025 01:28:15] 
+[31/01/2025 01:28:15] [Error - TalkAction Interface] 
+[31/01/2025 01:28:15] data/talkactions/scripts/pbar.lua:onSay
+[31/01/2025 01:28:15] Description: 
+[31/01/2025 01:28:15] data/talkactions/scripts/pbar.lua:105: attempt to compare nil with number
+[31/01/2025 01:28:15] stack traceback:
+[31/01/2025 01:28:15] 	data/talkactions/scripts/pbar.lua:105: in function 'volta'
+[31/01/2025 01:28:15] 	data/talkactions/scripts/pbar.lua:229: in function <data/talkactions/scripts/pbar.lua:226>
+[31/01/2025 01:28:15] 
+[31/01/2025 01:28:15] [Error - TalkAction Interface] 
+[31/01/2025 01:28:15] data/talkactions/scripts/pbar.lua:onSay
+[31/01/2025 01:28:15] Description: 
+[31/01/2025 01:28:15] data/talkactions/scripts/pbar.lua:105: attempt to compare nil with number
+[31/01/2025 01:28:15] stack traceback:
+[31/01/2025 01:28:15] 	data/talkactions/scripts/pbar.lua:105: in function 'volta'
+[31/01/2025 01:28:15] 	data/talkactions/scripts/pbar.lua:229: in function <data/talkactions/scripts/pbar.lua:226>
+[31/01/2025 01:28:16] 
+[31/01/2025 01:28:16] [Error - TalkAction Interface] 
+[31/01/2025 01:28:16] data/talkactions/scripts/pbar.lua:onSay
+[31/01/2025 01:28:16] Description: 
+[31/01/2025 01:28:16] data/talkactions/scripts/pbar.lua:105: attempt to compare nil with number
+[31/01/2025 01:28:16] stack traceback:
+[31/01/2025 01:28:16] 	data/talkactions/scripts/pbar.lua:105: in function 'volta'
+[31/01/2025 01:28:16] 	data/talkactions/scripts/pbar.lua:229: in function <data/talkactions/scripts/pbar.lua:226>
+[31/01/2025 01:28:16] 
+[31/01/2025 01:28:16] [Error - TalkAction Interface] 
+[31/01/2025 01:28:16] data/talkactions/scripts/pbar.lua:onSay
+[31/01/2025 01:28:16] Description: 
+[31/01/2025 01:28:16] data/talkactions/scripts/pbar.lua:105: attempt to compare nil with number
+[31/01/2025 01:28:16] stack traceback:
+[31/01/2025 01:28:16] 	data/talkactions/scripts/pbar.lua:105: in function 'volta'
+[31/01/2025 01:28:16] 	data/talkactions/scripts/pbar.lua:229: in function <data/talkactions/scripts/pbar.lua:226>
+[31/01/2025 01:28:16] 
+[31/01/2025 01:28:16] [Error - TalkAction Interface] 
+[31/01/2025 01:28:16] data/talkactions/scripts/pbar.lua:onSay
+[31/01/2025 01:28:16] Description: 
+[31/01/2025 01:28:16] data/talkactions/scripts/pbar.lua:105: attempt to compare nil with number
+[31/01/2025 01:28:16] stack traceback:
+[31/01/2025 01:28:16] 	data/talkactions/scripts/pbar.lua:105: in function 'volta'
+[31/01/2025 01:28:16] 	data/talkactions/scripts/pbar.lua:229: in function <data/talkactions/scripts/pbar.lua:226>
+[31/01/2025 01:28:27] 
+[31/01/2025 01:28:27] [Error - TalkAction Interface] 
+[31/01/2025 01:28:27] data/talkactions/scripts/pbar.lua:onSay
+[31/01/2025 01:28:27] Description: 
+[31/01/2025 01:28:27] data/talkactions/scripts/pbar.lua:105: attempt to compare nil with number
+[31/01/2025 01:28:27] stack traceback:
+[31/01/2025 01:28:27] 	data/talkactions/scripts/pbar.lua:105: in function 'volta'
+[31/01/2025 01:28:27] 	data/talkactions/scripts/pbar.lua:237: in function <data/talkactions/scripts/pbar.lua:226>
+[31/01/2025 01:29:42] > Broadcasted message: "[Sistema-PokeFênix]
+[31/01/2025 01:29:42] Faça uma doação e ajude o servidor florecer.".
+[31/01/2025 01:32:43] > Broadcasted message: "[Sistema-PokeFênix]
+[31/01/2025 01:32:43] Faça uma doação e ajude o servidor florecer.".
+[31/01/2025 01:35:23] Lucas has logged out.
+[31/01/2025 01:35:24] Lucas fez login.
+[31/01/2025 01:35:44] > Broadcasted message: "{[PokeFênix]
+[31/01/2025 01:35:44] Não deixe de ficar por dentro das atualizações e noticias do servidor, acesse nosso discord: dicord.gg/pokefenix}".
+[31/01/2025 01:36:03] 
+[31/01/2025 01:36:03] [Error - TalkAction Interface] 
+[31/01/2025 01:36:03] data/talkactions/scripts/open_balls.lua:onSay
+[31/01/2025 01:36:03] Description: 
+[31/01/2025 01:36:03] data/talkactions/scripts/open_balls.lua:30: attempt to get length of global 'pokes_info' (a nil value)
+[31/01/2025 01:36:03] stack traceback:
+[31/01/2025 01:36:03] 	data/talkactions/scripts/open_balls.lua:30: in function <data/talkactions/scripts/open_balls.lua:24>
+[31/01/2025 01:36:04] 
+[31/01/2025 01:36:04] [Error - TalkAction Interface] 
+[31/01/2025 01:36:04] data/talkactions/scripts/open_balls.lua:onSay
+[31/01/2025 01:36:04] Description: 
+[31/01/2025 01:36:04] data/talkactions/scripts/open_balls.lua:30: attempt to get length of global 'pokes_info' (a nil value)
+[31/01/2025 01:36:04] stack traceback:
+[31/01/2025 01:36:04] 	data/talkactions/scripts/open_balls.lua:30: in function <data/talkactions/scripts/open_balls.lua:24>
+[31/01/2025 01:36:05] 
+[31/01/2025 01:36:05] [Error - TalkAction Interface] 
+[31/01/2025 01:36:05] data/talkactions/scripts/open_balls.lua:onSay
+[31/01/2025 01:36:05] Description: 
+[31/01/2025 01:36:05] data/talkactions/scripts/open_balls.lua:30: attempt to get length of global 'pokes_info' (a nil value)
+[31/01/2025 01:36:05] stack traceback:
+[31/01/2025 01:36:05] 	data/talkactions/scripts/open_balls.lua:30: in function <data/talkactions/scripts/open_balls.lua:24>
+[31/01/2025 01:36:05] 
+[31/01/2025 01:36:05] [Error - TalkAction Interface] 
+[31/01/2025 01:36:05] data/talkactions/scripts/open_balls.lua:onSay
+[31/01/2025 01:36:05] Description: 
+[31/01/2025 01:36:05] data/talkactions/scripts/open_balls.lua:30: attempt to get length of global 'pokes_info' (a nil value)
+[31/01/2025 01:36:05] stack traceback:
+[31/01/2025 01:36:05] 	data/talkactions/scripts/open_balls.lua:30: in function <data/talkactions/scripts/open_balls.lua:24>
+[31/01/2025 01:38:34] Lucas has logged out.
+[31/01/2025 01:38:37] > Saving server...
+[31/01/2025 01:38:38] > SAVE: Complete in 1.151 seconds using relational house storage.

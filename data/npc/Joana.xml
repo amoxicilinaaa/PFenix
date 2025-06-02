@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Jessica" script="default.lua" walkinterval="3000" floorchange="0" access="5" level="1" maglevel="1">
+<health now="150" max="150"/>
+<look type="513" head="3" body="49" legs="30" feet="0"/>
+
+	<parameters>
+		<parameter key="message_greet" value="Bem-vindo ao Shopping Center! Este é o melhor lugar para comprar alimentos, eletronics, móveis e brinquedos(Ja Acabo Jessica?)."/>
+	</parameters>
+</npc>

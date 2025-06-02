@@ -1,0 +1,52 @@
+sistema de boss
+
+
+data/globalevents/scripts:
+local config = {
+	time = 2,                           --Tempo, em horas, para o monstro nascer.
+	name = "Regigigas",                 --Nome do monstro.
+	position = {x = x, y = y, z = z},   --Posição onde o monstro irá nascer.
+}
+function onStartup()
+	addEvent(function()
+		doCreateMonster(config.name, config.position)
+		broadcastMessage(config.name.." spawned!")
+	end, config.time * 60 * 60 * 1000)
+	return true
+end
+
+
+
+Tag:
+<globalevent name="mSpawn" type="startup" event="script" value="nome_do_arquivo.lua"/>
+
+
+
+
+data/creaturescripts/scripts:
+local config = {
+	time = 2,                           --Tempo, em horas, para o monstro nascer.
+	name = "Regigigas",                 --Nome do monstro.
+	position = {x = x, y = y, z = z},   --Posição onde o monstro irá nascer.
+}
+function onDeath(cid)
+	if getCreatureName(cid) == config.name then
+		addEvent(function()
+			doCreateMonster(config.name, config.position)
+			broadcastMessage(config.name.." spawned!")
+		end, config.time * 60 * 60 * 1000)
+	end
+	return true
+end
+
+
+
+Tag:
+<event type="death" name="mDeath" event="script" value="nome_do_arquivo.lua"/>
+
+
+ 
+Registre no arquivo .XML do monstro:
+<script>
+	<event name="mDeath"/>
+</script>

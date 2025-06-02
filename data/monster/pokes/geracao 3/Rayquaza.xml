@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Rayquaza" nameDescription="a Rayquaza" race="dragon" experience="560" speed="237" manacost="0">
+    <health now="140" max="140"/>
+    <look type="2960" head="50" body="70" legs="95" feet="113" corpse="21411"/>
+    <targetchange interval="2000" chance="0"/>
+    <strategy attack="100" defense="0"/>
+    <flags>
+        <flag summonable="1"/>
+        <flag attackable="1"/>
+        <flag hostile="1"/>
+        <flag illusionable="1"/>
+        <flag convinceable="1"/>
+        <flag pushable="1"/>
+        <flag canpushitems="1"/>
+        <flag canpushcreatures="0"/>
+        <flag targetdistance="1"/>
+        <flag staticattack="97"/>
+        <flag runonhealth="0"/>
+       
+    </flags>
+    <attacks>
+        <attack name="melee" interval="2000" chance="100" range="1" min="-50" max="-100"/>
+        <attack name="Twister" interval="2805" chance="80" range="6"/>
+		<attack name="Air Slash" interval="2705" chance="80" range="7"/>
+        <attack name="ExtremeSpeed" interval="3040" chance="80" range="8"/>
+        <attack name="Dragon Pulse" interval="2899" chance="80" range="7"/>
+        <attack name="Hyper Beam" interval="2899" chance="80" range="6"/>
+        <attack name="Draco Meteor" interval="2899" chance="80" range="8"/>
+        <attack name="Dragon Claw" interval="2993" chance="80" range="7"/>
+        <attack name="Dragon Tail" interval="2852" chance="80" range="9"/>
+        <attack name="Thunderbolt" interval="2852" chance="80" range="6"/>
+        <attack name="Thunder" interval="2852" chance="80" range="7"/>
+        <attack name="Thunder Wave" interval="2852" chance="80" range="8"/>		
+    </attacks>
+    <defenses armor="0" defense="0">
+	</defenses>
+    <voices interval="5000" chance="10">
+        <voice sentence="Rayquazaaaa!"/>
+    </voices>
+    <loot>
+	    <item id="22051" countmax="1" chance="4000"/> -- Ray Piece
+        <item id="12338" chance="10" count="1"/> --bag box --bag box
+    </loot>
+    <script>
+        <event name="Spawn"/>
+    </script>
+</monster>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Cradily" nameDescription="a Cradily" race="bug" experience="0" speed="162" manacost="0">
+  <health now="40" max="40"/>
+  <look type="2718" head="60" body="77" legs="95" feet="113" corpse="21427"/>
+	<targetchange interval="10000" chance="0"/>
+<strategy attack="100" defense="0"/>
+  <flags>
+    <flag summonable="1"/>
+    <flag attackable="1"/>
+    <flag hostile="1"/>
+    <flag illusionable="1"/>
+    <flag convinceable="1"/>
+    <flag pushable="1"/>
+    <flag canpushitems="0"/>
+    <flag canpushcreatures="0"/>
+    <flag targetdistance="1"/>
+    <flag staticattack="90"/>
+    <flag runonhealth="0"/>
+   <flag hungerdelay="15"/>
+</flags>
+  <attacks>
+	<attack name="melee" interval="2000" chance="100" range="1" min="-92" max="-136"/>
+      <attack name="Mega Drain" interval="2946" chance="20" range="6"/>
+      <attack name="Recover" interval="3745" chance="8" range="6"/>
+      <attack name="Smack Down" interval="3510" chance="25" range="3"/>
+      <attack name="Sandstorm" interval="3510" chance="20" range="4"/>
+      <attack name="Stone Edge" interval="2946" chance="25" range="5"/>
+      <attack name="Solar Beam" interval="3275" chance="18" range="4"/>
+      <attack name="Rock Slide" interval="3040" chance="26" range="3"/>
+  </attacks>
+  <defenses armor="0" defense="0">
+  </defenses>
+  <voices interval="5000" chance="10">
+	<voice sentence="Cradily!"/>
+<voice sentence="Craaaadily!"/>
+<voice sentence="Cradily!"/>
+  </voices>
+  <loot>
+	<item id="12196" countmax="1" chance="1100"/> -- stone orb
+        <item id="11445" chance="150" count="1" countmax="1"/>
+	<item id="12337" countmax="45" chance="6200"/> -- small stone
+	<item id="15645" chance="300" count="1"/> --toy
+  </loot>
+<script>
+<event name="Spawn"/>
+</script>
+</monster>

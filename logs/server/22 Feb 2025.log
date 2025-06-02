@@ -1,0 +1,12 @@
+[22/02/2025 18:37:33] Pokemon Dash Advanced, version 0.3.6 (PDA)
+[22/02/2025 18:37:33] Compiled with GNU C++ version 4.4.0 at Jan  1 2025, 15:31:04.
+[22/02/2025 18:37:33] A server developed by Elf, slawkens, Talaturen, KaczooH, Lithium, Kiper, Kornholijo.
+[22/02/2025 18:37:33] Visit our forum for updates, support and resources: http://otland.net.
+[22/02/2025 18:37:33] 
+[22/02/2025 18:37:33] >> Loading config (config.lua)
+[22/02/2025 18:37:33] > Using SHA1 encryption
+[22/02/2025 18:37:33] >> Loading RSA key
+[22/02/2025 18:37:33] >> Starting SQL connection
+[22/02/2025 18:37:35] Failed connecting to database - MYSQL ERROR: Can't connect to MySQL server on 'localhost' (10061) (2003)
+[22/02/2025 18:37:35] 
+[22/02/2025 18:37:35] > ERROR: Couldn't estabilish connection to SQL database!

@@ -1,0 +1,19 @@
+
+informar menbro da staff on
+
+
+em "Data/creaturescripts/scripts", adicione staffon.lua e coloque:
+
+local groups = {2, 3}
+function onLogin(cid)
+    if isInArray(groups, getPlayerGroupId(cid)) then
+        doBroadcastMessage("["..getPlayerGroupName(cid).."] "..getPlayerName(cid)..", está online.")
+    end
+    return true
+end
+
+
+Em "Data/Creaturescripts" abra o creaturescripts.xml e adicione a tag:
+
+
+<event type="login" name="StaffOn" event="script" value="staffon.lua"/>

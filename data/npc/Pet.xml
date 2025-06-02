@@ -1,0 +1,7 @@
+<npc name="Petterson" script="data/npc/scripts/pet.lua" autowalk="25" floorchange="0" access="5" level="1" maglevel="1">
+<health now="150" max="150"/>
+<look type="231" head="79" body="118" legs="115" feet="114" corpse="2212"/>
+<parameters>
+
+</parameters>
+</npc>

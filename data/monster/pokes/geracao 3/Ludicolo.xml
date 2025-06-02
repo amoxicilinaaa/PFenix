@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Ludicolo" nameDescription="a Ludicolo" race="grass" experience="1504" speed="136" manacost="0">
+    <health now="220" max="220"/>
+    <look type="1744" head="85" body="95" legs="95" feet="113" corpse="14866"/>
+    <targetchange interval="10000" chance="0"/>
+    <strategy attack="100" defense="0"/>
+    <flags>
+        <flag summonable="1"/>
+        <flag attackable="1"/>
+        <flag hostile="1"/>
+        <flag illusionable="1"/>
+        <flag convinceable="1"/>
+        <flag pushable="1"/>
+        <flag canpushitems="0"/>
+        <flag canpushcreatures="0"/>
+        <flag targetdistance="1"/>
+        <flag staticattack="97"/>
+        <flag runonhealth="0"/>
+        <flag hungerdelay="15"/>
+    </flags>
+    <attacks>
+        <attack name="melee" interval="2000" chance="100" range="1" min="-50" max="-100"/>
+        <attack name="Bubble Beam" interval="2852" chance="25" range="3"/>
+        <attack name="Razor Leaf" interval="2711" chance="26" range="3"/>
+        <attack name="Hydro Pump" interval="3087" chance="28" range="5"/>
+        <attack name="Solar Beam" interval="4779" chance="17" range="6"/>
+        <attack name="Scald" interval="4497" chance="31" range="2"/>
+        <attack name="Surf" interval="4826" chance="26" range="4"/>
+        <attack name="Synthesis" interval="4826" chance="8" range="6"/>	
+        <attack name="Mega Drain" interval="4826" chance="22" range="4"/>			
+    </attacks>
+    <defenses armor="0" defense="0"/>
+    <voices interval="5000" chance="10">
+        <voice sentence="Ludicolo!"/>
+    </voices>
+    <loot>
+        <item id="11441" chance="150" count="1" countmax="1"/> --leaf stone
+        <item id="12338" chance="10" count="1"/> --bag box --bag box
+    </loot>
+    <script>
+        <event name="Spawn"/>
+    </script>
+</monster>
+

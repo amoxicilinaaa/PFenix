@@ -1,0 +1,2340 @@
+[04/01/2025 20:30:38] Pokemon Dash Advanced, version 0.3.6 (PDA)
+[04/01/2025 20:30:38] Compiled with GNU C++ version 4.4.0 at Jan  1 2025, 15:31:04.
+[04/01/2025 20:30:38] A server developed by Elf, slawkens, Talaturen, KaczooH, Lithium, Kiper, Kornholijo.
+[04/01/2025 20:30:38] Visit our forum for updates, support and resources: http://otland.net.
+[04/01/2025 20:30:38] 
+[04/01/2025 20:30:38] >> Loading config (config.lua)
+[04/01/2025 20:30:38] > Using SHA1 encryption
+[04/01/2025 20:30:38] >> Loading RSA key
+[04/01/2025 20:30:38] >> Starting SQL connection
+[04/01/2025 20:30:38] >> Running Database Manager
+[04/01/2025 20:30:39] > No tables were optimized.
+[04/01/2025 20:30:39] >> Loading items
+[04/01/2025 20:30:39] [Warning - Items::loadFromXml] No itemid found
+[04/01/2025 20:30:39] [Warning - Items::loadFromXml] No itemid found
+[04/01/2025 20:30:39] >> Loading groups
+[04/01/2025 20:30:39] >> Loading vocations
+[04/01/2025 20:30:39] >> Loading script systems
+[04/01/2025 20:30:39] [Warning - Actions::registerEvent] Duplicate registered item with id: 22128, in fromid: 22113 and toid: 22144
+[04/01/2025 20:30:39] [Warning - Actions::registerEvent] Duplicate registered item with id: 22129, in fromid: 22113 and toid: 22144
+[04/01/2025 20:30:40] >> Loading chat channels
+[04/01/2025 20:30:40] >> Loading outfits
+[04/01/2025 20:30:40] >> Loading experience stages
+[04/01/2025 20:30:40] >> Loading monsters
+[04/01/2025 20:30:40] [Warning - Monsters::loadFromXml] Unknown node name (script).
+[04/01/2025 20:30:41] >> Loading mods...
+[04/01/2025 20:30:41] > Loading classic_changender.xml... done.
+[04/01/2025 20:30:41] > Loading firstitems.xml... done.
+[04/01/2025 20:30:41] > Loading highscorebook.xml... done.
+[04/01/2025 20:30:41] > Loading minimap.xml... done.
+[04/01/2025 20:30:41] > 4 mods were loaded.
+[04/01/2025 20:30:41] >> Loading map and spawns...
+[04/01/2025 20:30:43] > Map size: 2800x2000.
+[04/01/2025 20:30:43] > Map descriptions: 
+[04/01/2025 20:30:43] "Saved with OTAcademy Map Editor 4.1.2"
+[04/01/2025 20:30:43] "Map Dash Editadu Por TiIoO"
+[04/01/2025 20:30:49] Duplicate uniqueId 19456
+[04/01/2025 20:30:50] Duplicate uniqueId 1048
+[04/01/2025 20:30:55] Duplicate uniqueId 4648
+[04/01/2025 20:30:57] Duplicate uniqueId 15004
+[04/01/2025 20:30:58] Duplicate uniqueId 15005
+[04/01/2025 20:30:58] Duplicate uniqueId 15001
+[04/01/2025 20:30:58] Duplicate uniqueId 15002
+[04/01/2025 20:31:05] > Map loading time: 24.053 seconds.
+[04/01/2025 20:31:05] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (850)
+[04/01/2025 20:31:05] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (851)
+[04/01/2025 20:31:05] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (852)
+[04/01/2025 20:31:05] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (853)
+[04/01/2025 20:31:05] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (854)
+[04/01/2025 20:31:05] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (855)
+[04/01/2025 20:31:06] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (856)
+[04/01/2025 20:31:06] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (857)
+[04/01/2025 20:31:06] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (858)
+[04/01/2025 20:31:06] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (860)
+[04/01/2025 20:31:06] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (861)
+[04/01/2025 20:31:06] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (870)
+[04/01/2025 20:31:06] > Data parsing time: 0.91 seconds.
+[04/01/2025 20:31:07] > Houses synchronization time: 1.372 seconds.
+[04/01/2025 20:31:08] > Content unserialization time: 0.568 seconds.
+[04/01/2025 20:31:08] >> Checking world type... PvP
+[04/01/2025 20:31:08] >> Initializing game state modules and registering services...
+[04/01/2025 20:31:15] [Warning - Monster::Monster] Unknown event name - Spawn
+[04/01/2025 20:31:15] > Global address: 127.0.0.1
+[04/01/2025 20:31:15] > Local ports: 7171	7172	
+[04/01/2025 20:31:15] >> All modules were loaded, server is starting up...
+[04/01/2025 20:31:15] >> RoXy server Online!
+[04/01/2025 20:31:15] 
+[04/01/2025 20:31:54] Lucas fez login.
+[04/01/2025 20:33:41] > Broadcasted message: "[Sistema-PokeFênix]
+[04/01/2025 20:33:41] Para saber mais dos benefícios premium acesso nossa loja.".
+[04/01/2025 20:36:42] > Broadcasted message: "[Sistema-PokeFênix]
+[04/01/2025 20:36:42] Faça uma doação e ajude o servidor florecer.".
+[04/01/2025 20:37:36] Reloaded talk actions.
+[04/01/2025 20:39:43] > Broadcasted message: "[PokeFênix]
+[04/01/2025 20:39:43] Garanta já sua premium, ganhe benefícios acesse já nossa loja.".
+[04/01/2025 20:40:00] > Broadcasted message: "As inscrições para o torneio abriu e fechará daqui 5minutos! fale com o NPC torneio para entrar no torneio!".
+[04/01/2025 20:41:43] Lucas has logged out.
+[04/01/2025 20:41:43] > Saving server...
+[04/01/2025 20:41:44] > SAVE: Complete in 0.949 seconds using relational house storage.
+[04/01/2025 20:41:46] Pokemon Dash Advanced, version 0.3.6 (PDA)
+[04/01/2025 20:41:46] Compiled with GNU C++ version 4.4.0 at Jan  1 2025, 15:31:04.
+[04/01/2025 20:41:46] A server developed by Elf, slawkens, Talaturen, KaczooH, Lithium, Kiper, Kornholijo.
+[04/01/2025 20:41:46] Visit our forum for updates, support and resources: http://otland.net.
+[04/01/2025 20:41:46] 
+[04/01/2025 20:41:46] >> Loading config (config.lua)
+[04/01/2025 20:41:46] > Using SHA1 encryption
+[04/01/2025 20:41:46] >> Loading RSA key
+[04/01/2025 20:41:46] >> Starting SQL connection
+[04/01/2025 20:41:46] >> Running Database Manager
+[04/01/2025 20:41:46] > No tables were optimized.
+[04/01/2025 20:41:46] >> Loading items
+[04/01/2025 20:41:47] [Warning - Items::loadFromXml] No itemid found
+[04/01/2025 20:41:47] [Warning - Items::loadFromXml] No itemid found
+[04/01/2025 20:41:47] >> Loading groups
+[04/01/2025 20:41:47] >> Loading vocations
+[04/01/2025 20:41:47] >> Loading script systems
+[04/01/2025 20:41:47] [Warning - Actions::registerEvent] Duplicate registered item with id: 22128, in fromid: 22113 and toid: 22144
+[04/01/2025 20:41:47] [Warning - Actions::registerEvent] Duplicate registered item with id: 22129, in fromid: 22113 and toid: 22144
+[04/01/2025 20:41:48] >> Loading chat channels
+[04/01/2025 20:41:48] >> Loading outfits
+[04/01/2025 20:41:48] >> Loading experience stages
+[04/01/2025 20:41:48] >> Loading monsters
+[04/01/2025 20:41:48] [Warning - Monsters::loadFromXml] Unknown node name (script).
+[04/01/2025 20:41:48] >> Loading mods...
+[04/01/2025 20:41:48] > Loading classic_changender.xml... done.
+[04/01/2025 20:41:48] > Loading firstitems.xml... done.
+[04/01/2025 20:41:48] > Loading highscorebook.xml... done.
+[04/01/2025 20:41:48] > Loading minimap.xml... done.
+[04/01/2025 20:41:48] > 4 mods were loaded.
+[04/01/2025 20:41:48] >> Loading map and spawns...
+[04/01/2025 20:41:51] > Map size: 2800x2000.
+[04/01/2025 20:41:51] > Map descriptions: 
+[04/01/2025 20:41:51] "Saved with OTAcademy Map Editor 4.1.2"
+[04/01/2025 20:41:51] "Map Dash Editadu Por TiIoO"
+[04/01/2025 20:41:57] Duplicate uniqueId 19456
+[04/01/2025 20:41:58] Duplicate uniqueId 1048
+[04/01/2025 20:42:02] Duplicate uniqueId 4648
+[04/01/2025 20:42:05] Duplicate uniqueId 15004
+[04/01/2025 20:42:06] Duplicate uniqueId 15005
+[04/01/2025 20:42:06] Duplicate uniqueId 15001
+[04/01/2025 20:42:06] Duplicate uniqueId 15002
+[04/01/2025 20:42:13] > Map loading time: 24.1 seconds.
+[04/01/2025 20:42:13] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (850)
+[04/01/2025 20:42:13] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (851)
+[04/01/2025 20:42:13] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (852)
+[04/01/2025 20:42:13] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (853)
+[04/01/2025 20:42:13] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (854)
+[04/01/2025 20:42:13] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (855)
+[04/01/2025 20:42:13] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (856)
+[04/01/2025 20:42:13] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (857)
+[04/01/2025 20:42:13] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (858)
+[04/01/2025 20:42:14] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (860)
+[04/01/2025 20:42:14] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (861)
+[04/01/2025 20:42:14] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (870)
+[04/01/2025 20:42:14] > Data parsing time: 0.942 seconds.
+[04/01/2025 20:42:15] > Houses synchronization time: 1.437 seconds.
+[04/01/2025 20:42:16] > Content unserialization time: 0.642 seconds.
+[04/01/2025 20:42:16] >> Checking world type... PvP
+[04/01/2025 20:42:16] >> Initializing game state modules and registering services...
+[04/01/2025 20:42:24] [Warning - Monster::Monster] Unknown event name - Spawn
+[04/01/2025 20:42:24] > Global address: 127.0.0.1
+[04/01/2025 20:42:24] > Local ports: 7171	7172	
+[04/01/2025 20:42:24] >> All modules were loaded, server is starting up...
+[04/01/2025 20:42:24] >> RoXy server Online!
+[04/01/2025 20:42:24] 
+[04/01/2025 20:42:28] Lucas fez login.
+[04/01/2025 20:42:49] Pokemon Dash Advanced, version 0.3.6 (PDA)
+[04/01/2025 20:42:49] Compiled with GNU C++ version 4.4.0 at Jan  1 2025, 15:31:04.
+[04/01/2025 20:42:49] A server developed by Elf, slawkens, Talaturen, KaczooH, Lithium, Kiper, Kornholijo.
+[04/01/2025 20:42:49] Visit our forum for updates, support and resources: http://otland.net.
+[04/01/2025 20:42:49] 
+[04/01/2025 20:42:49] >> Loading config (config.lua)
+[04/01/2025 20:42:49] 
+[04/01/2025 20:42:49] > ERROR: Another instance of The Forgotten Server is already running with the same worldId.
+[04/01/2025 20:42:49] If you want to run multiple servers, please change the worldId in configuration file.
+[04/01/2025 20:43:23] 
+[04/01/2025 20:43:23] [Error - Action Interface] 
+[04/01/2025 20:43:23] In a timer event called from: 
+[04/01/2025 20:43:23] data/actions/scripts/catch.lua:onUse
+[04/01/2025 20:43:23] Description: 
+[04/01/2025 20:43:23] data/lib/catch system.lua:292: attempt to call global 'doSetAttributesBallsByPokeName' (a nil value)
+[04/01/2025 20:43:23] stack traceback:
+[04/01/2025 20:43:23] 	data/lib/catch system.lua:292: in function <data/lib/catch system.lua:265>
+[04/01/2025 20:44:49] > Broadcasted message: "{[PokeFênix]
+[04/01/2025 20:44:49] Não deixe de ficar por dentro das atualizações e noticias do servidor, acesse nosso discord: dicord.gg/pokefenix}".
+[04/01/2025 20:46:25] Lucas has logged out.
+[04/01/2025 20:46:25] > Saving server...
+[04/01/2025 20:46:26] > SAVE: Complete in 0.995 seconds using relational house storage.
+[04/01/2025 20:46:29] Pokemon Dash Advanced, version 0.3.6 (PDA)
+[04/01/2025 20:46:29] Compiled with GNU C++ version 4.4.0 at Jan  1 2025, 15:31:04.
+[04/01/2025 20:46:29] A server developed by Elf, slawkens, Talaturen, KaczooH, Lithium, Kiper, Kornholijo.
+[04/01/2025 20:46:29] Visit our forum for updates, support and resources: http://otland.net.
+[04/01/2025 20:46:29] 
+[04/01/2025 20:46:29] >> Loading config (config.lua)
+[04/01/2025 20:46:29] > Using SHA1 encryption
+[04/01/2025 20:46:29] >> Loading RSA key
+[04/01/2025 20:46:29] >> Starting SQL connection
+[04/01/2025 20:46:29] >> Running Database Manager
+[04/01/2025 20:46:29] > No tables were optimized.
+[04/01/2025 20:46:29] >> Loading items
+[04/01/2025 20:46:29] [Warning - Items::loadFromXml] No itemid found
+[04/01/2025 20:46:29] [Warning - Items::loadFromXml] No itemid found
+[04/01/2025 20:46:29] >> Loading groups
+[04/01/2025 20:46:29] >> Loading vocations
+[04/01/2025 20:46:29] >> Loading script systems
+[04/01/2025 20:46:30] [Warning - Actions::registerEvent] Duplicate registered item with id: 22128, in fromid: 22113 and toid: 22144
+[04/01/2025 20:46:30] [Warning - Actions::registerEvent] Duplicate registered item with id: 22129, in fromid: 22113 and toid: 22144
+[04/01/2025 20:46:30] >> Loading chat channels
+[04/01/2025 20:46:30] >> Loading outfits
+[04/01/2025 20:46:30] >> Loading experience stages
+[04/01/2025 20:46:30] >> Loading monsters
+[04/01/2025 20:46:30] [Warning - Monsters::loadFromXml] Unknown node name (script).
+[04/01/2025 20:46:31] >> Loading mods...
+[04/01/2025 20:46:31] > Loading classic_changender.xml... done.
+[04/01/2025 20:46:31] > Loading firstitems.xml... done.
+[04/01/2025 20:46:31] > Loading highscorebook.xml... done.
+[04/01/2025 20:46:31] > Loading minimap.xml... done.
+[04/01/2025 20:46:31] > 4 mods were loaded.
+[04/01/2025 20:46:31] >> Loading map and spawns...
+[04/01/2025 20:46:33] > Map size: 2800x2000.
+[04/01/2025 20:46:33] > Map descriptions: 
+[04/01/2025 20:46:33] "Saved with OTAcademy Map Editor 4.1.2"
+[04/01/2025 20:46:33] "Map Dash Editadu Por TiIoO"
+[04/01/2025 20:46:40] Duplicate uniqueId 19456
+[04/01/2025 20:46:41] Duplicate uniqueId 1048
+[04/01/2025 20:46:45] Duplicate uniqueId 4648
+[04/01/2025 20:46:49] Duplicate uniqueId 15004
+[04/01/2025 20:46:49] Duplicate uniqueId 15005
+[04/01/2025 20:46:49] Duplicate uniqueId 15001
+[04/01/2025 20:46:50] Duplicate uniqueId 15002
+[04/01/2025 20:46:56] > Map loading time: 25.095 seconds.
+[04/01/2025 20:46:57] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (850)
+[04/01/2025 20:46:57] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (851)
+[04/01/2025 20:46:57] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (852)
+[04/01/2025 20:46:57] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (853)
+[04/01/2025 20:46:57] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (854)
+[04/01/2025 20:46:57] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (855)
+[04/01/2025 20:46:57] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (856)
+[04/01/2025 20:46:57] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (857)
+[04/01/2025 20:46:57] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (858)
+[04/01/2025 20:46:57] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (860)
+[04/01/2025 20:46:57] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (861)
+[04/01/2025 20:46:57] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (870)
+[04/01/2025 20:46:57] > Data parsing time: 0.97 seconds.
+[04/01/2025 20:46:58] > Houses synchronization time: 1.395 seconds.
+[04/01/2025 20:46:59] > Content unserialization time: 0.672 seconds.
+[04/01/2025 20:46:59] >> Checking world type... PvP
+[04/01/2025 20:46:59] >> Initializing game state modules and registering services...
+[04/01/2025 20:47:07] [Warning - Monster::Monster] Unknown event name - Spawn
+[04/01/2025 20:47:07] > Global address: 127.0.0.1
+[04/01/2025 20:47:07] > Local ports: 7171	7172	
+[04/01/2025 20:47:07] >> All modules were loaded, server is starting up...
+[04/01/2025 20:47:07] >> RoXy server Online!
+[04/01/2025 20:47:07] 
+[04/01/2025 20:47:14] Luquiinhas fez login.
+[04/01/2025 20:47:16] Lucas fez login.
+[04/01/2025 20:49:31] > Broadcasted message: "[Sistema-PokeFênix]
+[04/01/2025 20:49:31] Nosso site: ********".
+[04/01/2025 20:52:32] > Broadcasted message: "[Sistema-PokeFênix]
+[04/01/2025 20:52:32] Para saber mais dos benefícios premium acesso nossa loja.".
+[04/01/2025 20:55:33] > Broadcasted message: "[Dica-PokeFênix]
+[04/01/2025 20:55:33] Use !comandos para ver alguns comandos disponíveis.".
+[04/01/2025 20:58:34] > Broadcasted message: "[Sistema-PokeFênix]
+[04/01/2025 20:58:34] Para saber mais dos benefícios premium acesso nossa loja.".
+[04/01/2025 21:01:35] > Broadcasted message: "[Dica-PokeFênix]
+[04/01/2025 21:01:35] Para fazer a Mega Box Quest você precisa juntar 100 fire piece, 100 water piece e 100 leaf piece para poder entrar. São Dropados na outland e em alguns outros pokemons.".
+[04/01/2025 21:01:46] Lucas has logged out.
+[04/01/2025 21:01:53] Luquiinhas has logged out.
+[04/01/2025 21:01:53] > Saving server...
+[04/01/2025 21:01:54] > SAVE: Complete in 1.144 seconds using relational house storage.
+[04/01/2025 22:13:02] Pokemon Dash Advanced, version 0.3.6 (PDA)
+[04/01/2025 22:13:02] Compiled with GNU C++ version 4.4.0 at Jan  1 2025, 15:31:04.
+[04/01/2025 22:13:02] A server developed by Elf, slawkens, Talaturen, KaczooH, Lithium, Kiper, Kornholijo.
+[04/01/2025 22:13:02] Visit our forum for updates, support and resources: http://otland.net.
+[04/01/2025 22:13:02] 
+[04/01/2025 22:13:02] >> Loading config (config.lua)
+[04/01/2025 22:13:02] > Using SHA1 encryption
+[04/01/2025 22:13:02] >> Loading RSA key
+[04/01/2025 22:13:02] >> Starting SQL connection
+[04/01/2025 22:13:02] >> Running Database Manager
+[04/01/2025 22:13:02] > No tables were optimized.
+[04/01/2025 22:13:02] >> Loading items
+[04/01/2025 22:13:03] [Warning - Items::loadFromXml] No itemid found
+[04/01/2025 22:13:03] [Warning - Items::loadFromXml] No itemid found
+[04/01/2025 22:13:03] >> Loading groups
+[04/01/2025 22:13:03] >> Loading vocations
+[04/01/2025 22:13:03] >> Loading script systems
+[04/01/2025 22:13:03] [Warning - Actions::registerEvent] Duplicate registered item with id: 22128, in fromid: 22113 and toid: 22144
+[04/01/2025 22:13:03] [Warning - Actions::registerEvent] Duplicate registered item with id: 22129, in fromid: 22113 and toid: 22144
+[04/01/2025 22:13:04] >> Loading chat channels
+[04/01/2025 22:13:04] >> Loading outfits
+[04/01/2025 22:13:04] >> Loading experience stages
+[04/01/2025 22:13:04] >> Loading monsters
+[04/01/2025 22:13:04] [Warning - Monsters::loadFromXml] Unknown node name (script).
+[04/01/2025 22:13:04] >> Loading mods...
+[04/01/2025 22:13:04] > Loading classic_changender.xml... done.
+[04/01/2025 22:13:04] > Loading firstitems.xml... done.
+[04/01/2025 22:13:04] > Loading highscorebook.xml... done.
+[04/01/2025 22:13:04] > Loading minimap.xml... done.
+[04/01/2025 22:13:04] > 4 mods were loaded.
+[04/01/2025 22:13:04] >> Loading map and spawns...
+[04/01/2025 22:13:07] > Map size: 2800x2000.
+[04/01/2025 22:13:07] > Map descriptions: 
+[04/01/2025 22:13:07] "Saved with OTAcademy Map Editor 4.1.2"
+[04/01/2025 22:13:07] "Map Dash Editadu Por TiIoO"
+[04/01/2025 22:13:14] Duplicate uniqueId 19456
+[04/01/2025 22:13:15] Duplicate uniqueId 1048
+[04/01/2025 22:13:20] Duplicate uniqueId 4648
+[04/01/2025 22:13:23] Duplicate uniqueId 15004
+[04/01/2025 22:13:24] Duplicate uniqueId 15005
+[04/01/2025 22:13:24] Duplicate uniqueId 15001
+[04/01/2025 22:13:24] Duplicate uniqueId 15002
+[04/01/2025 22:13:30] > Map loading time: 25.872 seconds.
+[04/01/2025 22:13:31] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (850)
+[04/01/2025 22:13:31] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (851)
+[04/01/2025 22:13:31] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (852)
+[04/01/2025 22:13:31] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (853)
+[04/01/2025 22:13:31] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (854)
+[04/01/2025 22:13:31] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (855)
+[04/01/2025 22:13:31] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (856)
+[04/01/2025 22:13:31] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (857)
+[04/01/2025 22:13:31] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (858)
+[04/01/2025 22:13:31] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (860)
+[04/01/2025 22:13:31] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (861)
+[04/01/2025 22:13:31] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (870)
+[04/01/2025 22:13:31] > Data parsing time: 0.989 seconds.
+[04/01/2025 22:13:33] > Houses synchronization time: 1.582 seconds.
+[04/01/2025 22:13:34] > Content unserialization time: 0.641 seconds.
+[04/01/2025 22:13:34] >> Checking world type... PvP
+[04/01/2025 22:13:34] >> Initializing game state modules and registering services...
+[04/01/2025 22:13:42] [Warning - Monster::Monster] Unknown event name - Spawn
+[04/01/2025 22:13:42] > Global address: 127.0.0.1
+[04/01/2025 22:13:42] > Local ports: 7171	7172	
+[04/01/2025 22:13:42] >> All modules were loaded, server is starting up...
+[04/01/2025 22:13:42] >> RoXy server Online!
+[04/01/2025 22:13:42] 
+[04/01/2025 22:13:46] Luquiinhas fez login.
+[04/01/2025 22:13:52] Lucas fez login.
+[04/01/2025 22:13:57] 
+[04/01/2025 22:13:57] [Error - TalkAction Interface] 
+[04/01/2025 22:13:57] data/talkactions/scripts/pbar.lua:onSay
+[04/01/2025 22:13:58] Description: 
+[04/01/2025 22:13:58] data/talkactions/scripts/pbar.lua:105: attempt to compare nil with number
+[04/01/2025 22:13:58] stack traceback:
+[04/01/2025 22:13:58] 	data/talkactions/scripts/pbar.lua:105: in function 'volta'
+[04/01/2025 22:13:58] 	data/talkactions/scripts/pbar.lua:237: in function <data/talkactions/scripts/pbar.lua:226>
+[04/01/2025 22:13:59] 
+[04/01/2025 22:13:59] [Error - TalkAction Interface] 
+[04/01/2025 22:13:59] data/talkactions/scripts/pbar.lua:onSay
+[04/01/2025 22:13:59] Description: 
+[04/01/2025 22:13:59] data/talkactions/scripts/pbar.lua:105: attempt to compare nil with number
+[04/01/2025 22:13:59] stack traceback:
+[04/01/2025 22:13:59] 	data/talkactions/scripts/pbar.lua:105: in function 'volta'
+[04/01/2025 22:13:59] 	data/talkactions/scripts/pbar.lua:229: in function <data/talkactions/scripts/pbar.lua:226>
+[04/01/2025 22:14:00] 
+[04/01/2025 22:14:00] [Error - TalkAction Interface] 
+[04/01/2025 22:14:00] data/talkactions/scripts/pbar.lua:onSay
+[04/01/2025 22:14:00] Description: 
+[04/01/2025 22:14:00] data/talkactions/scripts/pbar.lua:105: attempt to compare nil with number
+[04/01/2025 22:14:00] stack traceback:
+[04/01/2025 22:14:00] 	data/talkactions/scripts/pbar.lua:105: in function 'volta'
+[04/01/2025 22:14:00] 	data/talkactions/scripts/pbar.lua:229: in function <data/talkactions/scripts/pbar.lua:226>
+[04/01/2025 22:14:02] 
+[04/01/2025 22:14:02] [Error - Action Interface] 
+[04/01/2025 22:14:02] data/actions/scripts/goback.lua:onUse
+[04/01/2025 22:14:02] Description: 
+[04/01/2025 22:14:02] data/actions/scripts/goback.lua:94: attempt to compare nil with number
+[04/01/2025 22:14:02] stack traceback:
+[04/01/2025 22:14:02] 	data/actions/scripts/goback.lua:94: in function <data/actions/scripts/goback.lua:19>
+[04/01/2025 22:14:03] 
+[04/01/2025 22:14:03] [Error - Action Interface] 
+[04/01/2025 22:14:03] data/actions/scripts/goback.lua:onUse
+[04/01/2025 22:14:03] Description: 
+[04/01/2025 22:14:03] data/actions/scripts/goback.lua:94: attempt to compare nil with number
+[04/01/2025 22:14:03] stack traceback:
+[04/01/2025 22:14:03] 	data/actions/scripts/goback.lua:94: in function <data/actions/scripts/goback.lua:19>
+[04/01/2025 22:14:03] 
+[04/01/2025 22:14:03] [Error - Action Interface] 
+[04/01/2025 22:14:03] data/actions/scripts/goback.lua:onUse
+[04/01/2025 22:14:03] Description: 
+[04/01/2025 22:14:03] data/actions/scripts/goback.lua:94: attempt to compare nil with number
+[04/01/2025 22:14:03] stack traceback:
+[04/01/2025 22:14:03] 	data/actions/scripts/goback.lua:94: in function <data/actions/scripts/goback.lua:19>
+[04/01/2025 22:14:14] 
+[04/01/2025 22:14:14] [Error - Action Interface] 
+[04/01/2025 22:14:14] data/actions/scripts/goback.lua:onUse
+[04/01/2025 22:14:14] Description: 
+[04/01/2025 22:14:14] data/actions/scripts/goback.lua:94: attempt to compare nil with number
+[04/01/2025 22:14:14] stack traceback:
+[04/01/2025 22:14:14] 	data/actions/scripts/goback.lua:94: in function <data/actions/scripts/goback.lua:19>
+[04/01/2025 22:14:16] 
+[04/01/2025 22:14:16] [Error - TalkAction Interface] 
+[04/01/2025 22:14:16] data/talkactions/scripts/pbar.lua:onSay
+[04/01/2025 22:14:16] Description: 
+[04/01/2025 22:14:16] data/talkactions/scripts/pbar.lua:105: attempt to compare nil with number
+[04/01/2025 22:14:16] stack traceback:
+[04/01/2025 22:14:16] 	data/talkactions/scripts/pbar.lua:105: in function 'volta'
+[04/01/2025 22:14:16] 	data/talkactions/scripts/pbar.lua:229: in function <data/talkactions/scripts/pbar.lua:226>
+[04/01/2025 22:15:06] [Warning - Actions::registerEvent] Duplicate registered item with id: 22128, in fromid: 22113 and toid: 22144
+[04/01/2025 22:15:06] [Warning - Actions::registerEvent] Duplicate registered item with id: 22129, in fromid: 22113 and toid: 22144
+[04/01/2025 22:15:06] Reloaded actions.
+[04/01/2025 22:16:05] > Broadcasted message: "[Sistema-PokeFênix]
+[04/01/2025 22:16:05] Para saber as vantagens de ser Premium account, acesse nossa loja agora mesmo.".
+[04/01/2025 22:16:45] Current Storage Value: 
+[04/01/2025 22:16:45] normal = 0, great = 0, super = 0, ultra = 0, saffari = 0, dark = 0, magu = 0, sora = 0, yume = 0, dusk = 0, tale = 0, moon = 0, net = 0, premier = 0, tinker = 0, fast = 0, heavy = 0;
+[04/01/2025 22:16:45] Updated Storage Value: 
+[04/01/2025 22:16:45] normal = 0, great = 0, super = 0, ultra = 0, saffari = 0, dark = 0, magu = 0, sora = 0, yume = 0, dusk = 0, tale = 0, moon = 0, net = 0, premier = 0, tinker = 0, fast = 0, heavy = 0;
+[04/01/2025 22:16:45] 1
+[04/01/2025 22:19:06] > Broadcasted message: "[Dica-PokeFênix]
+[04/01/2025 22:19:06] Para fazer a Mega Box Quest você precisa juntar 100 fire piece, 100 water piece e 100 leaf piece para poder entrar. São Dropados na outland e em alguns outros pokemons.".
+[04/01/2025 22:22:07] > Broadcasted message: "[Sistema-PokeFênix]
+[04/01/2025 22:22:07] Para saber mais dos benefícios premium acesso nossa loja.".
+[04/01/2025 22:25:08] > Broadcasted message: "[Sistema-PokeFênix]
+[04/01/2025 22:25:08] Para saber as vantagens de ser Premium account, acesse nossa loja agora mesmo.".
+[04/01/2025 22:28:09] > Broadcasted message: "[Sistema-PokeFênix]
+[04/01/2025 22:28:09] Faça uma doação e ajude o servidor florecer.".
+[04/01/2025 22:31:10] > Broadcasted message: "{[PokeFênix]
+[04/01/2025 22:31:10] Não deixe de ficar por dentro das atualizações e noticias do servidor, acesse nosso discord: dicord.gg/pokefenix}".
+[04/01/2025 22:34:00] Pokemon Dash Advanced, version 0.3.6 (PDA)
+[04/01/2025 22:34:00] Compiled with GNU C++ version 4.4.0 at Jan  1 2025, 15:31:04.
+[04/01/2025 22:34:00] A server developed by Elf, slawkens, Talaturen, KaczooH, Lithium, Kiper, Kornholijo.
+[04/01/2025 22:34:00] Visit our forum for updates, support and resources: http://otland.net.
+[04/01/2025 22:34:00] 
+[04/01/2025 22:34:00] >> Loading config (config.lua)
+[04/01/2025 22:34:00] > Using SHA1 encryption
+[04/01/2025 22:34:00] >> Loading RSA key
+[04/01/2025 22:34:00] >> Starting SQL connection
+[04/01/2025 22:34:00] >> Running Database Manager
+[04/01/2025 22:34:00] > No tables were optimized.
+[04/01/2025 22:34:00] >> Loading items
+[04/01/2025 22:34:00] [Warning - Items::loadFromXml] No itemid found
+[04/01/2025 22:34:00] [Warning - Items::loadFromXml] No itemid found
+[04/01/2025 22:34:00] >> Loading groups
+[04/01/2025 22:34:00] >> Loading vocations
+[04/01/2025 22:34:00] >> Loading script systems
+[04/01/2025 22:34:00] [Error - LuaScriptInterface::loadFile] data/lib/catch system.lua:530: 'end' expected (to close 'function' at line 7) near '<eof>'
+[04/01/2025 22:34:00] [Warning - LuaScriptInterface::initState] Cannot load data/lib/
+[04/01/2025 22:34:00] [Error - LuaScriptInterface::loadFile] data/lib/catch system.lua:530: 'end' expected (to close 'function' at line 7) near '<eof>'
+[04/01/2025 22:34:00] [Warning - LuaScriptInterface::initState] Cannot load data/lib/
+[04/01/2025 22:34:00] [Error - LuaScriptInterface::loadFile] data/lib/catch system.lua:530: 'end' expected (to close 'function' at line 7) near '<eof>'
+[04/01/2025 22:34:00] [Warning - LuaScriptInterface::initState] Cannot load data/lib/
+[04/01/2025 22:34:00] [Warning - Actions::registerEvent] Duplicate registered item with id: 22128, in fromid: 22113 and toid: 22144
+[04/01/2025 22:34:00] [Warning - Actions::registerEvent] Duplicate registered item with id: 22129, in fromid: 22113 and toid: 22144
+[04/01/2025 22:34:00] 
+[04/01/2025 22:34:00] [Error - Action Interface] 
+[04/01/2025 22:34:00] data/actions/scripts/boost.lua
+[04/01/2025 22:34:00] Description: 
+[04/01/2025 22:34:00] data/actions/scripts/boost.lua:701: table index is nil
+[04/01/2025 22:34:00] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/boost.lua)
+[04/01/2025 22:34:00] data/lib/catch system.lua:530: 'end' expected (to close 'function' at line 7) near '<eof>'
+[04/01/2025 22:34:00] 
+[04/01/2025 22:34:00] [Error - Action Interface] 
+[04/01/2025 22:34:00] data/actions/scripts/evolution.lua
+[04/01/2025 22:34:00] Description: 
+[04/01/2025 22:34:00] data/actions/scripts/evolution.lua:4: table index is nil
+[04/01/2025 22:34:00] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/evolution.lua)
+[04/01/2025 22:34:00] data/lib/catch system.lua:530: 'end' expected (to close 'function' at line 7) near '<eof>'
+[04/01/2025 22:34:01] [Error - LuaScriptInterface::loadFile] data/lib/catch system.lua:530: 'end' expected (to close 'function' at line 7) near '<eof>'
+[04/01/2025 22:34:01] [Warning - LuaScriptInterface::initState] Cannot load data/lib/
+[04/01/2025 22:34:01] [Error - LuaScriptInterface::loadFile] data/lib/catch system.lua:530: 'end' expected (to close 'function' at line 7) near '<eof>'
+[04/01/2025 22:34:01] [Warning - LuaScriptInterface::initState] Cannot load data/lib/
+[04/01/2025 22:34:01] [Error - LuaScriptInterface::loadFile] data/lib/catch system.lua:530: 'end' expected (to close 'function' at line 7) near '<eof>'
+[04/01/2025 22:34:01] [Warning - LuaScriptInterface::initState] Cannot load data/lib/
+[04/01/2025 22:34:01] [Error - LuaScriptInterface::loadFile] data/lib/catch system.lua:530: 'end' expected (to close 'function' at line 7) near '<eof>'
+[04/01/2025 22:34:01] [Warning - LuaScriptInterface::initState] Cannot load data/lib/
+[04/01/2025 22:34:01] >> Loading chat channels
+[04/01/2025 22:34:01] >> Loading outfits
+[04/01/2025 22:34:01] >> Loading experience stages
+[04/01/2025 22:34:01] >> Loading monsters
+[04/01/2025 22:34:01] [Warning - Monsters::loadFromXml] Unknown node name (script).
+[04/01/2025 22:34:01] >> Loading mods...
+[04/01/2025 22:34:01] > Loading classic_changender.xml... done.
+[04/01/2025 22:34:01] > Loading firstitems.xml... done.
+[04/01/2025 22:34:01] > Loading highscorebook.xml... done.
+[04/01/2025 22:34:01] > Loading minimap.xml... done.
+[04/01/2025 22:34:01] > 4 mods were loaded.
+[04/01/2025 22:34:01] >> Loading map and spawns...
+[04/01/2025 22:34:04] > Map size: 2800x2000.
+[04/01/2025 22:34:04] > Map descriptions: 
+[04/01/2025 22:34:04] "Saved with OTAcademy Map Editor 4.1.2"
+[04/01/2025 22:34:04] "Map Dash Editadu Por TiIoO"
+[04/01/2025 22:34:11] Duplicate uniqueId 19456
+[04/01/2025 22:34:11] Duplicate uniqueId 1048
+[04/01/2025 22:34:16] Duplicate uniqueId 4648
+[04/01/2025 22:34:19] Duplicate uniqueId 15004
+[04/01/2025 22:34:20] Duplicate uniqueId 15005
+[04/01/2025 22:34:20] Duplicate uniqueId 15001
+[04/01/2025 22:34:20] Duplicate uniqueId 15002
+[04/01/2025 22:34:27] > Map loading time: 25.292 seconds.
+[04/01/2025 22:34:27] [Error - LuaScriptInterface::loadFile] data/lib/catch system.lua:530: 'end' expected (to close 'function' at line 7) near '<eof>'
+[04/01/2025 22:34:27] [Warning - LuaScriptInterface::initState] Cannot load data/lib/
+[04/01/2025 22:34:28] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (850)
+[04/01/2025 22:34:28] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (851)
+[04/01/2025 22:34:28] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (852)
+[04/01/2025 22:34:28] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (853)
+[04/01/2025 22:34:28] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (854)
+[04/01/2025 22:34:28] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (855)
+[04/01/2025 22:34:28] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (856)
+[04/01/2025 22:34:28] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (857)
+[04/01/2025 22:34:28] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (858)
+[04/01/2025 22:34:28] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (860)
+[04/01/2025 22:34:28] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (861)
+[04/01/2025 22:34:28] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (870)
+[04/01/2025 22:34:28] > Data parsing time: 0.889 seconds.
+[04/01/2025 22:34:29] > Houses synchronization time: 1.407 seconds.
+[04/01/2025 22:34:30] > Content unserialization time: 0.588 seconds.
+[04/01/2025 22:34:30] >> Checking world type... PvP
+[04/01/2025 22:34:30] >> Initializing game state modules and registering services...
+[04/01/2025 22:34:30] 
+[04/01/2025 22:34:30] [Error - CreatureScript Interface] 
+[04/01/2025 22:34:30] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:34:30] Description: 
+[04/01/2025 22:34:30] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:34:30] stack traceback:
+[04/01/2025 22:34:30] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:34:30] 
+[04/01/2025 22:34:30] [Error - CreatureScript Interface] 
+[04/01/2025 22:34:30] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:34:30] Description: 
+[04/01/2025 22:34:30] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:34:30] stack traceback:
+[04/01/2025 22:34:30] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:34:30] 
+[04/01/2025 22:34:30] [Error - CreatureScript Interface] 
+[04/01/2025 22:34:30] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:34:30] Description: 
+[04/01/2025 22:34:30] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:34:30] stack traceback:
+[04/01/2025 22:34:30] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:34:30] 
+[04/01/2025 22:34:30] [Error - CreatureScript Interface] 
+[04/01/2025 22:34:30] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:34:30] Description: 
+[04/01/2025 22:34:30] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:34:30] stack traceback:
+[04/01/2025 22:34:30] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:34:30] 
+[04/01/2025 22:34:30] [Error - CreatureScript Interface] 
+[04/01/2025 22:34:30] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:34:30] Description: 
+[04/01/2025 22:34:30] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:34:30] stack traceback:
+[04/01/2025 22:34:30] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:34:30] 
+[04/01/2025 22:34:30] [Error - CreatureScript Interface] 
+[04/01/2025 22:34:30] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:34:30] Description: 
+[04/01/2025 22:34:30] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:34:30] stack traceback:
+[04/01/2025 22:34:30] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:34:30] 
+[04/01/2025 22:34:30] [Error - CreatureScript Interface] 
+[04/01/2025 22:34:30] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:34:30] Description: 
+[04/01/2025 22:34:30] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:34:30] stack traceback:
+[04/01/2025 22:34:30] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:34:30] 
+[04/01/2025 22:34:30] [Error - CreatureScript Interface] 
+[04/01/2025 22:34:30] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:34:30] Description: 
+[04/01/2025 22:34:30] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:34:30] stack traceback:
+[04/01/2025 22:34:30] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:34:30] 
+[04/01/2025 22:34:30] [Error - CreatureScript Interface] 
+[04/01/2025 22:34:30] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:34:30] Description: 
+[04/01/2025 22:34:30] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:34:30] stack traceback:
+[04/01/2025 22:34:30] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:34:30] 
+[04/01/2025 22:34:30] [Error - CreatureScript Interface] 
+[04/01/2025 22:34:30] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:34:30] Description: 
+[04/01/2025 22:34:30] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:34:30] stack traceback:
+[04/01/2025 22:34:30] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:34:30] 
+[04/01/2025 22:34:30] [Error - CreatureScript Interface] 
+[04/01/2025 22:34:30] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:34:30] Description: 
+[04/01/2025 22:34:30] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:34:31] stack traceback:
+[04/01/2025 22:34:31] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:34:31] 
+[04/01/2025 22:34:31] [Error - CreatureScript Interface] 
+[04/01/2025 22:34:31] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:34:31] Description: 
+[04/01/2025 22:34:31] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:34:31] stack traceback:
+[04/01/2025 22:34:31] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:34:31] 
+[04/01/2025 22:34:31] [Error - CreatureScript Interface] 
+[04/01/2025 22:34:31] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:34:31] Description: 
+[04/01/2025 22:34:31] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:34:31] stack traceback:
+[04/01/2025 22:34:31] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:34:31] 
+[04/01/2025 22:34:31] [Error - CreatureScript Interface] 
+[04/01/2025 22:34:31] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:34:31] Description: 
+[04/01/2025 22:34:31] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:34:31] stack traceback:
+[04/01/2025 22:34:31] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:34:31] 
+[04/01/2025 22:34:31] [Error - CreatureScript Interface] 
+[04/01/2025 22:34:31] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:34:31] Description: 
+[04/01/2025 22:34:31] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:34:31] stack traceback:
+[04/01/2025 22:34:31] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:34:31] 
+[04/01/2025 22:34:31] [Error - CreatureScript Interface] 
+[04/01/2025 22:34:31] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:34:31] Description: 
+[04/01/2025 22:34:31] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:34:31] stack traceback:
+[04/01/2025 22:34:31] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:34:31] 
+[04/01/2025 22:34:31] [Error - CreatureScript Interface] 
+[04/01/2025 22:34:31] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:34:31] Description: 
+[04/01/2025 22:34:31] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:34:31] stack traceback:
+[04/01/2025 22:34:31] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:34:31] 
+[04/01/2025 22:34:31] [Error - CreatureScript Interface] 
+[04/01/2025 22:34:31] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:34:31] Description: 
+[04/01/2025 22:34:31] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:34:31] stack traceback:
+[04/01/2025 22:34:31] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:34:31] 
+[04/01/2025 22:34:31] [Error - CreatureScript Interface] 
+[04/01/2025 22:34:31] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:34:31] Description: 
+[04/01/2025 22:34:31] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:34:31] stack traceback:
+[04/01/2025 22:34:31] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:34:31] 
+[04/01/2025 22:34:31] [Error - CreatureScript Interface] 
+[04/01/2025 22:34:31] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:34:31] Description: 
+[04/01/2025 22:34:31] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:34:31] stack traceback:
+[04/01/2025 22:34:31] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:34:31] 
+[04/01/2025 22:34:31] [Error - CreatureScript Interface] 
+[04/01/2025 22:34:31] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:34:31] Description: 
+[04/01/2025 22:34:31] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:34:31] stack traceback:
+[04/01/2025 22:34:31] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:34:31] 
+[04/01/2025 22:34:31] [Error - CreatureScript Interface] 
+[04/01/2025 22:34:31] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:34:32] Description: 
+[04/01/2025 22:34:32] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:34:32] stack traceback:
+[04/01/2025 22:34:32] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:34:32] 
+[04/01/2025 22:34:32] [Error - CreatureScript Interface] 
+[04/01/2025 22:34:32] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:34:32] Description: 
+[04/01/2025 22:34:32] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:34:32] stack traceback:
+[04/01/2025 22:34:32] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:34:32] 
+[04/01/2025 22:34:32] [Error - CreatureScript Interface] 
+[04/01/2025 22:34:32] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:34:32] Description: 
+[04/01/2025 22:34:32] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:34:32] stack traceback:
+[04/01/2025 22:34:32] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:34:32] 
+[04/01/2025 22:34:32] [Error - CreatureScript Interface] 
+[04/01/2025 22:34:32] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:34:32] Description: 
+[04/01/2025 22:34:32] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:34:32] stack traceback:
+[04/01/2025 22:34:32] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:34:32] 
+[04/01/2025 22:34:32] [Error - CreatureScript Interface] 
+[04/01/2025 22:34:32] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:34:32] Description: 
+[04/01/2025 22:34:32] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:34:32] stack traceback:
+[04/01/2025 22:34:32] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:34:32] 
+[04/01/2025 22:34:32] [Error - CreatureScript Interface] 
+[04/01/2025 22:34:32] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:34:32] Description: 
+[04/01/2025 22:34:32] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:34:32] stack traceback:
+[04/01/2025 22:34:32] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:34:32] 
+[04/01/2025 22:34:32] [Error - CreatureScript Interface] 
+[04/01/2025 22:34:32] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:34:32] Description: 
+[04/01/2025 22:34:32] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:34:32] stack traceback:
+[04/01/2025 22:34:32] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:34:32] 
+[04/01/2025 22:34:32] [Error - CreatureScript Interface] 
+[04/01/2025 22:34:32] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:34:32] Description: 
+[04/01/2025 22:34:32] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:34:32] stack traceback:
+[04/01/2025 22:34:32] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:34:32] 
+[04/01/2025 22:34:32] [Error - CreatureScript Interface] 
+[04/01/2025 22:34:32] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:34:32] Description: 
+[04/01/2025 22:34:32] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:34:32] stack traceback:
+[04/01/2025 22:34:32] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:34:32] 
+[04/01/2025 22:34:32] [Error - CreatureScript Interface] 
+[04/01/2025 22:34:32] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:34:33] Description: 
+[04/01/2025 22:34:33] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:34:33] stack traceback:
+[04/01/2025 22:34:33] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:34:33] 
+[04/01/2025 22:34:33] [Error - CreatureScript Interface] 
+[04/01/2025 22:34:33] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:34:33] Description: 
+[04/01/2025 22:34:33] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:34:33] stack traceback:
+[04/01/2025 22:34:33] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:34:33] 
+[04/01/2025 22:34:33] [Error - CreatureScript Interface] 
+[04/01/2025 22:34:33] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:34:33] Description: 
+[04/01/2025 22:34:33] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:34:33] stack traceback:
+[04/01/2025 22:34:33] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:34:33] 
+[04/01/2025 22:34:33] [Error - CreatureScript Interface] 
+[04/01/2025 22:34:33] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:34:33] Description: 
+[04/01/2025 22:34:33] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:34:33] stack traceback:
+[04/01/2025 22:34:33] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:34:33] 
+[04/01/2025 22:34:33] [Error - CreatureScript Interface] 
+[04/01/2025 22:34:33] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:34:33] Description: 
+[04/01/2025 22:34:33] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:34:33] stack traceback:
+[04/01/2025 22:34:33] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:34:33] 
+[04/01/2025 22:34:33] [Error - CreatureScript Interface] 
+[04/01/2025 22:34:33] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:34:33] Description: 
+[04/01/2025 22:34:33] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:34:33] stack traceback:
+[04/01/2025 22:34:33] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:34:33] 
+[04/01/2025 22:34:33] [Error - CreatureScript Interface] 
+[04/01/2025 22:34:33] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:34:33] Description: 
+[04/01/2025 22:34:33] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:34:33] stack traceback:
+[04/01/2025 22:34:33] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:34:33] 
+[04/01/2025 22:34:33] [Error - CreatureScript Interface] 
+[04/01/2025 22:34:33] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:34:33] Description: 
+[04/01/2025 22:34:33] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:34:33] stack traceback:
+[04/01/2025 22:34:33] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:34:33] 
+[04/01/2025 22:34:33] [Error - CreatureScript Interface] 
+[04/01/2025 22:34:33] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:34:33] Description: 
+[04/01/2025 22:34:33] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:34:33] stack traceback:
+[04/01/2025 22:34:34] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:34:34] 
+[04/01/2025 22:34:34] [Error - CreatureScript Interface] 
+[04/01/2025 22:34:34] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:34:34] Description: 
+[04/01/2025 22:34:34] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:34:34] stack traceback:
+[04/01/2025 22:34:34] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:34:34] 
+[04/01/2025 22:34:34] [Error - CreatureScript Interface] 
+[04/01/2025 22:34:34] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:34:34] Description: 
+[04/01/2025 22:34:34] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:34:34] stack traceback:
+[04/01/2025 22:34:34] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:34:34] 
+[04/01/2025 22:34:34] [Error - CreatureScript Interface] 
+[04/01/2025 22:34:34] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:34:34] Description: 
+[04/01/2025 22:34:34] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:34:34] stack traceback:
+[04/01/2025 22:34:34] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:34:34] 
+[04/01/2025 22:34:34] [Error - CreatureScript Interface] 
+[04/01/2025 22:34:34] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:34:34] Description: 
+[04/01/2025 22:34:34] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:34:34] stack traceback:
+[04/01/2025 22:34:34] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:34:34] 
+[04/01/2025 22:34:34] [Error - CreatureScript Interface] 
+[04/01/2025 22:34:34] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:34:34] Description: 
+[04/01/2025 22:34:34] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:34:34] stack traceback:
+[04/01/2025 22:34:34] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:34:34] 
+[04/01/2025 22:34:34] [Error - CreatureScript Interface] 
+[04/01/2025 22:34:34] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:34:34] Description: 
+[04/01/2025 22:34:34] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:34:34] stack traceback:
+[04/01/2025 22:34:34] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:34:34] 
+[04/01/2025 22:34:34] [Error - CreatureScript Interface] 
+[04/01/2025 22:34:34] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:34:34] Description: 
+[04/01/2025 22:34:34] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:34:34] stack traceback:
+[04/01/2025 22:34:34] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:34:34] 
+[04/01/2025 22:34:34] [Error - CreatureScript Interface] 
+[04/01/2025 22:34:34] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:34:34] Description: 
+[04/01/2025 22:34:34] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:34:34] stack traceback:
+[04/01/2025 22:34:35] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:34:35] 
+[04/01/2025 22:34:35] [Error - CreatureScript Interface] 
+[04/01/2025 22:34:35] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:34:35] Description: 
+[04/01/2025 22:34:35] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:34:35] stack traceback:
+[04/01/2025 22:34:35] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:34:35] 
+[04/01/2025 22:34:35] [Error - CreatureScript Interface] 
+[04/01/2025 22:34:35] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:34:35] Description: 
+[04/01/2025 22:34:35] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:34:35] stack traceback:
+[04/01/2025 22:34:35] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:34:35] 
+[04/01/2025 22:34:35] [Error - CreatureScript Interface] 
+[04/01/2025 22:34:35] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:34:35] Description: 
+[04/01/2025 22:34:35] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:34:35] stack traceback:
+[04/01/2025 22:34:35] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:34:35] 
+[04/01/2025 22:34:35] [Error - CreatureScript Interface] 
+[04/01/2025 22:34:35] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:34:35] Description: 
+[04/01/2025 22:34:35] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:34:35] stack traceback:
+[04/01/2025 22:34:35] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:34:35] 
+[04/01/2025 22:34:35] [Error - CreatureScript Interface] 
+[04/01/2025 22:34:35] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:34:35] Description: 
+[04/01/2025 22:34:35] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:34:35] stack traceback:
+[04/01/2025 22:34:35] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:34:35] 
+[04/01/2025 22:34:35] [Error - CreatureScript Interface] 
+[04/01/2025 22:34:35] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:34:35] Description: 
+[04/01/2025 22:34:35] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:34:35] stack traceback:
+[04/01/2025 22:34:35] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:34:35] 
+[04/01/2025 22:34:35] [Error - CreatureScript Interface] 
+[04/01/2025 22:34:35] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:34:35] Description: 
+[04/01/2025 22:34:35] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:34:35] stack traceback:
+[04/01/2025 22:34:35] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:34:35] 
+[04/01/2025 22:34:36] [Error - CreatureScript Interface] 
+[04/01/2025 22:34:36] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:34:36] Description: 
+[04/01/2025 22:34:36] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:34:36] stack traceback:
+[04/01/2025 22:34:36] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:34:36] 
+[04/01/2025 22:34:36] [Error - CreatureScript Interface] 
+[04/01/2025 22:34:36] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:34:36] Description: 
+[04/01/2025 22:34:36] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:34:36] stack traceback:
+[04/01/2025 22:34:36] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:34:36] 
+[04/01/2025 22:34:36] [Error - CreatureScript Interface] 
+[04/01/2025 22:34:36] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:34:36] Description: 
+[04/01/2025 22:34:36] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:34:36] stack traceback:
+[04/01/2025 22:34:36] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:34:36] 
+[04/01/2025 22:34:36] [Error - CreatureScript Interface] 
+[04/01/2025 22:34:36] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:34:36] Description: 
+[04/01/2025 22:34:36] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:34:36] stack traceback:
+[04/01/2025 22:34:36] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:34:36] 
+[04/01/2025 22:34:36] [Error - CreatureScript Interface] 
+[04/01/2025 22:34:36] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:34:36] Description: 
+[04/01/2025 22:34:36] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:34:36] stack traceback:
+[04/01/2025 22:34:36] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:34:36] 
+[04/01/2025 22:34:36] [Error - CreatureScript Interface] 
+[04/01/2025 22:34:36] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:34:36] Description: 
+[04/01/2025 22:34:36] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:34:36] stack traceback:
+[04/01/2025 22:34:36] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:34:36] 
+[04/01/2025 22:34:36] [Error - CreatureScript Interface] 
+[04/01/2025 22:34:36] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:34:36] Description: 
+[04/01/2025 22:34:36] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:34:36] stack traceback:
+[04/01/2025 22:34:36] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:34:36] 
+[04/01/2025 22:34:36] [Error - CreatureScript Interface] 
+[04/01/2025 22:34:37] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:34:37] Description: 
+[04/01/2025 22:34:37] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:34:37] stack traceback:
+[04/01/2025 22:34:37] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:34:37] 
+[04/01/2025 22:34:37] [Error - CreatureScript Interface] 
+[04/01/2025 22:34:37] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:34:37] Description: 
+[04/01/2025 22:34:37] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:34:37] stack traceback:
+[04/01/2025 22:34:37] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:34:37] 
+[04/01/2025 22:34:37] [Error - CreatureScript Interface] 
+[04/01/2025 22:34:37] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:34:37] Description: 
+[04/01/2025 22:34:37] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:34:37] stack traceback:
+[04/01/2025 22:34:37] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:34:37] 
+[04/01/2025 22:34:37] [Error - CreatureScript Interface] 
+[04/01/2025 22:34:37] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:34:37] Description: 
+[04/01/2025 22:34:37] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:34:37] stack traceback:
+[04/01/2025 22:34:37] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:34:37] 
+[04/01/2025 22:34:37] [Error - CreatureScript Interface] 
+[04/01/2025 22:34:37] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:34:37] Description: 
+[04/01/2025 22:34:37] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:34:37] stack traceback:
+[04/01/2025 22:34:37] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:34:37] 
+[04/01/2025 22:34:37] [Error - CreatureScript Interface] 
+[04/01/2025 22:34:37] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:34:37] Description: 
+[04/01/2025 22:34:37] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:34:37] stack traceback:
+[04/01/2025 22:34:37] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:34:37] 
+[04/01/2025 22:34:37] [Error - CreatureScript Interface] 
+[04/01/2025 22:34:37] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:34:37] Description: 
+[04/01/2025 22:34:37] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:34:37] stack traceback:
+[04/01/2025 22:34:38] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:34:38] 
+[04/01/2025 22:34:40] Pokemon Dash Advanced, version 0.3.6 (PDA)
+[04/01/2025 22:34:40] Compiled with GNU C++ version 4.4.0 at Jan  1 2025, 15:31:04.
+[04/01/2025 22:34:40] A server developed by Elf, slawkens, Talaturen, KaczooH, Lithium, Kiper, Kornholijo.
+[04/01/2025 22:34:40] Visit our forum for updates, support and resources: http://otland.net.
+[04/01/2025 22:34:40] 
+[04/01/2025 22:34:40] >> Loading config (config.lua)
+[04/01/2025 22:34:40] > Using SHA1 encryption
+[04/01/2025 22:34:40] >> Loading RSA key
+[04/01/2025 22:34:40] >> Starting SQL connection
+[04/01/2025 22:34:40] >> Running Database Manager
+[04/01/2025 22:34:40] > No tables were optimized.
+[04/01/2025 22:34:40] >> Loading items
+[04/01/2025 22:34:41] [Warning - Items::loadFromXml] No itemid found
+[04/01/2025 22:34:41] [Warning - Items::loadFromXml] No itemid found
+[04/01/2025 22:34:41] >> Loading groups
+[04/01/2025 22:34:41] >> Loading vocations
+[04/01/2025 22:34:41] >> Loading script systems
+[04/01/2025 22:34:41] [Error - LuaScriptInterface::loadFile] data/lib/catch system.lua:530: 'end' expected (to close 'function' at line 7) near '<eof>'
+[04/01/2025 22:34:41] [Warning - LuaScriptInterface::initState] Cannot load data/lib/
+[04/01/2025 22:34:41] [Error - LuaScriptInterface::loadFile] data/lib/catch system.lua:530: 'end' expected (to close 'function' at line 7) near '<eof>'
+[04/01/2025 22:34:41] [Warning - LuaScriptInterface::initState] Cannot load data/lib/
+[04/01/2025 22:34:41] [Error - LuaScriptInterface::loadFile] data/lib/catch system.lua:530: 'end' expected (to close 'function' at line 7) near '<eof>'
+[04/01/2025 22:34:41] [Warning - LuaScriptInterface::initState] Cannot load data/lib/
+[04/01/2025 22:34:41] [Warning - Actions::registerEvent] Duplicate registered item with id: 22128, in fromid: 22113 and toid: 22144
+[04/01/2025 22:34:41] [Warning - Actions::registerEvent] Duplicate registered item with id: 22129, in fromid: 22113 and toid: 22144
+[04/01/2025 22:34:41] 
+[04/01/2025 22:34:41] [Error - Action Interface] 
+[04/01/2025 22:34:41] data/actions/scripts/boost.lua
+[04/01/2025 22:34:41] Description: 
+[04/01/2025 22:34:41] data/actions/scripts/boost.lua:701: table index is nil
+[04/01/2025 22:34:41] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/boost.lua)
+[04/01/2025 22:34:41] data/lib/catch system.lua:530: 'end' expected (to close 'function' at line 7) near '<eof>'
+[04/01/2025 22:34:41] 
+[04/01/2025 22:34:41] [Error - Action Interface] 
+[04/01/2025 22:34:41] data/actions/scripts/evolution.lua
+[04/01/2025 22:34:41] Description: 
+[04/01/2025 22:34:41] data/actions/scripts/evolution.lua:4: table index is nil
+[04/01/2025 22:34:41] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/evolution.lua)
+[04/01/2025 22:34:41] data/lib/catch system.lua:530: 'end' expected (to close 'function' at line 7) near '<eof>'
+[04/01/2025 22:34:41] [Error - LuaScriptInterface::loadFile] data/lib/catch system.lua:530: 'end' expected (to close 'function' at line 7) near '<eof>'
+[04/01/2025 22:34:41] [Warning - LuaScriptInterface::initState] Cannot load data/lib/
+[04/01/2025 22:34:41] [Error - LuaScriptInterface::loadFile] data/lib/catch system.lua:530: 'end' expected (to close 'function' at line 7) near '<eof>'
+[04/01/2025 22:34:41] [Warning - LuaScriptInterface::initState] Cannot load data/lib/
+[04/01/2025 22:34:41] [Error - LuaScriptInterface::loadFile] data/lib/catch system.lua:530: 'end' expected (to close 'function' at line 7) near '<eof>'
+[04/01/2025 22:34:41] [Warning - LuaScriptInterface::initState] Cannot load data/lib/
+[04/01/2025 22:34:41] [Error - LuaScriptInterface::loadFile] data/lib/catch system.lua:530: 'end' expected (to close 'function' at line 7) near '<eof>'
+[04/01/2025 22:34:41] [Warning - LuaScriptInterface::initState] Cannot load data/lib/
+[04/01/2025 22:34:41] >> Loading chat channels
+[04/01/2025 22:34:41] >> Loading outfits
+[04/01/2025 22:34:41] >> Loading experience stages
+[04/01/2025 22:34:41] >> Loading monsters
+[04/01/2025 22:34:41] [Warning - Monsters::loadFromXml] Unknown node name (script).
+[04/01/2025 22:34:42] >> Loading mods...
+[04/01/2025 22:34:42] > Loading classic_changender.xml... done.
+[04/01/2025 22:34:42] > Loading firstitems.xml... done.
+[04/01/2025 22:34:42] > Loading highscorebook.xml... done.
+[04/01/2025 22:34:42] > Loading minimap.xml... done.
+[04/01/2025 22:34:42] > 4 mods were loaded.
+[04/01/2025 22:34:42] >> Loading map and spawns...
+[04/01/2025 22:34:44] > Map size: 2800x2000.
+[04/01/2025 22:34:44] > Map descriptions: 
+[04/01/2025 22:34:44] "Saved with OTAcademy Map Editor 4.1.2"
+[04/01/2025 22:34:44] "Map Dash Editadu Por TiIoO"
+[04/01/2025 22:34:51] Duplicate uniqueId 19456
+[04/01/2025 22:34:52] Duplicate uniqueId 1048
+[04/01/2025 22:34:56] Duplicate uniqueId 4648
+[04/01/2025 22:35:00] Duplicate uniqueId 15004
+[04/01/2025 22:35:01] Duplicate uniqueId 15005
+[04/01/2025 22:35:01] Duplicate uniqueId 15001
+[04/01/2025 22:35:01] Duplicate uniqueId 15002
+[04/01/2025 22:35:07] > Map loading time: 25.361 seconds.
+[04/01/2025 22:35:07] [Error - LuaScriptInterface::loadFile] data/lib/catch system.lua:530: 'end' expected (to close 'function' at line 7) near '<eof>'
+[04/01/2025 22:35:07] [Warning - LuaScriptInterface::initState] Cannot load data/lib/
+[04/01/2025 22:35:08] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (850)
+[04/01/2025 22:35:08] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (851)
+[04/01/2025 22:35:08] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (852)
+[04/01/2025 22:35:08] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (853)
+[04/01/2025 22:35:08] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (854)
+[04/01/2025 22:35:08] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (855)
+[04/01/2025 22:35:08] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (856)
+[04/01/2025 22:35:08] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (857)
+[04/01/2025 22:35:08] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (858)
+[04/01/2025 22:35:08] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (860)
+[04/01/2025 22:35:08] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (861)
+[04/01/2025 22:35:08] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (870)
+[04/01/2025 22:35:08] > Data parsing time: 0.879 seconds.
+[04/01/2025 22:35:10] > Houses synchronization time: 1.306 seconds.
+[04/01/2025 22:35:10] > Content unserialization time: 0.574 seconds.
+[04/01/2025 22:35:10] >> Checking world type... PvP
+[04/01/2025 22:35:10] >> Initializing game state modules and registering services...
+[04/01/2025 22:35:10] 
+[04/01/2025 22:35:10] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:10] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:10] Description: 
+[04/01/2025 22:35:10] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:10] stack traceback:
+[04/01/2025 22:35:10] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:10] 
+[04/01/2025 22:35:10] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:10] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:10] Description: 
+[04/01/2025 22:35:10] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:10] stack traceback:
+[04/01/2025 22:35:10] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:10] 
+[04/01/2025 22:35:10] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:10] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:10] Description: 
+[04/01/2025 22:35:10] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:10] stack traceback:
+[04/01/2025 22:35:10] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:10] 
+[04/01/2025 22:35:10] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:10] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:10] Description: 
+[04/01/2025 22:35:10] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:10] stack traceback:
+[04/01/2025 22:35:10] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:10] 
+[04/01/2025 22:35:11] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:11] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:11] Description: 
+[04/01/2025 22:35:11] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:11] stack traceback:
+[04/01/2025 22:35:11] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:11] 
+[04/01/2025 22:35:11] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:11] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:11] Description: 
+[04/01/2025 22:35:11] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:11] stack traceback:
+[04/01/2025 22:35:11] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:11] 
+[04/01/2025 22:35:11] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:11] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:11] Description: 
+[04/01/2025 22:35:11] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:11] stack traceback:
+[04/01/2025 22:35:11] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:11] 
+[04/01/2025 22:35:11] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:11] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:11] Description: 
+[04/01/2025 22:35:11] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:11] stack traceback:
+[04/01/2025 22:35:11] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:11] 
+[04/01/2025 22:35:11] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:11] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:11] Description: 
+[04/01/2025 22:35:11] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:11] stack traceback:
+[04/01/2025 22:35:11] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:11] 
+[04/01/2025 22:35:11] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:11] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:11] Description: 
+[04/01/2025 22:35:11] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:11] stack traceback:
+[04/01/2025 22:35:11] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:11] 
+[04/01/2025 22:35:11] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:11] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:11] Description: 
+[04/01/2025 22:35:11] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:11] stack traceback:
+[04/01/2025 22:35:11] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:11] 
+[04/01/2025 22:35:11] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:11] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:11] Description: 
+[04/01/2025 22:35:11] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:11] stack traceback:
+[04/01/2025 22:35:11] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:11] 
+[04/01/2025 22:35:11] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:11] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:11] Description: 
+[04/01/2025 22:35:11] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:11] stack traceback:
+[04/01/2025 22:35:11] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:11] 
+[04/01/2025 22:35:11] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:11] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:11] Description: 
+[04/01/2025 22:35:11] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:11] stack traceback:
+[04/01/2025 22:35:11] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:11] 
+[04/01/2025 22:35:11] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:11] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:11] Description: 
+[04/01/2025 22:35:11] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:11] stack traceback:
+[04/01/2025 22:35:12] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:12] 
+[04/01/2025 22:35:12] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:12] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:12] Description: 
+[04/01/2025 22:35:12] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:12] stack traceback:
+[04/01/2025 22:35:12] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:12] 
+[04/01/2025 22:35:12] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:12] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:12] Description: 
+[04/01/2025 22:35:12] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:12] stack traceback:
+[04/01/2025 22:35:12] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:12] 
+[04/01/2025 22:35:12] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:12] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:12] Description: 
+[04/01/2025 22:35:12] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:12] stack traceback:
+[04/01/2025 22:35:12] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:12] 
+[04/01/2025 22:35:12] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:12] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:12] Description: 
+[04/01/2025 22:35:12] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:12] stack traceback:
+[04/01/2025 22:35:12] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:12] 
+[04/01/2025 22:35:12] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:12] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:12] Description: 
+[04/01/2025 22:35:12] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:12] stack traceback:
+[04/01/2025 22:35:12] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:12] 
+[04/01/2025 22:35:12] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:12] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:12] Description: 
+[04/01/2025 22:35:12] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:12] stack traceback:
+[04/01/2025 22:35:12] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:12] 
+[04/01/2025 22:35:12] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:12] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:12] Description: 
+[04/01/2025 22:35:12] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:12] stack traceback:
+[04/01/2025 22:35:12] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:12] 
+[04/01/2025 22:35:12] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:12] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:12] Description: 
+[04/01/2025 22:35:12] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:12] stack traceback:
+[04/01/2025 22:35:12] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:12] 
+[04/01/2025 22:35:12] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:12] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:12] Description: 
+[04/01/2025 22:35:12] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:12] stack traceback:
+[04/01/2025 22:35:12] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:12] 
+[04/01/2025 22:35:12] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:12] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:12] Description: 
+[04/01/2025 22:35:12] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:12] stack traceback:
+[04/01/2025 22:35:13] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:13] 
+[04/01/2025 22:35:13] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:13] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:13] Description: 
+[04/01/2025 22:35:13] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:13] stack traceback:
+[04/01/2025 22:35:13] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:13] 
+[04/01/2025 22:35:13] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:13] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:13] Description: 
+[04/01/2025 22:35:13] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:13] stack traceback:
+[04/01/2025 22:35:13] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:13] 
+[04/01/2025 22:35:13] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:13] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:13] Description: 
+[04/01/2025 22:35:13] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:13] stack traceback:
+[04/01/2025 22:35:13] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:13] 
+[04/01/2025 22:35:13] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:13] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:13] Description: 
+[04/01/2025 22:35:13] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:13] stack traceback:
+[04/01/2025 22:35:13] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:13] 
+[04/01/2025 22:35:13] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:13] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:13] Description: 
+[04/01/2025 22:35:13] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:13] stack traceback:
+[04/01/2025 22:35:13] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:13] 
+[04/01/2025 22:35:13] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:13] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:13] Description: 
+[04/01/2025 22:35:13] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:13] stack traceback:
+[04/01/2025 22:35:13] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:13] 
+[04/01/2025 22:35:13] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:13] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:13] Description: 
+[04/01/2025 22:35:13] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:13] stack traceback:
+[04/01/2025 22:35:13] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:13] 
+[04/01/2025 22:35:13] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:13] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:13] Description: 
+[04/01/2025 22:35:13] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:13] stack traceback:
+[04/01/2025 22:35:13] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:13] 
+[04/01/2025 22:35:13] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:13] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:13] Description: 
+[04/01/2025 22:35:13] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:13] stack traceback:
+[04/01/2025 22:35:13] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:14] 
+[04/01/2025 22:35:14] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:14] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:14] Description: 
+[04/01/2025 22:35:14] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:14] stack traceback:
+[04/01/2025 22:35:14] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:14] 
+[04/01/2025 22:35:14] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:14] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:14] Description: 
+[04/01/2025 22:35:14] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:14] stack traceback:
+[04/01/2025 22:35:14] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:14] 
+[04/01/2025 22:35:14] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:14] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:14] Description: 
+[04/01/2025 22:35:14] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:14] stack traceback:
+[04/01/2025 22:35:14] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:14] 
+[04/01/2025 22:35:14] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:14] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:14] Description: 
+[04/01/2025 22:35:14] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:14] stack traceback:
+[04/01/2025 22:35:14] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:14] 
+[04/01/2025 22:35:14] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:14] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:14] Description: 
+[04/01/2025 22:35:14] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:14] stack traceback:
+[04/01/2025 22:35:14] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:14] 
+[04/01/2025 22:35:14] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:14] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:14] Description: 
+[04/01/2025 22:35:14] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:14] stack traceback:
+[04/01/2025 22:35:14] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:14] 
+[04/01/2025 22:35:14] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:14] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:14] Description: 
+[04/01/2025 22:35:14] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:14] stack traceback:
+[04/01/2025 22:35:14] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:14] 
+[04/01/2025 22:35:14] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:14] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:14] Description: 
+[04/01/2025 22:35:14] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:14] stack traceback:
+[04/01/2025 22:35:14] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:14] 
+[04/01/2025 22:35:14] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:14] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:14] Description: 
+[04/01/2025 22:35:15] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:15] stack traceback:
+[04/01/2025 22:35:15] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:15] 
+[04/01/2025 22:35:15] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:15] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:15] Description: 
+[04/01/2025 22:35:15] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:15] stack traceback:
+[04/01/2025 22:35:15] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:15] 
+[04/01/2025 22:35:15] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:15] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:15] Description: 
+[04/01/2025 22:35:15] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:15] stack traceback:
+[04/01/2025 22:35:15] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:15] 
+[04/01/2025 22:35:15] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:15] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:15] Description: 
+[04/01/2025 22:35:15] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:15] stack traceback:
+[04/01/2025 22:35:15] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:15] 
+[04/01/2025 22:35:15] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:15] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:15] Description: 
+[04/01/2025 22:35:15] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:15] stack traceback:
+[04/01/2025 22:35:15] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:15] 
+[04/01/2025 22:35:15] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:15] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:15] Description: 
+[04/01/2025 22:35:15] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:15] stack traceback:
+[04/01/2025 22:35:15] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:15] 
+[04/01/2025 22:35:15] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:15] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:15] Description: 
+[04/01/2025 22:35:15] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:15] stack traceback:
+[04/01/2025 22:35:15] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:15] 
+[04/01/2025 22:35:15] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:15] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:15] Description: 
+[04/01/2025 22:35:15] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:15] stack traceback:
+[04/01/2025 22:35:15] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:15] 
+[04/01/2025 22:35:15] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:15] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:15] Description: 
+[04/01/2025 22:35:15] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:16] stack traceback:
+[04/01/2025 22:35:16] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:16] 
+[04/01/2025 22:35:16] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:16] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:16] Description: 
+[04/01/2025 22:35:16] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:16] stack traceback:
+[04/01/2025 22:35:16] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:16] 
+[04/01/2025 22:35:16] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:16] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:16] Description: 
+[04/01/2025 22:35:16] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:16] stack traceback:
+[04/01/2025 22:35:16] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:16] 
+[04/01/2025 22:35:16] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:16] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:16] Description: 
+[04/01/2025 22:35:16] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:16] stack traceback:
+[04/01/2025 22:35:16] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:16] 
+[04/01/2025 22:35:16] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:16] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:16] Description: 
+[04/01/2025 22:35:16] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:16] stack traceback:
+[04/01/2025 22:35:16] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:16] 
+[04/01/2025 22:35:16] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:16] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:16] Description: 
+[04/01/2025 22:35:16] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:16] stack traceback:
+[04/01/2025 22:35:16] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:16] 
+[04/01/2025 22:35:16] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:16] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:16] Description: 
+[04/01/2025 22:35:16] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:16] stack traceback:
+[04/01/2025 22:35:16] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:16] 
+[04/01/2025 22:35:16] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:16] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:16] Description: 
+[04/01/2025 22:35:16] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:16] stack traceback:
+[04/01/2025 22:35:16] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:16] 
+[04/01/2025 22:35:16] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:17] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:17] Description: 
+[04/01/2025 22:35:17] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:17] stack traceback:
+[04/01/2025 22:35:17] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:17] 
+[04/01/2025 22:35:17] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:17] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:17] Description: 
+[04/01/2025 22:35:17] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:17] stack traceback:
+[04/01/2025 22:35:17] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:17] 
+[04/01/2025 22:35:17] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:17] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:17] Description: 
+[04/01/2025 22:35:17] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:17] stack traceback:
+[04/01/2025 22:35:17] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:17] 
+[04/01/2025 22:35:17] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:17] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:17] Description: 
+[04/01/2025 22:35:17] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:17] stack traceback:
+[04/01/2025 22:35:17] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:17] 
+[04/01/2025 22:35:17] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:17] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:17] Description: 
+[04/01/2025 22:35:17] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:17] stack traceback:
+[04/01/2025 22:35:17] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:17] 
+[04/01/2025 22:35:17] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:17] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:17] Description: 
+[04/01/2025 22:35:17] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:17] stack traceback:
+[04/01/2025 22:35:17] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:17] 
+[04/01/2025 22:35:17] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:17] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:17] Description: 
+[04/01/2025 22:35:17] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:17] stack traceback:
+[04/01/2025 22:35:17] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:18] 
+[04/01/2025 22:35:18] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:18] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:18] Description: 
+[04/01/2025 22:35:18] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:18] stack traceback:
+[04/01/2025 22:35:18] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:18] 
+[04/01/2025 22:35:18] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:18] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:18] Description: 
+[04/01/2025 22:35:18] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:18] stack traceback:
+[04/01/2025 22:35:18] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:18] 
+[04/01/2025 22:35:18] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:18] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:18] Description: 
+[04/01/2025 22:35:18] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:18] stack traceback:
+[04/01/2025 22:35:18] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:18] 
+[04/01/2025 22:35:18] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:18] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:18] Description: 
+[04/01/2025 22:35:18] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:18] stack traceback:
+[04/01/2025 22:35:18] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:18] 
+[04/01/2025 22:35:18] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:18] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:18] Description: 
+[04/01/2025 22:35:18] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:18] stack traceback:
+[04/01/2025 22:35:18] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:18] 
+[04/01/2025 22:35:18] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:18] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:18] Description: 
+[04/01/2025 22:35:18] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:18] stack traceback:
+[04/01/2025 22:35:18] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:18] 
+[04/01/2025 22:35:18] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:19] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:19] Description: 
+[04/01/2025 22:35:19] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:19] stack traceback:
+[04/01/2025 22:35:19] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:19] 
+[04/01/2025 22:35:19] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:19] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:19] Description: 
+[04/01/2025 22:35:19] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:19] stack traceback:
+[04/01/2025 22:35:19] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:19] 
+[04/01/2025 22:35:19] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:19] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:19] Description: 
+[04/01/2025 22:35:19] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:19] stack traceback:
+[04/01/2025 22:35:19] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:19] 
+[04/01/2025 22:35:19] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:19] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:19] Description: 
+[04/01/2025 22:35:19] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:19] stack traceback:
+[04/01/2025 22:35:19] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:19] 
+[04/01/2025 22:35:19] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:19] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:19] Description: 
+[04/01/2025 22:35:19] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:19] stack traceback:
+[04/01/2025 22:35:19] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:19] 
+[04/01/2025 22:35:19] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:19] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:19] Description: 
+[04/01/2025 22:35:19] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:19] stack traceback:
+[04/01/2025 22:35:19] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:19] 
+[04/01/2025 22:35:19] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:19] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:19] Description: 
+[04/01/2025 22:35:20] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:20] stack traceback:
+[04/01/2025 22:35:20] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:20] 
+[04/01/2025 22:35:20] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:20] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:20] Description: 
+[04/01/2025 22:35:20] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:20] stack traceback:
+[04/01/2025 22:35:20] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:20] 
+[04/01/2025 22:35:20] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:20] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:20] Description: 
+[04/01/2025 22:35:20] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:20] stack traceback:
+[04/01/2025 22:35:20] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:20] 
+[04/01/2025 22:35:20] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:20] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:20] Description: 
+[04/01/2025 22:35:20] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:20] stack traceback:
+[04/01/2025 22:35:20] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:20] 
+[04/01/2025 22:35:20] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:20] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:20] Description: 
+[04/01/2025 22:35:20] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:20] stack traceback:
+[04/01/2025 22:35:20] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:20] 
+[04/01/2025 22:35:20] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:20] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:20] Description: 
+[04/01/2025 22:35:20] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:20] stack traceback:
+[04/01/2025 22:35:20] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:20] 
+[04/01/2025 22:35:20] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:20] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:20] Description: 
+[04/01/2025 22:35:20] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:20] stack traceback:
+[04/01/2025 22:35:21] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:21] 
+[04/01/2025 22:35:21] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:21] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:21] Description: 
+[04/01/2025 22:35:21] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:21] stack traceback:
+[04/01/2025 22:35:21] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:21] 
+[04/01/2025 22:35:21] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:21] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:21] Description: 
+[04/01/2025 22:35:21] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:21] stack traceback:
+[04/01/2025 22:35:21] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:21] 
+[04/01/2025 22:35:21] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:21] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:21] Description: 
+[04/01/2025 22:35:21] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:21] stack traceback:
+[04/01/2025 22:35:21] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:21] 
+[04/01/2025 22:35:21] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:21] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:21] Description: 
+[04/01/2025 22:35:21] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:21] stack traceback:
+[04/01/2025 22:35:21] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:21] 
+[04/01/2025 22:35:21] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:21] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:21] Description: 
+[04/01/2025 22:35:21] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:21] stack traceback:
+[04/01/2025 22:35:21] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:21] 
+[04/01/2025 22:35:21] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:21] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:21] Description: 
+[04/01/2025 22:35:22] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:22] stack traceback:
+[04/01/2025 22:35:22] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:22] 
+[04/01/2025 22:35:22] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:22] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:22] Description: 
+[04/01/2025 22:35:22] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:22] stack traceback:
+[04/01/2025 22:35:22] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:22] 
+[04/01/2025 22:35:22] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:22] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:22] Description: 
+[04/01/2025 22:35:22] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:22] stack traceback:
+[04/01/2025 22:35:22] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:22] 
+[04/01/2025 22:35:22] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:22] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:22] Description: 
+[04/01/2025 22:35:22] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:22] stack traceback:
+[04/01/2025 22:35:22] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:22] 
+[04/01/2025 22:35:22] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:22] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:22] Description: 
+[04/01/2025 22:35:22] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:22] stack traceback:
+[04/01/2025 22:35:22] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:22] 
+[04/01/2025 22:35:22] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:22] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:22] Description: 
+[04/01/2025 22:35:22] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:22] stack traceback:
+[04/01/2025 22:35:22] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:22] 
+[04/01/2025 22:35:23] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:23] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:23] Description: 
+[04/01/2025 22:35:23] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:23] stack traceback:
+[04/01/2025 22:35:23] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:23] 
+[04/01/2025 22:35:23] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:23] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:23] Description: 
+[04/01/2025 22:35:23] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:23] stack traceback:
+[04/01/2025 22:35:23] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:23] 
+[04/01/2025 22:35:23] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:23] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:23] Description: 
+[04/01/2025 22:35:23] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:23] stack traceback:
+[04/01/2025 22:35:23] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:23] 
+[04/01/2025 22:35:23] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:23] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:23] Description: 
+[04/01/2025 22:35:23] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:23] stack traceback:
+[04/01/2025 22:35:23] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:23] 
+[04/01/2025 22:35:23] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:23] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:23] Description: 
+[04/01/2025 22:35:23] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:23] stack traceback:
+[04/01/2025 22:35:23] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:23] 
+[04/01/2025 22:35:23] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:24] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:24] Description: 
+[04/01/2025 22:35:24] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:24] stack traceback:
+[04/01/2025 22:35:24] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:24] 
+[04/01/2025 22:35:24] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:24] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:24] Description: 
+[04/01/2025 22:35:24] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:24] stack traceback:
+[04/01/2025 22:35:24] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:24] 
+[04/01/2025 22:35:24] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:24] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:24] Description: 
+[04/01/2025 22:35:24] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:24] stack traceback:
+[04/01/2025 22:35:24] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:24] 
+[04/01/2025 22:35:24] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:24] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:24] Description: 
+[04/01/2025 22:35:24] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:24] stack traceback:
+[04/01/2025 22:35:24] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:24] 
+[04/01/2025 22:35:24] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:24] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:24] Description: 
+[04/01/2025 22:35:24] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:24] stack traceback:
+[04/01/2025 22:35:24] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:24] 
+[04/01/2025 22:35:24] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:24] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:25] Description: 
+[04/01/2025 22:35:25] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:25] stack traceback:
+[04/01/2025 22:35:25] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:25] 
+[04/01/2025 22:35:25] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:25] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:25] Description: 
+[04/01/2025 22:35:25] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:25] stack traceback:
+[04/01/2025 22:35:25] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:25] 
+[04/01/2025 22:35:25] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:25] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:25] Description: 
+[04/01/2025 22:35:25] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:25] stack traceback:
+[04/01/2025 22:35:25] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:25] 
+[04/01/2025 22:35:25] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:25] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:25] Description: 
+[04/01/2025 22:35:25] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:25] stack traceback:
+[04/01/2025 22:35:25] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:25] 
+[04/01/2025 22:35:25] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:25] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:25] Description: 
+[04/01/2025 22:35:25] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:25] stack traceback:
+[04/01/2025 22:35:25] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:25] 
+[04/01/2025 22:35:25] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:25] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:25] Description: 
+[04/01/2025 22:35:26] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:26] stack traceback:
+[04/01/2025 22:35:26] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:26] 
+[04/01/2025 22:35:26] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:26] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:26] Description: 
+[04/01/2025 22:35:26] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:26] stack traceback:
+[04/01/2025 22:35:26] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:26] 
+[04/01/2025 22:35:26] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:26] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:26] Description: 
+[04/01/2025 22:35:26] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:26] stack traceback:
+[04/01/2025 22:35:26] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:26] 
+[04/01/2025 22:35:26] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:26] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:26] Description: 
+[04/01/2025 22:35:26] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:26] stack traceback:
+[04/01/2025 22:35:26] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:26] 
+[04/01/2025 22:35:26] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:26] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:26] Description: 
+[04/01/2025 22:35:26] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:26] stack traceback:
+[04/01/2025 22:35:26] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:26] 
+[04/01/2025 22:35:26] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:26] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:26] Description: 
+[04/01/2025 22:35:27] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:27] stack traceback:
+[04/01/2025 22:35:27] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:27] 
+[04/01/2025 22:35:27] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:27] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:27] Description: 
+[04/01/2025 22:35:27] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:27] stack traceback:
+[04/01/2025 22:35:27] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:27] 
+[04/01/2025 22:35:27] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:27] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:27] Description: 
+[04/01/2025 22:35:27] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:27] stack traceback:
+[04/01/2025 22:35:27] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:27] 
+[04/01/2025 22:35:27] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:27] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:27] Description: 
+[04/01/2025 22:35:27] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:27] stack traceback:
+[04/01/2025 22:35:27] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:27] 
+[04/01/2025 22:35:27] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:27] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:27] Description: 
+[04/01/2025 22:35:27] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:27] stack traceback:
+[04/01/2025 22:35:27] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:27] 
+[04/01/2025 22:35:27] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:28] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:28] Description: 
+[04/01/2025 22:35:28] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:28] stack traceback:
+[04/01/2025 22:35:28] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:28] 
+[04/01/2025 22:35:28] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:28] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:28] Description: 
+[04/01/2025 22:35:28] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:28] stack traceback:
+[04/01/2025 22:35:28] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:28] 
+[04/01/2025 22:35:28] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:28] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:28] Description: 
+[04/01/2025 22:35:28] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:28] stack traceback:
+[04/01/2025 22:35:28] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:28] 
+[04/01/2025 22:35:28] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:28] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:28] Description: 
+[04/01/2025 22:35:28] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:28] stack traceback:
+[04/01/2025 22:35:28] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:28] 
+[04/01/2025 22:35:28] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:28] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:28] Description: 
+[04/01/2025 22:35:28] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:28] stack traceback:
+[04/01/2025 22:35:29] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:29] 
+[04/01/2025 22:35:29] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:29] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:29] Description: 
+[04/01/2025 22:35:29] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:29] stack traceback:
+[04/01/2025 22:35:29] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:29] 
+[04/01/2025 22:35:29] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:29] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:29] Description: 
+[04/01/2025 22:35:29] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:29] stack traceback:
+[04/01/2025 22:35:29] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:29] 
+[04/01/2025 22:35:29] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:29] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:29] Description: 
+[04/01/2025 22:35:29] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:29] stack traceback:
+[04/01/2025 22:35:29] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:29] 
+[04/01/2025 22:35:29] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:29] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:29] Description: 
+[04/01/2025 22:35:29] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:29] stack traceback:
+[04/01/2025 22:35:29] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:29] 
+[04/01/2025 22:35:29] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:29] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:30] Description: 
+[04/01/2025 22:35:30] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:30] stack traceback:
+[04/01/2025 22:35:30] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:30] 
+[04/01/2025 22:35:30] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:30] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:30] Description: 
+[04/01/2025 22:35:30] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:30] stack traceback:
+[04/01/2025 22:35:30] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:30] 
+[04/01/2025 22:35:30] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:30] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:30] Description: 
+[04/01/2025 22:35:30] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:30] stack traceback:
+[04/01/2025 22:35:30] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:30] 
+[04/01/2025 22:35:30] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:30] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:30] Description: 
+[04/01/2025 22:35:30] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:30] stack traceback:
+[04/01/2025 22:35:30] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:30] 
+[04/01/2025 22:35:30] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:30] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:30] Description: 
+[04/01/2025 22:35:30] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:30] stack traceback:
+[04/01/2025 22:35:30] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:31] 
+[04/01/2025 22:35:31] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:31] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:31] Description: 
+[04/01/2025 22:35:31] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:31] stack traceback:
+[04/01/2025 22:35:31] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:31] 
+[04/01/2025 22:35:31] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:31] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:31] Description: 
+[04/01/2025 22:35:31] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:31] stack traceback:
+[04/01/2025 22:35:31] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:31] 
+[04/01/2025 22:35:31] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:31] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:31] Description: 
+[04/01/2025 22:35:31] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:31] stack traceback:
+[04/01/2025 22:35:31] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:31] 
+[04/01/2025 22:35:31] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:31] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:31] Description: 
+[04/01/2025 22:35:31] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:31] stack traceback:
+[04/01/2025 22:35:31] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:32] 
+[04/01/2025 22:35:32] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:32] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:32] Description: 
+[04/01/2025 22:35:32] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:32] stack traceback:
+[04/01/2025 22:35:32] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:32] 
+[04/01/2025 22:35:32] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:32] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:32] Description: 
+[04/01/2025 22:35:32] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:32] stack traceback:
+[04/01/2025 22:35:32] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:32] 
+[04/01/2025 22:35:32] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:32] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:32] Description: 
+[04/01/2025 22:35:32] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:32] stack traceback:
+[04/01/2025 22:35:32] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:32] 
+[04/01/2025 22:35:32] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:32] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:32] Description: 
+[04/01/2025 22:35:32] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:32] stack traceback:
+[04/01/2025 22:35:32] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:33] 
+[04/01/2025 22:35:33] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:33] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:33] Description: 
+[04/01/2025 22:35:33] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:33] stack traceback:
+[04/01/2025 22:35:33] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:33] 
+[04/01/2025 22:35:33] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:33] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:33] Description: 
+[04/01/2025 22:35:33] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:33] stack traceback:
+[04/01/2025 22:35:33] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:33] 
+[04/01/2025 22:35:33] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:33] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:33] Description: 
+[04/01/2025 22:35:33] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:33] stack traceback:
+[04/01/2025 22:35:33] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:33] 
+[04/01/2025 22:35:33] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:33] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:33] Description: 
+[04/01/2025 22:35:33] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:33] stack traceback:
+[04/01/2025 22:35:33] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:33] 
+[04/01/2025 22:35:34] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:34] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:34] Description: 
+[04/01/2025 22:35:34] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:34] stack traceback:
+[04/01/2025 22:35:34] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:34] 
+[04/01/2025 22:35:34] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:34] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:34] Description: 
+[04/01/2025 22:35:34] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:34] stack traceback:
+[04/01/2025 22:35:34] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:34] 
+[04/01/2025 22:35:34] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:34] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:34] Description: 
+[04/01/2025 22:35:34] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:34] stack traceback:
+[04/01/2025 22:35:34] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:34] 
+[04/01/2025 22:35:34] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:34] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:34] Description: 
+[04/01/2025 22:35:34] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:34] stack traceback:
+[04/01/2025 22:35:34] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:34] 
+[04/01/2025 22:35:35] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:35] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:35] Description: 
+[04/01/2025 22:35:35] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:35] stack traceback:
+[04/01/2025 22:35:35] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:35] 
+[04/01/2025 22:35:35] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:35] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:35] Description: 
+[04/01/2025 22:35:35] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:35] stack traceback:
+[04/01/2025 22:35:35] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:35] 
+[04/01/2025 22:35:35] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:35] data/creaturescripts/scripts/spawn.lua:onSpawn
+[04/01/2025 22:35:35] Description: 
+[04/01/2025 22:35:35] data/creaturescripts/scripts/spawn.lua:76: attempt to call global 'isSummon' (a nil value)
+[04/01/2025 22:35:35] stack traceback:
+[04/01/2025 22:35:35] 	data/creaturescripts/scripts/spawn.lua:76: in function <data/creaturescripts/scripts/spawn.lua:69>
+[04/01/2025 22:35:35] 
+[04/01/2025 22:35:35] [Error - CreatureScript Interface] 
+[04/01/2025 22:35:39] Pokemon Dash Advanced, version 0.3.6 (PDA)
+[04/01/2025 22:35:39] Compiled with GNU C++ version 4.4.0 at Jan  1 2025, 15:31:04.
+[04/01/2025 22:35:39] A server developed by Elf, slawkens, Talaturen, KaczooH, Lithium, Kiper, Kornholijo.
+[04/01/2025 22:35:39] Visit our forum for updates, support and resources: http://otland.net.
+[04/01/2025 22:35:39] 
+[04/01/2025 22:35:39] >> Loading config (config.lua)
+[04/01/2025 22:35:39] > Using SHA1 encryption
+[04/01/2025 22:35:39] >> Loading RSA key
+[04/01/2025 22:35:39] >> Starting SQL connection
+[04/01/2025 22:35:39] >> Running Database Manager
+[04/01/2025 22:35:39] > No tables were optimized.
+[04/01/2025 22:35:39] >> Loading items
+[04/01/2025 22:35:39] [Warning - Items::loadFromXml] No itemid found
+[04/01/2025 22:35:40] [Warning - Items::loadFromXml] No itemid found
+[04/01/2025 22:35:40] >> Loading groups
+[04/01/2025 22:35:40] >> Loading vocations
+[04/01/2025 22:35:40] >> Loading script systems
+[04/01/2025 22:35:40] [Error - LuaScriptInterface::loadFile] data/lib/catch system.lua:530: 'end' expected (to close 'function' at line 7) near '<eof>'
+[04/01/2025 22:35:40] [Warning - LuaScriptInterface::initState] Cannot load data/lib/
+[04/01/2025 22:35:40] [Error - LuaScriptInterface::loadFile] data/lib/catch system.lua:530: 'end' expected (to close 'function' at line 7) near '<eof>'
+[04/01/2025 22:35:40] [Warning - LuaScriptInterface::initState] Cannot load data/lib/
+[04/01/2025 22:35:40] [Error - LuaScriptInterface::loadFile] data/lib/catch system.lua:530: 'end' expected (to close 'function' at line 7) near '<eof>'
+[04/01/2025 22:35:40] [Warning - LuaScriptInterface::initState] Cannot load data/lib/
+[04/01/2025 22:35:40] [Warning - Actions::registerEvent] Duplicate registered item with id: 22128, in fromid: 22113 and toid: 22144
+[04/01/2025 22:35:40] [Warning - Actions::registerEvent] Duplicate registered item with id: 22129, in fromid: 22113 and toid: 22144
+[04/01/2025 22:35:40] 
+[04/01/2025 22:35:40] [Error - Action Interface] 
+[04/01/2025 22:35:40] data/actions/scripts/boost.lua
+[04/01/2025 22:35:40] Description: 
+[04/01/2025 22:35:40] data/actions/scripts/boost.lua:701: table index is nil
+[04/01/2025 22:35:40] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/boost.lua)
+[04/01/2025 22:35:40] data/lib/catch system.lua:530: 'end' expected (to close 'function' at line 7) near '<eof>'
+[04/01/2025 22:35:40] 
+[04/01/2025 22:35:40] [Error - Action Interface] 
+[04/01/2025 22:35:40] data/actions/scripts/evolution.lua
+[04/01/2025 22:35:40] Description: 
+[04/01/2025 22:35:40] data/actions/scripts/evolution.lua:4: table index is nil
+[04/01/2025 22:35:40] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/evolution.lua)
+[04/01/2025 22:35:40] data/lib/catch system.lua:530: 'end' expected (to close 'function' at line 7) near '<eof>'
+[04/01/2025 22:35:40] [Error - LuaScriptInterface::loadFile] data/lib/catch system.lua:530: 'end' expected (to close 'function' at line 7) near '<eof>'
+[04/01/2025 22:35:40] [Warning - LuaScriptInterface::initState] Cannot load data/lib/
+[04/01/2025 22:35:40] [Error - LuaScriptInterface::loadFile] data/lib/catch system.lua:530: 'end' expected (to close 'function' at line 7) near '<eof>'
+[04/01/2025 22:35:40] [Warning - LuaScriptInterface::initState] Cannot load data/lib/
+[04/01/2025 22:35:40] [Error - LuaScriptInterface::loadFile] data/lib/catch system.lua:530: 'end' expected (to close 'function' at line 7) near '<eof>'
+[04/01/2025 22:35:40] [Warning - LuaScriptInterface::initState] Cannot load data/lib/
+[04/01/2025 22:35:40] [Error - LuaScriptInterface::loadFile] data/lib/catch system.lua:530: 'end' expected (to close 'function' at line 7) near '<eof>'
+[04/01/2025 22:35:40] [Warning - LuaScriptInterface::initState] Cannot load data/lib/
+[04/01/2025 22:35:40] >> Loading chat channels
+[04/01/2025 22:35:40] >> Loading outfits
+[04/01/2025 22:35:40] >> Loading experience stages
+[04/01/2025 22:35:40] >> Loading monsters
+[04/01/2025 22:35:40] [Warning - Monsters::loadFromXml] Unknown node name (script).
+[04/01/2025 22:35:41] >> Loading mods...
+[04/01/2025 22:35:41] > Loading classic_changender.xml... done.
+[04/01/2025 22:35:41] > Loading firstitems.xml... done.
+[04/01/2025 22:35:41] > Loading highscorebook.xml... done.
+[04/01/2025 22:35:41] > Loading minimap.xml... done.
+[04/01/2025 22:35:41] > 4 mods were loaded.
+[04/01/2025 22:35:41] >> Loading map and spawns...
+[04/01/2025 22:35:43] > Map size: 2800x2000.
+[04/01/2025 22:35:43] > Map descriptions: 
+[04/01/2025 22:35:43] "Saved with OTAcademy Map Editor 4.1.2"
+[04/01/2025 22:35:43] "Map Dash Editadu Por TiIoO"
+[04/01/2025 22:36:16] Pokemon Dash Advanced, version 0.3.6 (PDA)
+[04/01/2025 22:36:16] Compiled with GNU C++ version 4.4.0 at Jan  1 2025, 15:31:04.
+[04/01/2025 22:36:16] A server developed by Elf, slawkens, Talaturen, KaczooH, Lithium, Kiper, Kornholijo.
+[04/01/2025 22:36:16] Visit our forum for updates, support and resources: http://otland.net.
+[04/01/2025 22:36:16] 
+[04/01/2025 22:36:16] >> Loading config (config.lua)
+[04/01/2025 22:36:16] > Using SHA1 encryption
+[04/01/2025 22:36:16] >> Loading RSA key
+[04/01/2025 22:36:16] >> Starting SQL connection
+[04/01/2025 22:36:16] >> Running Database Manager
+[04/01/2025 22:36:16] > No tables were optimized.
+[04/01/2025 22:36:16] >> Loading items
+[04/01/2025 22:36:16] [Warning - Items::loadFromXml] No itemid found
+[04/01/2025 22:36:20] Pokemon Dash Advanced, version 0.3.6 (PDA)
+[04/01/2025 22:36:20] Compiled with GNU C++ version 4.4.0 at Jan  1 2025, 15:31:04.
+[04/01/2025 22:36:20] A server developed by Elf, slawkens, Talaturen, KaczooH, Lithium, Kiper, Kornholijo.
+[04/01/2025 22:36:20] Visit our forum for updates, support and resources: http://otland.net.
+[04/01/2025 22:36:20] 
+[04/01/2025 22:36:20] >> Loading config (config.lua)
+[04/01/2025 22:36:20] > Using SHA1 encryption
+[04/01/2025 22:36:20] >> Loading RSA key
+[04/01/2025 22:36:20] >> Starting SQL connection
+[04/01/2025 22:36:20] >> Running Database Manager
+[04/01/2025 22:36:20] > No tables were optimized.
+[04/01/2025 22:36:20] >> Loading items
+[04/01/2025 22:36:21] [Warning - Items::loadFromXml] No itemid found
+[04/01/2025 22:36:21] [Warning - Items::loadFromXml] No itemid found
+[04/01/2025 22:36:21] >> Loading groups
+[04/01/2025 22:36:21] >> Loading vocations
+[04/01/2025 22:36:21] >> Loading script systems
+[04/01/2025 22:36:21] [Error - LuaScriptInterface::loadFile] data/lib/catch system.lua:530: 'end' expected (to close 'function' at line 7) near '<eof>'
+[04/01/2025 22:36:21] [Warning - LuaScriptInterface::initState] Cannot load data/lib/
+[04/01/2025 22:36:21] [Error - LuaScriptInterface::loadFile] data/lib/catch system.lua:530: 'end' expected (to close 'function' at line 7) near '<eof>'
+[04/01/2025 22:36:21] [Warning - LuaScriptInterface::initState] Cannot load data/lib/
+[04/01/2025 22:36:21] [Error - LuaScriptInterface::loadFile] data/lib/catch system.lua:530: 'end' expected (to close 'function' at line 7) near '<eof>'
+[04/01/2025 22:36:21] [Warning - LuaScriptInterface::initState] Cannot load data/lib/
+[04/01/2025 22:36:21] [Warning - Actions::registerEvent] Duplicate registered item with id: 22128, in fromid: 22113 and toid: 22144
+[04/01/2025 22:36:21] [Warning - Actions::registerEvent] Duplicate registered item with id: 22129, in fromid: 22113 and toid: 22144
+[04/01/2025 22:36:21] 
+[04/01/2025 22:36:21] [Error - Action Interface] 
+[04/01/2025 22:36:21] data/actions/scripts/boost.lua
+[04/01/2025 22:36:21] Description: 
+[04/01/2025 22:36:21] data/actions/scripts/boost.lua:701: table index is nil
+[04/01/2025 22:36:21] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/boost.lua)
+[04/01/2025 22:36:21] data/lib/catch system.lua:530: 'end' expected (to close 'function' at line 7) near '<eof>'
+[04/01/2025 22:36:21] 
+[04/01/2025 22:36:21] [Error - Action Interface] 
+[04/01/2025 22:36:21] data/actions/scripts/evolution.lua
+[04/01/2025 22:36:21] Description: 
+[04/01/2025 22:36:21] data/actions/scripts/evolution.lua:4: table index is nil
+[04/01/2025 22:36:21] [Warning - Event::loadScript] Cannot load script (data/actions/scripts/evolution.lua)
+[04/01/2025 22:36:21] data/lib/catch system.lua:530: 'end' expected (to close 'function' at line 7) near '<eof>'
+[04/01/2025 22:36:21] [Error - LuaScriptInterface::loadFile] data/lib/catch system.lua:530: 'end' expected (to close 'function' at line 7) near '<eof>'
+[04/01/2025 22:36:21] [Warning - LuaScriptInterface::initState] Cannot load data/lib/
+[04/01/2025 22:36:21] [Error - LuaScriptInterface::loadFile] data/lib/catch system.lua:530: 'end' expected (to close 'function' at line 7) near '<eof>'
+[04/01/2025 22:36:21] [Warning - LuaScriptInterface::initState] Cannot load data/lib/
+[04/01/2025 22:36:21] [Error - LuaScriptInterface::loadFile] data/lib/catch system.lua:530: 'end' expected (to close 'function' at line 7) near '<eof>'
+[04/01/2025 22:36:21] [Warning - LuaScriptInterface::initState] Cannot load data/lib/
+[04/01/2025 22:36:21] [Error - LuaScriptInterface::loadFile] data/lib/catch system.lua:530: 'end' expected (to close 'function' at line 7) near '<eof>'
+[04/01/2025 22:36:21] [Warning - LuaScriptInterface::initState] Cannot load data/lib/
+[04/01/2025 22:36:21] >> Loading chat channels
+[04/01/2025 22:36:21] >> Loading outfits
+[04/01/2025 22:36:21] >> Loading experience stages
+[04/01/2025 22:36:21] >> Loading monsters
+[04/01/2025 22:36:21] [Warning - Monsters::loadFromXml] Unknown node name (script).
+[04/01/2025 22:36:22] >> Loading mods...
+[04/01/2025 22:36:22] > Loading classic_changender.xml... done.
+[04/01/2025 22:36:22] > Loading firstitems.xml... done.
+[04/01/2025 22:36:22] > Loading highscorebook.xml... done.
+[04/01/2025 22:36:22] > Loading minimap.xml... done.
+[04/01/2025 22:36:22] > 4 mods were loaded.
+[04/01/2025 22:36:22] >> Loading map and spawns...
+[04/01/2025 22:36:24] > Map size: 2800x2000.
+[04/01/2025 22:36:24] > Map descriptions: 
+[04/01/2025 22:36:24] "Saved with OTAcademy Map Editor 4.1.2"
+[04/01/2025 22:36:24] "Map Dash Editadu Por TiIoO"
+[04/01/2025 22:36:34] Pokemon Dash Advanced, version 0.3.6 (PDA)
+[04/01/2025 22:36:34] Compiled with GNU C++ version 4.4.0 at Jan  1 2025, 15:31:04.
+[04/01/2025 22:36:34] A server developed by Elf, slawkens, Talaturen, KaczooH, Lithium, Kiper, Kornholijo.
+[04/01/2025 22:36:34] Visit our forum for updates, support and resources: http://otland.net.
+[04/01/2025 22:36:34] 
+[04/01/2025 22:36:34] >> Loading config (config.lua)
+[04/01/2025 22:36:34] > Using SHA1 encryption
+[04/01/2025 22:36:34] >> Loading RSA key
+[04/01/2025 22:36:34] >> Starting SQL connection
+[04/01/2025 22:36:34] >> Running Database Manager
+[04/01/2025 22:36:34] > No tables were optimized.
+[04/01/2025 22:36:34] >> Loading items
+[04/01/2025 22:36:35] [Warning - Items::loadFromXml] No itemid found
+[04/01/2025 22:36:35] [Warning - Items::loadFromXml] No itemid found
+[04/01/2025 22:36:35] >> Loading groups
+[04/01/2025 22:36:35] >> Loading vocations
+[04/01/2025 22:36:35] >> Loading script systems
+[04/01/2025 22:36:35] [Warning - Actions::registerEvent] Duplicate registered item with id: 22128, in fromid: 22113 and toid: 22144
+[04/01/2025 22:36:35] [Warning - Actions::registerEvent] Duplicate registered item with id: 22129, in fromid: 22113 and toid: 22144
+[04/01/2025 22:36:36] >> Loading chat channels
+[04/01/2025 22:36:36] >> Loading outfits
+[04/01/2025 22:36:36] >> Loading experience stages
+[04/01/2025 22:36:36] >> Loading monsters
+[04/01/2025 22:36:36] [Warning - Monsters::loadFromXml] Unknown node name (script).
+[04/01/2025 22:36:36] >> Loading mods...
+[04/01/2025 22:36:36] > Loading classic_changender.xml... done.
+[04/01/2025 22:36:36] > Loading firstitems.xml... done.
+[04/01/2025 22:36:36] > Loading highscorebook.xml... done.
+[04/01/2025 22:36:36] > Loading minimap.xml... done.
+[04/01/2025 22:36:36] > 4 mods were loaded.
+[04/01/2025 22:36:36] >> Loading map and spawns...
+[04/01/2025 22:36:39] > Map size: 2800x2000.
+[04/01/2025 22:36:39] > Map descriptions: 
+[04/01/2025 22:36:39] "Saved with OTAcademy Map Editor 4.1.2"
+[04/01/2025 22:36:39] "Map Dash Editadu Por TiIoO"
+[04/01/2025 22:36:45] Duplicate uniqueId 19456
+[04/01/2025 22:36:46] Duplicate uniqueId 1048
+[04/01/2025 22:36:51] Duplicate uniqueId 4648
+[04/01/2025 22:36:54] Duplicate uniqueId 15004
+[04/01/2025 22:36:55] Duplicate uniqueId 15005
+[04/01/2025 22:36:55] Duplicate uniqueId 15001
+[04/01/2025 22:36:55] Duplicate uniqueId 15002
+[04/01/2025 22:37:02] > Map loading time: 25.147 seconds.
+[04/01/2025 22:37:02] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (850)
+[04/01/2025 22:37:02] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (851)
+[04/01/2025 22:37:02] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (852)
+[04/01/2025 22:37:03] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (853)
+[04/01/2025 22:37:03] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (854)
+[04/01/2025 22:37:03] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (855)
+[04/01/2025 22:37:03] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (856)
+[04/01/2025 22:37:03] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (857)
+[04/01/2025 22:37:03] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (858)
+[04/01/2025 22:37:03] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (860)
+[04/01/2025 22:37:03] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (861)
+[04/01/2025 22:37:03] [Warning - Houses::loadFromXml] House entry not set for: Forgotten headquarter (Flat 1, Area 42) (870)
+[04/01/2025 22:37:03] > Data parsing time: 0.991 seconds.
+[04/01/2025 22:37:04] > Houses synchronization time: 1.351 seconds.
+[04/01/2025 22:37:04] > Content unserialization time: 0.558 seconds.
+[04/01/2025 22:37:05] >> Checking world type... PvP
+[04/01/2025 22:37:05] >> Initializing game state modules and registering services...
+[04/01/2025 22:37:13] [Warning - Monster::Monster] Unknown event name - Spawn
+[04/01/2025 22:37:13] > Global address: 127.0.0.1
+[04/01/2025 22:37:13] > Local ports: 7171	7172	
+[04/01/2025 22:37:13] >> All modules were loaded, server is starting up...
+[04/01/2025 22:37:13] >> RoXy server Online!
+[04/01/2025 22:37:13] 
+[04/01/2025 22:37:50] Lucas fez login.
+[04/01/2025 22:37:56] Luquiinhas fez login.
+[04/01/2025 22:39:37] > Broadcasted message: "[Sistema-PokeFênix]
+[04/01/2025 22:39:37] Para saber mais dos benefícios premium acesso nossa loja.".
+[04/01/2025 22:40:31] Lucas has logged out.
+[04/01/2025 22:40:31] Luquiinhas has logged out.
+[04/01/2025 22:40:31] > Saving server...
+[04/01/2025 22:40:32] > SAVE: Complete in 1.084 seconds using relational house storage.

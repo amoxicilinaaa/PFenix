@@ -1,0 +1,24 @@
+[09/01/2025 02:31:22] Pokemon Dash Advanced, version 0.3.6 (PDA)
+[09/01/2025 02:31:22] Compiled with GNU C++ version 4.4.0 at Jan  1 2025, 15:31:04.
+[09/01/2025 02:31:22] A server developed by Elf, slawkens, Talaturen, KaczooH, Lithium, Kiper, Kornholijo.
+[09/01/2025 02:31:22] Visit our forum for updates, support and resources: http://otland.net.
+[09/01/2025 02:31:22] 
+[09/01/2025 02:31:22] >> Loading config (config.lua)
+[09/01/2025 02:31:23] > Using SHA1 encryption
+[09/01/2025 02:31:23] >> Loading RSA key
+[09/01/2025 02:31:23] >> Starting SQL connection
+[09/01/2025 02:31:25] Failed connecting to database - MYSQL ERROR: Can't connect to MySQL server on 'localhost' (10061) (2003)
+[09/01/2025 02:31:25] 
+[09/01/2025 02:31:25] > ERROR: Couldn't estabilish connection to SQL database!
+[09/01/2025 13:54:40] Pokemon Dash Advanced, version 0.3.6 (PDA)
+[09/01/2025 13:54:40] Compiled with GNU C++ version 4.4.0 at Jan  1 2025, 15:31:04.
+[09/01/2025 13:54:40] A server developed by Elf, slawkens, Talaturen, KaczooH, Lithium, Kiper, Kornholijo.
+[09/01/2025 13:54:40] Visit our forum for updates, support and resources: http://otland.net.
+[09/01/2025 13:54:40] 
+[09/01/2025 13:54:40] >> Loading config (config.lua)
+[09/01/2025 13:54:40] > Using SHA1 encryption
+[09/01/2025 13:54:40] >> Loading RSA key
+[09/01/2025 13:54:40] >> Starting SQL connection
+[09/01/2025 13:54:42] Failed connecting to database - MYSQL ERROR: Can't connect to MySQL server on 'localhost' (10061) (2003)
+[09/01/2025 13:54:42] 
+[09/01/2025 13:54:42] > ERROR: Couldn't estabilish connection to SQL database!

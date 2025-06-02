@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Shiny Pinsir" nameDescription="a Shiny pinsir" race="bug" experience="492" speed="275" manacost="0">
+  <health now="160" max="160"/>
+  <look type="1321" head="40" body="60" legs="95" feet="113" corpse="12547"/>
+  <targetchange interval="1000" chance="0"/>
+  <strategy attack="100" defense="0"/>
+<flags>
+ <flag summonable="1"/>
+ <flag attackable="1"/>
+ <flag hostile="1"/>
+ <flag illusionable="1"/>
+ <flag convinceable="1"/>
+ <flag pushable="1"/>
+ <flag canpushitems="0"/>
+ <flag canpushcreatures="0"/>
+ <flag targetdistance="1"/>
+ <flag staticattack="97"/>
+ <flag runonhealth="0"/>
+
+</flags>
+
+<attacks>
+        <attack name="melee" interval="2000" chance="100" range="1" min="-50" max="-100"/>
+        <attack name="Harden" interval="5625" chance="15" range="6"/>
+        <attack name="Brick Break" interval="5625" chance="20" range="5"/>
+        <attack name="X-Scissor" interval="5625" chance="25" range="3"/>
+        <attack name="Thrash" interval="5625" chance="15" range="5"/>
+        <attack name="Swords Dance" interval="5625" chance="15" range="6"/>
+</attacks>
+
+
+<defenses armor="0" defense="0">
+</defenses>
+
+ <voices interval="5000" chance="10">
+ <voice sentence="PINSIR!"/>
+ </voices>
+
+  <loot>
+            <item id="22004" chance="30000" count="1" countmax="1"/> --Special Stone
+					   <item id="20904" chance="1500" count="1" countmax="1"/> --sh Stonee
+  </loot>
+
+<script>
+<event name="Spawn"/>
+</script>
+</monster>

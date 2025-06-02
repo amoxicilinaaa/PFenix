@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Froslass" nameDescription="a froslass" race="ice" experience="1100" speed="217" manacost="0">
+    <health now="130" max="130"/>
+    <look type="2220" head="65" body="90" legs="95" feet="113" corpse="20743"/>
+    <targetchange interval="2000" chance="0"/>
+    <strategy attack="100" defense="0"/>
+    <flags>
+        <flag summonable="1"/>
+        <flag attackable="1"/>
+        <flag hostile="1"/>
+        <flag illusionable="1"/>
+        <flag convinceable="1"/>
+        <flag pushable="1"/>
+        <flag canpushitems="0"/>
+        <flag canpushcreatures="0"/>
+        <flag targetdistance="1"/>
+        <flag staticattack="97"/>
+        <flag runonhealth="0"/>
+       
+    </flags>
+    <attacks>
+        <attack name="melee" interval="2000" chance="100" range="1" min="-50" max="-100"/>
+        <attack name="Blizzard" interval="3322" chance="26" range="6"/>
+        <attack name="Ominous Wind" interval="3040" chance="25" range="2"/>
+        <attack name="Confuse Ray" interval="3310" chance="29" range="2"/>
+        <attack name="Shadow Ball" interval="2035" chance="25" range="4"/>
+        <attack name="Avalanche" interval="4403" chance="20" range="2"/>
+        <attack name="Spite" interval="4403" chance="18" range="4"/>
+        <attack name="Ice Punch" interval="4403" chance="20" range="2"/>
+        <attack name="Ice Beam" interval="4403" chance="25" range="4"/>
+        <attack name="Frost Breath" interval="4403" chance="28" range="2"/>
+        <attack name="Dream Eater" interval="4403" chance="23" range="6"/>		
+    </attacks>
+    <defenses armor="0" defense="0"/>
+    <voices interval="5000" chance="10">
+        <voice sentence="FROSLASS!"/>
+    </voices>
+    <loot>
+        <item id="12204" chance="3000" count="1" countmax="1"/>
+        <item id="12194" chance="1500" count="1" countmax="1"/>
+        <item id="11450" chance="1200" count="1" countmax="1"/>
+        <item id="11443" chance="500" countmax="1"/>
+        <item id="12338" chance="10" count="1"/> --bag box --bag box
+		        <item id="22003" chance="200" count="1"/> --bag box --bag box
+		<item id="15563" chance="300" count="1" countmax="1"/> -- toy
+	</loot>
+    <script>
+        <event name="Spawn"/>
+    </script>
+</monster>

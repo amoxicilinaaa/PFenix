@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<npc name="Lord Outra Vez  " speed="0">
+
+	<health now="790" max="790"/>
+
+	<look type="1680" head="0" body="0" legs="0" feet="0"/>
+
+	<parameters>
+
+
+	</parameters>
+
+</npc>

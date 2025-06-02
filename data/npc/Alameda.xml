@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Alameda" script="alameda.lua" walkinterval="3000" floorchange="0" speed="50">
+<health now="150" max="150"/>
+<look type="520" head="115" body="88" legs="114" feet="0"/>
+<parameters>
+<parameter key="message_greet" value="Olá eu sou o Alameda, diga {trade} para ver minhas ofertas!"/>
+<parameter key="message_farewell" value="Ok, até a próxima!"/>
+<parameter key="message_idletimeout" value="Tchau"/>
+<parameter key="message_walkaway" value="Flw!"/>
+</parameters>
+</npc>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Shiny Tangrowth" nameDescription="a shiny tangrowth" race="grass" experience="236" speed="310" manacost="0">
+  <health now="80" max="80"/>
+  <look type="2161" head="45" body="70" legs="95" feet="113" corpse="14439"/>
+  <targetchange interval="1000" chance="0"/>
+  <strategy attack="100" defense="0"/>
+<flags>
+ <flag summonable="1"/>
+ <flag attackable="1"/>
+ <flag hostile="1"/>
+ <flag illusionable="1"/>
+ <flag convinceable="1"/>
+ <flag pushable="1"/>
+ <flag canpushitems="0"/>
+ <flag canpushcreatures="0"/>
+ <flag targetdistance="1"/>
+ <flag staticattack="97"/>
+ <flag runonhealth="0"/>
+ 
+</flags>
+
+<attacks>
+        <attack name="melee" interval="2000" chance="100" range="1" min="-50" max="-100"/>
+        <attack name="Vine Whip" interval="2711" chance="30" range="2"/>
+        <attack name="Growth" interval="3040" chance="15" range="6"/>
+        <attack name="Power Whip" interval="3040" chance="25" range="6"/>
+        <attack name="Poison Powder" interval="5625" chance="18" range="3"/>
+        <attack name="Sleep Powder" interval="5510" chance="16" range="3"/>
+        <attack name="Stun Spore" interval="5625" chance="18" range="2"/>
+        <attack name="Leaf Storm" interval="3275" chance="20" range="6"/>
+        <attack name="Solar Beam" interval="3275" chance="25" range="6"/>
+        <attack name="Mega Drain" interval="3275" chance="20" range="2"/>
+        <attack name="Leech Seed" interval="3275" chance="18" range="1"/>	
+</attacks>
+
+
+	<defenses armor="0" defense="0">
+	</defenses>
+
+ <voices interval="5000" chance="10">
+ <voice sentence="TANGROWTH!"/>
+ </voices>
+
+  <loot>
+		<item id="20899" chance="500" count="1" countmax="1"/> green stone
+						   <item id="20904" chance="1500" count="1" countmax="1"/> --sh Stone
+			
+  </loot>
+
+<script>
+<event name="Spawn"/>
+</script>
+</monster>

@@ -1,0 +1,10 @@
+[POKÉMON TELEPORT LIST]
+
+- Abra;
+- Kadabra;
+- Alakazam;
+- Drowzee;
+- Hypno;
+- Slowking;
+- Jynx;
+- Porygon;

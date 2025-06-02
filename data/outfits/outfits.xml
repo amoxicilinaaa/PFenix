@@ -1,0 +1,190 @@
+<?xml version="1.0"?>
+<outfits>
+<!-- NORMAL -->
+
+<outfit id="1">
+<list gender="0" lookType="511" name="Trainer"/>
+<list gender="1" lookType="510" name="Trainer"/>
+</outfit>
+<outfit id="2">
+<list gender="0" lookType="615" name="Elite Trainer"/>
+<list gender="1" lookType="614" name="Elite Trainer"/>
+</outfit>
+<outfit id="7">
+<list gender="0" lookType="495" name="Adventurer"/>
+<list gender="1" lookType="494" name="Adventurer"/>
+</outfit>
+<outfit id="8">
+<list gender="0" lookType="513" name="Bussiness"/>
+<list gender="1" lookType="1419" name="Bussiness"/>
+</outfit>
+<outfit id="9">
+<list gender="0" lookType="517" name="Atletic"/>
+<list gender="1" lookType="516" name="Atletic"/>
+</outfit>
+<outfit id="10">
+<list gender="0" lookType="2049" name="Minato"/>
+<list gender="1" lookType="2950" name="Sad Girl"/>
+</outfit>
+<outfit id="11">
+<list gender="0" lookType="521" name="Fisher"/>
+<list gender="1" lookType="520" name="Fisher"/>
+</outfit>
+<outfit id="12">
+<list gender="0" lookType="3137" name="Princesa"/>
+<list gender="1" lookType="3136" name="Principe"/>
+</outfit>
+<outfit id="13">
+<list gender="0" lookType="3141" name="Karate"/>
+<list gender="1" lookType="3140" name="Karate"/>
+</outfit>
+<outfit id="14">
+<list gender="0" lookType="3139" name="Rainha"/>
+<list gender="1" lookType="3138" name="Rei"/>
+</outfit>
+<outfit id="15">
+<list gender="0" lookType="3135" name="Geisha"/>
+<list gender="1" lookType="3134" name="Samurai"/>
+</outfit>
+<outfit id="16">
+<list gender="0" lookType="3133" name="Famosa"/>
+<list gender="1" lookType="3132" name="Famoso"/>
+</outfit>
+<outfit id="17">
+<list gender="0" lookType="3143" name="Nerd"/>
+<list gender="1" lookType="3142" name="Nerd"/>
+</outfit>
+<outfit id="18">
+<list gender="0" lookType="149" name="Atriz"/>
+<list gender="1" lookType="145" name="Ator"/>
+</outfit>
+<outfit id="19">
+<list gender="0" lookType="3144" name="Empregada"/>
+<list gender="1" lookType="3145" name="Empregado"/>
+</outfit>
+<outfit id="20">
+<list gender="0" lookType="3147" name="Fantasia Skarmory"/>
+<list gender="1" lookType="3146" name="Fantasia Skarmory"/>
+</outfit>
+<outfit id="21">
+<list gender="0" lookType="3149" name="Fantasia Mismagius"/>
+<list gender="1" lookType="3148" name="Fantasia Umbreon"/>
+</outfit>
+<outfit id="22">
+<list gender="0" lookType="2952" name="Delicada"/>
+<list gender="1" lookType="2953" name="Style"/>
+</outfit>
+<outfit id="23">
+<list gender="0" lookType="3130" name="Skimoh"/>
+<list gender="1" lookType="3131" name="Skimoh"/>
+</outfit>
+</outfit>
+<outfit id="62">
+<list gender="0" lookType="2955" name="Menina"/>
+<list gender="1" lookType="1998" name="Pikachu"/>
+</outfit>
+<outfit id="62">
+<list gender="0" lookType="3130" name="Skimoh"/>
+<list gender="1" lookType="2955" name="Menina"/>
+</outfit>
+
+<!-- GAMEMASTER -->
+
+<outfit id="41" access = "4">
+<list gender="0-3" lookType="664" name="GameMaster"/>
+</outfit>
+<outfit id="42" access = "4">
+<list gender="1" lookType="610" name="Reporter"/>
+</outfit>
+<outfit id="63" access = "6">
+<list gender="1" lookType="2042" name="Narutin"/>
+</outfit>
+<outfit id="63" access = "6">
+<list gender="1" lookType="1945" name="Harbrito"/>
+</outfit>
+
+
+<!-- Tutor -->
+<outfit id="49" access = "3">
+<list gender="1" lookType="2949" name="Bombado"/>
+</outfit>
+<outfit id="59" access = "3">
+<list gender="1" lookType="2948" name="Capturer"/>
+</outfit>
+
+
+<!-- NATAL -->
+
+<outfit id="43">
+<list gender="0" lookType="661" name="Christmas"/>
+<list gender="1" lookType="662" name="Christmas"/>
+</outfit>
+<outfit id="44">
+<list gender="0" lookType="1084" name="Christmas 2"/>
+<list gender="1" lookType="1083" name="Christmas 2"/>
+</outfit>
+<outfit id="59">
+<list gender="0" lookType="3130" name="Natalina"/>
+<list gender="1" lookType="3131" name="Natalino"/>
+</outfit>
+
+<!-- HALLOWEEN -->
+
+<outfit id="45" quest="181641">
+<list gender="0-3" lookType="1140" name="Mummy"/>
+</outfit>
+<outfit id="46">
+<list gender="0" lookType="1190" name="Bruxa"/>
+<list gender="1" lookType="1191" name="Dracula"/>
+</outfit>
+<outfit id="47">
+<list gender="0" lookType="1188" name="Diaba"/>
+<list gender="1" lookType="1189" name="Caveira"/>
+</outfit>
+
+<!-- CATCHER -->
+
+<outfit id="48" quest="181644">
+<list gender="0" lookType="1414" name="Catcher"/>
+<list gender="1" lookType="1413" name="Catcher"/>
+</outfit>
+
+<!-- ESPECIAIS -->
+
+<outfit id="50">
+<list gender="0" lookType="1035" name="Mergulhadora"/>
+<list gender="1" lookType="1034" name="Mergulhador"/>
+</outfit>
+<outfit id="51">
+<list gender="0" lookType="1408" name="Esquiadora"/>
+<list gender="1" lookType="1407" name="Esquiador"/>
+</outfit>
+<outfit id="52"">
+<list gender="1" lookType="1441" name="Slash"/>
+</outfit>
+<outfit id="53">
+<list gender="0" lookType="1442" name="Playboy"/>
+</outfit>
+<outfit id="54">
+<list gender="1" lookType="1443" name="Vinganca"/>
+</outfit>
+<outfit id="55">
+<list gender="1" lookType="1444" name="House"/>
+</outfit>
+<outfit id="56">
+<list gender="0" lookType="1184" name="Police Officer"/>
+<list gender="1" lookType="1183" name="Police Officer"/>
+</outfit>
+<outfit id="57">
+<list gender="0" lookType="1466" name="Veteran Trainer"/>
+<list gender="1" lookType="1465" name="Veteran Trainer"/>
+</outfit>
+
+<!-- CASAMENTO -->
+
+<outfit id="58" quest="181654">
+<list gender="0" lookType="329" name="Noiva" quest="181665">
+<list gender="1" lookType="328" name="Noivo"/>
+
+</outfit>
+</outfits>

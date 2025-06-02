@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Nidoking" nameDescription="a nidoking" race="poison" experience="650" speed="229" manacost="0">
+    <health now="210" max="210"/>
+    <look type="386" head="55" body="75" legs="95" feet="113" corpse="11924"/>
+    <targetchange interval="2000" chance="0"/>
+    <strategy attack="100" defense="0"/>
+    <flags>
+        <flag summonable="1"/>
+        <flag attackable="1"/>
+        <flag hostile="1"/>
+        <flag illusionable="1"/>
+        <flag convinceable="1"/>
+        <flag pushable="1"/>
+        <flag canpushitems="0"/>
+        <flag canpushcreatures="0"/>
+        <flag targetdistance="1"/>
+        <flag staticattack="97"/>
+        <flag runonhealth="0"/>
+        
+    </flags>
+    <attacks>
+        <attack name="melee" interval="2000" chance="100" range="1" min="-50" max="-100"/>
+		<attack name="Poison Jab" interval="3446" chance="20" range="1"/>
+		<attack name="Horn Drill" interval="3246" chance="15" range="3"/>
+        <attack name="Toxic" interval="2946" chance="20" range="3"/>
+		<attack name="Sludge Bomb" interval="3846" chance="13" range="3"/>
+        <attack name="Megahorn" interval="2946" chance="15" range="1"/>
+        <attack name="Thrash" interval="2523" chance="20" range="3"/>
+        <attack name="Earth power" interval="2664" chance="23" range="3"/>
+        <attack name="Smack Down" interval="2711" chance="20" range="3"/>
+		<attack name="Sludge Wave" interval="3446" chance="21" range="3"/>
+		<attack name="Earthquake" interval="3446" chance="10" range="1"/>
+		<attack name="Sandstorm" interval="3146" chance="14" range="3"/>		
+    </attacks>
+    <defenses armor="0" defense="0"/>
+    <voices interval="5000" chance="10">
+        <voice sentence="NIDOKING!"/>
+    </voices>
+    <loot>
+        <item id="12157" chance="1500" count="1" countmax="1"/>
+        <item id="11443" chance="150" count="1" countmax="1"/> --venom stone
+		<item id="13795" chance="6000" countmax="1"/> --venom piece
+        <item id="11451" chance="150" count="1" countmax="1"/>
+		        <item id="13789" chance="3000" countmax="1"/> --horn
+        <item id="12178" chance="500" count="1" countmax="1"/>
+        <item id="12240" chance="4000" count="1" countmax="1"/> --bag of poisonus dust
+        <item id="12165" chance="10000" countmax="80"/> --bottles of poison
+        <item id="12282" chance="5000" countmax="1"/> --venom pendant
+        <item id="12202" chance="5000" countmax="1"/> --gosme
+        <item id="12338" chance="10" count="1"/> --bag box --bag box
+    </loot>
+    <script>
+        <event name="Spawn"/>
+    </script>
+</monster>

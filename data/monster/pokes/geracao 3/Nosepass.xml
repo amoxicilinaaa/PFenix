@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Nosepass" nameDescription="a Nosepass" race="rock" experience="0" speed="162" manacost="0">
+  <health now="40" max="40"/>
+  <look type="3100" head="60" body="77" legs="95" feet="113" corpse="21420"/>
+	<targetchange interval="10000" chance="0"/>
+<strategy attack="100" defense="0"/>
+  <flags>
+    <flag summonable="1"/>
+    <flag attackable="1"/>
+    <flag hostile="1"/>
+    <flag illusionable="1"/>
+    <flag convinceable="1"/>
+    <flag pushable="1"/>
+    <flag canpushitems="0"/>
+    <flag canpushcreatures="0"/>
+    <flag targetdistance="1"/>
+    <flag staticattack="90"/>
+    <flag runonhealth="0"/>
+   <flag hungerdelay="15"/>
+</flags>
+  <attacks>
+	<attack name="melee" interval="2000" chance="100" range="1" min="-92" max="-136"/>
+   	<attack name="Tackle" interval="3040" chance="31" range="2"/>
+      <attack name="Harden" interval="2946" chance="19" range="6"/>
+      <attack name="Rock Throw" interval="3745" chance="25" range="3"/>
+      <attack name="Thunder Wave" interval="3510" chance="28" range="4"/>
+      <attack name="Rock Slide" interval="3510" chance="25" range="3"/>
+  </attacks>
+  <defenses armor="0" defense="0">
+  </defenses>
+  <voices interval="5000" chance="10">
+	<voice sentence="Nosepass!"/>
+<voice sentence="Nosepass!"/>
+<voice sentence="Nosepass!"/>
+  </voices>
+  <loot>
+	<item id="12196" countmax="1" chance="1100"/> -- stone orb
+        <item id="11445" chance="150" count="1" countmax="1"/> --- rock stone
+	<item id="12337" countmax="45" chance="6200"/> -- small stone
+  </loot>
+<script>
+<event name="Spawn"/>
+</script>
+</monster>

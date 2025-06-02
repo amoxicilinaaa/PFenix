@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Shiny Nidoking" nameDescription="a Shiny nidoking" race="poison" experience="852" speed="279" manacost="0">
+  <health now="210" max="210"/>
+  <look type="1228" head="70" body="80" legs="95" feet="113" corpse="0"/>
+  <targetchange interval="1000" chance="0"/>
+  <strategy attack="100" defense="0"/>
+<flags>
+ <flag summonable="1"/>
+ <flag attackable="1"/>
+ <flag hostile="1"/>
+ <flag illusionable="1"/>
+ <flag convinceable="1"/>
+ <flag pushable="1"/>
+ <flag canpushitems="0"/>
+ <flag canpushcreatures="0"/>
+ <flag targetdistance="1"/>
+ <flag staticattack="97"/>
+ <flag runonhealth="0"/>
+
+</flags>
+
+<attacks>
+        <attack name="melee" interval="2000" chance="100" range="1" min="-50" max="-100"/>
+		<attack name="Poison Jab" interval="3446" chance="20" range="1"/>
+		<attack name="Horn Drill" interval="3246" chance="15" range="3"/>
+        <attack name="Toxic" interval="2946" chance="20" range="3"/>
+		<attack name="Sludge Bomb" interval="3846" chance="13" range="3"/>
+        <attack name="Megahorn" interval="2946" chance="15" range="1"/>
+        <attack name="Thrash" interval="2523" chance="20" range="3"/>
+        <attack name="Earth power" interval="2664" chance="23" range="3"/>
+        <attack name="Smack Down" interval="2711" chance="20" range="3"/>
+		<attack name="Sludge Wave" interval="3446" chance="21" range="3"/>
+		<attack name="Earthquake" interval="3446" chance="10" range="1"/>
+		<attack name="Sandstorm" interval="3146" chance="14" range="3"/>
+</attacks>
+
+
+<defenses armor="0" defense="0">
+</defenses>
+
+ <voices interval="5000" chance="10">
+ <voice sentence="NIDOKING!"/>
+ </voices>
+
+  <loot>
+							       <item id="20904" chance="700" count="1" countmax="1"/> --sh Stone
+  </loot>
+
+<script>
+<event name="Spawn"/>
+</script>
+</monster>

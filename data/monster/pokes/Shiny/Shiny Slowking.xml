@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Shiny Slowking" nameDescription="a shiny slowking" race="psychic" experience="1100" speed="217" manacost="0">
+    <health now="150" max="150"/>
+  <look type="2275" head="40" body="60" legs="95" feet="113" corpse="20593"/>
+	<targetchange interval="2000" chance="0"/>
+<strategy attack="100" defense="0"/>
+  <flags>
+    <flag summonable="1"/>
+    <flag attackable="1"/>
+    <flag hostile="1"/>
+    <flag illusionable="1"/>
+    <flag convinceable="1"/>
+    <flag pushable="1"/>
+    <flag canpushitems="0"/>
+    <flag canpushcreatures="0"/>
+    <flag targetdistance="1"/>
+    <flag staticattack="90"/>
+    <flag runonhealth="0"/>
+   
+</flags>
+  <attacks>
+        <attack name="melee" interval="2000" chance="100" range="1" min="-50" max="-100"/>
+        <attack name="Yawn" interval="3040" chance="25" range="3"/>
+        <attack name="Confusion" interval="2805" chance="29" range="6"/>
+        <attack name="Headbutt" interval="2946" chance="31" range="2"/>
+        <attack name="Water Pulse" interval="2711" chance="28" range="3"/>
+	<attack name="Psychic" interval="2955" chance="29" range="6"/>
+	<attack name="Heal Pulse" interval="3105" chance="8" range="6"/>
+	<attack name="Calm Mind" interval="3105" chance="29" range="6"/>
+	<attack name="Scald" interval="3205" chance="31" range="2"/>
+	<attack name="Power Wave" interval="3105" chance="29" range="6"/>
+    </attacks>
+    <defenses armor="0" defense="0"/>
+  <voices interval="5000" chance="10">
+	<voice sentence="SLOOOW!"/>
+<voice sentence="KIING!"/>
+<voice sentence="SLOOWKING!"/>
+  </voices>
+   <loot>
+							       <item id="20904" chance="700" count="1" countmax="1"/> --sh Stone
+    </loot>
+    <script>
+        <event name="Spawn"/>
+    </script>
+</monster>

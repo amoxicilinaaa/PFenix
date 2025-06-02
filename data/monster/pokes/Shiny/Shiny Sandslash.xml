@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Shiny Sandslash" nameDescription="a Shiny sandslash" race="ground" experience="756" speed="289" manacost="0">
+    <health now="120" max="120"/>
+    <look type="3881" head="100" body="300" legs="95" feet="113" corpse="12687"/>
+    <targetchange interval="1000" chance="0"/>
+    <strategy attack="100" defense="0"/>
+    <flags>
+        <flag summonable="1"/>
+        <flag attackable="1"/>
+        <flag hostile="1"/>
+        <flag illusionable="1"/>
+        <flag convinceable="1"/>
+        <flag pushable="1"/>
+        <flag canpushitems="0"/>
+        <flag canpushcreatures="0"/>
+        <flag targetdistance="1"/>
+        <flag staticattack="97"/>
+        <flag runonhealth="0"/>
+        
+    </flags>
+    <attacks>
+        <attack name="melee" interval="2000" chance="100" range="1" min="-50" max="-100"/>
+        <attack name="Slash" interval="2664" chance="30" range="1"/>
+		<attack name="Defense Curl" interval="3510" chance="20" range="6"/>
+        <attack name="Rollout" interval="3510" chance="20" range="6"/>
+        <attack name="Magnitude" interval="2899" chance="15" range="3"/>
+        <attack name="Sand Tomb" interval="2758" chance="28" range="3"/>
+        <attack name="Sandstorm" interval="2658" chance="26" range="3"/>
+		<attack name="Earthquake" interval="4322" chance="15" range="6"/>
+    </attacks>
+    <defenses armor="0" defense="0"/>
+    <voices interval="5000" chance="10">
+        <voice sentence="SANDSLASH!"/>
+    </voices>
+    <loot>
+					   <item id="20904" chance="1500" count="1" countmax="1"/> --sh Stone
+			
+    </loot>
+    <script>
+        <event name="Spawn"/>
+    </script>
+</monster>
